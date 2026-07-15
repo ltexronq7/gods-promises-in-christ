@@ -1,0 +1,252 @@
+{
+  "books": [
+    {
+      "book": "Genesis",
+      "count": 76
+    },
+    {
+      "book": "Exodus",
+      "count": 41
+    },
+    {
+      "book": "Leviticus",
+      "count": 13
+    },
+    {
+      "book": "Numbers",
+      "count": 16
+    },
+    {
+      "book": "Deuteronomy",
+      "count": 64
+    },
+    {
+      "book": "Joshua",
+      "count": 13
+    },
+    {
+      "book": "Judges",
+      "count": 8
+    },
+    {
+      "book": "Ruth",
+      "count": 1
+    },
+    {
+      "book": "1 Samuel",
+      "count": 10
+    },
+    {
+      "book": "2 Samuel",
+      "count": 11
+    },
+    {
+      "book": "1 Kings",
+      "count": 12
+    },
+    {
+      "book": "2 Kings",
+      "count": 6
+    },
+    {
+      "book": "1 Chronicles",
+      "count": 8
+    },
+    {
+      "book": "2 Chronicles",
+      "count": 7
+    },
+    {
+      "book": "Ezra",
+      "count": 1
+    },
+    {
+      "book": "Nehemiah",
+      "count": 1
+    },
+    {
+      "book": "Job",
+      "count": 3
+    },
+    {
+      "book": "Psalm",
+      "count": 131
+    },
+    {
+      "book": "Proverbs",
+      "count": 16
+    },
+    {
+      "book": "Ecclesiastes",
+      "count": 2
+    },
+    {
+      "book": "Isaiah",
+      "count": 150
+    },
+    {
+      "book": "Jeremiah",
+      "count": 67
+    },
+    {
+      "book": "Lamentations",
+      "count": 3
+    },
+    {
+      "book": "Ezekiel",
+      "count": 45
+    },
+    {
+      "book": "Daniel",
+      "count": 8
+    },
+    {
+      "book": "Hosea",
+      "count": 7
+    },
+    {
+      "book": "Joel",
+      "count": 6
+    },
+    {
+      "book": "Amos",
+      "count": 3
+    },
+    {
+      "book": "Obadiah",
+      "count": 3
+    },
+    {
+      "book": "Jonah",
+      "count": 1
+    },
+    {
+      "book": "Micah",
+      "count": 5
+    },
+    {
+      "book": "Nahum",
+      "count": 1
+    },
+    {
+      "book": "Habakkuk",
+      "count": 3
+    },
+    {
+      "book": "Zephaniah",
+      "count": 5
+    },
+    {
+      "book": "Haggai",
+      "count": 6
+    },
+    {
+      "book": "Zechariah",
+      "count": 15
+    },
+    {
+      "book": "Malachi",
+      "count": 8
+    },
+    {
+      "book": "Matthew",
+      "count": 39
+    },
+    {
+      "book": "Mark",
+      "count": 9
+    },
+    {
+      "book": "Luke",
+      "count": 17
+    },
+    {
+      "book": "John",
+      "count": 44
+    },
+    {
+      "book": "Acts",
+      "count": 10
+    },
+    {
+      "book": "Romans",
+      "count": 21
+    },
+    {
+      "book": "1 Corinthians",
+      "count": 7
+    },
+    {
+      "book": "2 Corinthians",
+      "count": 10
+    },
+    {
+      "book": "Galatians",
+      "count": 5
+    },
+    {
+      "book": "Ephesians",
+      "count": 5
+    },
+    {
+      "book": "Philippians",
+      "count": 5
+    },
+    {
+      "book": "Colossians",
+      "count": 3
+    },
+    {
+      "book": "1 Thessalonians",
+      "count": 4
+    },
+    {
+      "book": "2 Thessalonians",
+      "count": 2
+    },
+    {
+      "book": "1 Timothy",
+      "count": 3
+    },
+    {
+      "book": "2 Timothy",
+      "count": 5
+    },
+    {
+      "book": "Titus",
+      "count": 3
+    },
+    {
+      "book": "Hebrews",
+      "count": 20
+    },
+    {
+      "book": "James",
+      "count": 7
+    },
+    {
+      "book": "1 Peter",
+      "count": 8
+    },
+    {
+      "book": "2 Peter",
+      "count": 5
+    },
+    {
+      "book": "1 John",
+      "count": 8
+    },
+    {
+      "book": "2 John",
+      "count": 1
+    },
+    {
+      "book": "Jude",
+      "count": 1
+    },
+    {
+      "book": "Revelation",
+      "count": 28
+    }
+  ]
+}

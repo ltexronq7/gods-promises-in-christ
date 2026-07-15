@@ -1,0 +1,428 @@
+{
+  "categories": [
+    {
+      "name": "Provision",
+      "count": 89
+    },
+    {
+      "name": "Presence",
+      "count": 88
+    },
+    {
+      "name": "Restoration",
+      "count": 82
+    },
+    {
+      "name": "Blessing",
+      "count": 73
+    },
+    {
+      "name": "Messiah",
+      "count": 69
+    },
+    {
+      "name": "Kingdom",
+      "count": 67
+    },
+    {
+      "name": "Faithfulness",
+      "count": 67
+    },
+    {
+      "name": "Mercy",
+      "count": 64
+    },
+    {
+      "name": "Covenant",
+      "count": 59
+    },
+    {
+      "name": "Protection",
+      "count": 56
+    },
+    {
+      "name": "Deliverance",
+      "count": 53
+    },
+    {
+      "name": "Salvation",
+      "count": 52
+    },
+    {
+      "name": "Victory",
+      "count": 47
+    },
+    {
+      "name": "Peace",
+      "count": 44
+    },
+    {
+      "name": "Prayer",
+      "count": 37
+    },
+    {
+      "name": "Land",
+      "count": 34
+    },
+    {
+      "name": "Reward",
+      "count": 32
+    },
+    {
+      "name": "Holy Spirit",
+      "count": 32
+    },
+    {
+      "name": "Healing",
+      "count": 30
+    },
+    {
+      "name": "Judgment",
+      "count": 27
+    },
+    {
+      "name": "Resurrection",
+      "count": 27
+    },
+    {
+      "name": "Inheritance",
+      "count": 26
+    },
+    {
+      "name": "Life",
+      "count": 26
+    },
+    {
+      "name": "Strength",
+      "count": 25
+    },
+    {
+      "name": "Eternal Life",
+      "count": 25
+    },
+    {
+      "name": "Redemption",
+      "count": 23
+    },
+    {
+      "name": "Forgiveness",
+      "count": 23
+    },
+    {
+      "name": "Joy",
+      "count": 22
+    },
+    {
+      "name": "Comfort",
+      "count": 22
+    },
+    {
+      "name": "Second Coming",
+      "count": 22
+    },
+    {
+      "name": "Justice",
+      "count": 21
+    },
+    {
+      "name": "Guidance",
+      "count": 19
+    },
+    {
+      "name": "Nation",
+      "count": 18
+    },
+    {
+      "name": "Glory",
+      "count": 17
+    },
+    {
+      "name": "Security",
+      "count": 17
+    },
+    {
+      "name": "Wisdom",
+      "count": 16
+    },
+    {
+      "name": "Sanctification",
+      "count": 13
+    },
+    {
+      "name": "Love",
+      "count": 13
+    },
+    {
+      "name": "Grace",
+      "count": 11
+    },
+    {
+      "name": "Honor",
+      "count": 11
+    },
+    {
+      "name": "Hope",
+      "count": 10
+    },
+    {
+      "name": "Cleansing",
+      "count": 9
+    },
+    {
+      "name": "New Creation",
+      "count": 9
+    },
+    {
+      "name": "Power",
+      "count": 9
+    },
+    {
+      "name": "Adoption",
+      "count": 9
+    },
+    {
+      "name": "Rest",
+      "count": 8
+    },
+    {
+      "name": "Prophecy",
+      "count": 7
+    },
+    {
+      "name": "Identity",
+      "count": 7
+    },
+    {
+      "name": "New Heart",
+      "count": 7
+    },
+    {
+      "name": "Refuge",
+      "count": 7
+    },
+    {
+      "name": "Justification",
+      "count": 7
+    },
+    {
+      "name": "New Covenant",
+      "count": 7
+    },
+    {
+      "name": "Commission",
+      "count": 6
+    },
+    {
+      "name": "Priesthood",
+      "count": 6
+    },
+    {
+      "name": "Atonement",
+      "count": 6
+    },
+    {
+      "name": "Compassion",
+      "count": 6
+    },
+    {
+      "name": "Satisfaction",
+      "count": 6
+    },
+    {
+      "name": "Perseverance",
+      "count": 6
+    },
+    {
+      "name": "Revelation",
+      "count": 5
+    },
+    {
+      "name": "Family",
+      "count": 5
+    },
+    {
+      "name": "Preservation",
+      "count": 5
+    },
+    {
+      "name": "Exaltation",
+      "count": 5
+    },
+    {
+      "name": "Care",
+      "count": 5
+    },
+    {
+      "name": "Worship",
+      "count": 5
+    },
+    {
+      "name": "The Cross",
+      "count": 5
+    },
+    {
+      "name": "Goodness",
+      "count": 4
+    },
+    {
+      "name": "Providence",
+      "count": 3
+    },
+    {
+      "name": "Righteousness",
+      "count": 3
+    },
+    {
+      "name": "Fruitfulness",
+      "count": 3
+    },
+    {
+      "name": "Favor",
+      "count": 3
+    },
+    {
+      "name": "Nations",
+      "count": 3
+    },
+    {
+      "name": "Access",
+      "count": 3
+    },
+    {
+      "name": "Multiplication",
+      "count": 3
+    },
+    {
+      "name": "Acceptance",
+      "count": 3
+    },
+    {
+      "name": "Faith",
+      "count": 3
+    },
+    {
+      "name": "Acknowledgment",
+      "count": 3
+    },
+    {
+      "name": "Glorification",
+      "count": 3
+    },
+    {
+      "name": "Help",
+      "count": 2
+    },
+    {
+      "name": "Discipline",
+      "count": 2
+    },
+    {
+      "name": "Remnant",
+      "count": 2
+    },
+    {
+      "name": "Light",
+      "count": 2
+    },
+    {
+      "name": "Harvest",
+      "count": 2
+    },
+    {
+      "name": "Eschatology",
+      "count": 2
+    },
+    {
+      "name": "Substitution",
+      "count": 2
+    },
+    {
+      "name": "Authority",
+      "count": 2
+    },
+    {
+      "name": "Freedom",
+      "count": 2
+    },
+    {
+      "name": "Truth",
+      "count": 2
+    },
+    {
+      "name": "Heaven",
+      "count": 2
+    },
+    {
+      "name": "Fellowship",
+      "count": 2
+    },
+    {
+      "name": "Sign",
+      "count": 1
+    },
+    {
+      "name": "Continuity",
+      "count": 1
+    },
+    {
+      "name": "Sovereignty",
+      "count": 1
+    },
+    {
+      "name": "Fatherhood",
+      "count": 1
+    },
+    {
+      "name": "Knowledge of God",
+      "count": 1
+    },
+    {
+      "name": "Unity",
+      "count": 1
+    },
+    {
+      "name": "Election",
+      "count": 1
+    },
+    {
+      "name": "Messiah (line)",
+      "count": 1
+    },
+    {
+      "name": "Repentance",
+      "count": 1
+    },
+    {
+      "name": "Church",
+      "count": 1
+    },
+    {
+      "name": "Transformation",
+      "count": 1
+    },
+    {
+      "name": "Gathering",
+      "count": 1
+    },
+    {
+      "name": "Abundance",
+      "count": 1
+    },
+    {
+      "name": "Intercession",
+      "count": 1
+    },
+    {
+      "name": "Promises",
+      "count": 1
+    },
+    {
+      "name": "Advocacy",
+      "count": 1
+    },
+    {
+      "name": "Union",
+      "count": 1
+    }
+  ]
+}

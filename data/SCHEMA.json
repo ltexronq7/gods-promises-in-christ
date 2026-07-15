@@ -1,0 +1,19 @@
+{
+  "record_description": "One object per biblical promise.",
+  "fields": {
+    "id": "Integer. Stable, permanent identifier. Never renumbered.",
+    "promise": "String. Original paraphrase of the promise in the compiler's own words.",
+    "reference": "String. Scripture citation in 'Book Chapter:Verse' form, NKJV versification.",
+    "book": "String. Bible book name.",
+    "chapter": "Integer. Chapter number.",
+    "verse_start": "Integer. First verse of the reference range.",
+    "verse_end": "Integer. Last verse of the range (equals verse_start for single verses).",
+    "speaker": "String. Primary speaker of the promise (e.g. 'God', 'Angel of the LORD').",
+    "speaker_note": "String or null. Mediator/qualifier, e.g. 'through Isaiah', 'by oath'.",
+    "recipient": "String. Who the promise is spoken to or concerns.",
+    "categories": "Array of strings. Normalized theme tags.",
+    "category_raw": "String. Original combined theme label as authored (e.g. 'Nation / Kingdom').",
+    "conditional": "Boolean. true = a human condition is stated in the text.",
+    "volume": "Integer. Source compilation volume (1 or 2)."
+  }
+}

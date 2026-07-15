@@ -1,0 +1,119 @@
+# The Complete Index of God's Promises in Scripture
+
+A structured, open dataset of **1,046 promises** spanning Genesis to Revelation, together with a complete KJV Obsidian vault that shows how the books of Scripture connect to Jesus Christ.
+
+Built to spread the Word and equip the Church with a free, reusable tool for study, teaching, and building.
+
+> *"For all the promises of God in Him are Yes, and in Him Amen, to the glory of God through us."* — 2 Corinthians 1:20 (NKJV)
+
+## Start here
+
+- Browse the promise index in [`data/promises.json`](data/promises.json), or open [`demo/index.html`](demo/index.html) locally to search and filter it.
+- Begin the Bible vault at [`vault/00 Start Here.md`](vault/00%20Start%20Here.md).
+- Visit [`vault/Jesus Christ.md`](vault/Jesus%20Christ.md) to see the central message of the vault.
+- Use [`vault/INDEX.md`](vault/INDEX.md) when browsing on GitHub, or open `vault/` in Obsidian for the full graph view.
+
+## The vault: all Scripture points to Jesus
+
+The `vault/` folder is a complete KJV Bible organized as an Obsidian vault. Every biblical book connects to the central **Jesus Christ** note, and cross-book links show patterns of promise, prophecy, fulfillment, the Cross, the Resurrection, and Christ's return.
+
+To experience it as intended, download the repository, open Obsidian, choose **Open folder as vault**, and select the `vault` folder. Then open Graph View. No Obsidian account or third-party plugin is required.
+
+The vault's study introductions express a Christ-centered evangelical reading of Scripture. The biblical text and the editorial study material are kept visually distinct so readers can evaluate the connections from Scripture itself.
+
+## What's inside
+
+| File | Description |
+|------|-------------|
+| `data/promises.json` | Canonical dataset — one object per promise, fully structured |
+| `data/promises.csv` | Same data as a spreadsheet-friendly CSV |
+| `data/categories.json` | All 106 themes with counts |
+| `data/books.json` | All 62 books with promise counts, in canonical order |
+| `data/SCHEMA.json` | Data dictionary — what every field means |
+| `demo/index.html` | Standalone search/filter page — open it in any browser, no server needed |
+| `sources/` | The original master-index spreadsheet, kept for provenance |
+| `vault/` | Complete KJV book notes, Christ-centered introductions, hubs, and cross-links |
+| `CONTRIBUTING.md` | How to propose fixes and additions |
+| `SECURITY.md` | How to report a security or privacy concern without exposing it publicly |
+
+## The numbers
+
+- **1,046** promises indexed
+- **62** books of Scripture represented
+- **106** distinct themes (Provision, Presence, Messiah, Covenant, Mercy…)
+- **723** unconditional / **323** conditional
+
+## Data shape
+
+Each promise looks like this:
+
+```json
+{
+  "id": 55,
+  "promise": "In Abraham's Seed all nations of the earth shall be blessed",
+  "reference": "Genesis 22:18",
+  "book": "Genesis",
+  "chapter": 22,
+  "verse_start": 18,
+  "verse_end": 18,
+  "speaker": "God",
+  "speaker_note": null,
+  "recipient": "All nations",
+  "categories": ["Messiah"],
+  "category_raw": "Messiah",
+  "conditional": false,
+  "volume": 1
+}
+```
+
+Fields:
+
+- **id** — stable, permanent number. Cite `promise #55` forever; it won't renumber.
+- **reference / book / chapter / verse_start / verse_end** — parsed so you can sort canonically or join to other Bible datasets.
+- **speaker / speaker_note** — the primary speaker (e.g. `God`) split from the mediator note (e.g. `through Isaiah`).
+- **categories** — normalized array. The original compound tag (`Nation / Kingdom`) is preserved in `category_raw`.
+- **conditional** — boolean. `true` = the promise carries a stated condition.
+
+## Try it
+
+Open `demo/index.html` in your browser. Search by word, filter by theme, speaker, or conditional status. Everything runs locally — no internet, no build step.
+
+## Methodology & editorial decisions
+
+- **Translation basis:** Promise summaries are original paraphrases; references follow **NKJV** versification.
+- **What counts as a "promise":** A declared commitment, oath, or assured word from God (or His messenger) about what He will do. Some entries include pronouncements of judgment where God pledges a specific outcome.
+- **Conditional vs. unconditional:** "Conditional" marks promises with a stated human condition ("if you obey…"). Absence of a stated condition is marked "unconditional" — this is a classification of the text's *form*, not a theological claim about God's sovereignty.
+- **Compound themes:** Where a promise carries more than one theme, all are listed in `categories`; the original combined label is kept in `category_raw`.
+- Reasonable people will classify some edge cases differently. Issues and pull requests are welcome.
+
+## Use it in your own project
+
+**Python**
+```python
+import json
+promises = json.load(open("data/promises.json"))
+messiah = [p for p in promises if "Messiah" in p["categories"]]
+print(len(messiah), "Messianic promises")
+```
+
+**JavaScript**
+```js
+const promises = await fetch("data/promises.json").then(r => r.json());
+const unconditional = promises.filter(p => !p.conditional);
+```
+
+**Spreadsheet** — just open `data/promises.csv` in Excel, Google Sheets, or Numbers and filter away.
+
+## License
+
+**CC0 1.0 (public domain dedication).** The original promise summaries, classifications, indexes, and project code are dedicated to the public domain. See [`LICENSE`](LICENSE).
+
+The full Bible text in the vault is the King James Version. The KJV is generally treated as public domain in the United States; different rights or restrictions may apply in other countries, including the United Kingdom. The repository contains no full NKJV text—only references and original promise summaries based on those references.
+
+## Privacy and security
+
+Everything committed to a public repository can be copied permanently. Do not contribute personal journals, private prayer requests, contact details, credentials, `.env` files, private keys, or Obsidian workspace/session files. Review [`SECURITY.md`](SECURITY.md) before reporting a sensitive problem.
+
+## Contributing
+
+Found a promise that should be added, a classification worth revisiting, or a reference typo? Open an issue or a pull request.
