@@ -8,10 +8,11 @@ Built to spread the Word and equip the Church with a free, reusable tool for stu
 
 ## Start here
 
-- Browse the promise index in [`data/promises.json`](data/promises.json), or open [`demo/index.html`](demo/index.html) locally to search and filter it.
-- Begin the Bible vault at [`vault/00 Start Here.md`](vault/00%20Start%20Here.md).
+- **Use the live ministry site:** [search the promises, search the complete KJV, and read all 66 books](https://ltexronq7.github.io/gods-promises-in-christ/).
+- Browse the underlying promise index in [`data/promises.json`](data/promises.json).
+- Begin the downloadable Obsidian vault at [`vault/00 Start Here.md`](vault/00%20Start%20Here.md).
 - Visit [`vault/Jesus Christ.md`](vault/Jesus%20Christ.md) to see the central message of the vault.
-- Use [`vault/INDEX.md`](vault/INDEX.md) when browsing on GitHub, or open `vault/` in Obsidian for the full graph view.
+- Use [`vault/INDEX.md`](vault/INDEX.md) as the vault directory, or open `vault/` in Obsidian for the full graph view.
 
 ## The vault: all Scripture points to Jesus
 
@@ -30,7 +31,9 @@ The vault's study introductions express a Christ-centered evangelical reading of
 | `data/categories.json` | All 106 themes with counts |
 | `data/books.json` | All 62 books with promise counts, in canonical order |
 | `data/SCHEMA.json` | Data dictionary — what every field means |
-| `demo/index.html` | Standalone search/filter page — open it in any browser, no server needed |
+| `index.html` | Main public ministry site with promise search, full-KJV search, Bible reader, and vault navigation |
+| `assets/` | Website styles and browser code |
+| `data/kjv-web.json` | Generated browser-friendly KJV and Christ-in-each-book study data |
 | `sources/` | The original master-index spreadsheet, kept for provenance |
 | `vault/` | Complete KJV book notes, Christ-centered introductions, hubs, and cross-links |
 | `CONTRIBUTING.md` | How to propose fixes and additions |
@@ -76,7 +79,7 @@ Fields:
 
 ## Try it
 
-Open `demo/index.html` in your browser. Search by word, filter by theme, speaker, or conditional status. Everything runs locally — no internet, no build step.
+Visit the [live searchable site](https://ltexronq7.github.io/gods-promises-in-christ/). Search the curated promises by word, theme, or book; switch to **Full KJV** to search all 31,102 verses; or use the Bible reader to browse every book and chapter.
 
 ## Methodology & editorial decisions
 

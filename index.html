@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Search 1,046 biblical promises, read the complete KJV, and explore how all Scripture points to Jesus Christ.">
+  <meta name="theme-color" content="#07182b">
+  <title>God’s Promises in Christ | Search the KJV and Explore the Vault</title>
+  <link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav" aria-label="Main navigation">
+      <a class="brand" href="#top"><span class="brand-mark" aria-hidden="true">✦</span><span>God’s Promises in Christ</span></a>
+      <div class="nav-links"><a href="#search">Search</a><a href="#bible">Read KJV</a><a href="#vault">Explore the Vault</a><a href="#ministry">For Ministry</a></div>
+    </nav>
+  </header>
+
+  <section class="hero" id="top">
+    <div class="hero-inner">
+      <p class="eyebrow">The complete King James Bible · Free to explore</p>
+      <h1>Every promise finds its Yes in Jesus.</h1>
+      <p class="hero-copy">Search 1,046 promises, read all 66 books of the KJV, and trace the connections that lead through the Cross, the Resurrection, and the returning King.</p>
+      <p class="scripture">“For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.” — 2 Corinthians 1:20</p>
+      <div class="hero-actions"><a class="button button-primary" href="#search">Search the promises</a><a class="button button-secondary" href="#bible">Read the KJV</a></div>
+    </div>
+  </section>
+
+  <div class="stats" aria-label="Project totals">
+    <div class="stat"><strong>1,046</strong><span>indexed promises</span></div>
+    <div class="stat"><strong>66</strong><span>Bible books</span></div>
+    <div class="stat"><strong>31,102</strong><span>KJV verses</span></div>
+    <div class="stat"><strong>One Savior</strong><span>Jesus Christ</span></div>
+  </div>
+
+  <main id="main">
+    <section class="section" id="search">
+      <div class="section-heading"><p class="eyebrow">Begin your study</p><h2>Search Scripture and its promises</h2><p>Search the curated promise index or switch to the complete KJV text. Filter by book and ministry theme.</p></div>
+      <div class="search-shell">
+        <div class="search-bar"><label><span class="skip-link">Search</span><input class="search-input" id="global-search" type="search" placeholder="Search promises, themes, people, or references…" autocomplete="off"></label><div class="tabs" role="tablist" aria-label="Search scope"><button class="tab" data-scope="promises" role="tab" aria-selected="true">Promises</button><button class="tab" data-scope="bible" role="tab" aria-selected="false">Full KJV</button></div></div>
+        <div class="filters"><label><span class="skip-link">Filter by book</span><select id="search-book-filter"><option>Loading books…</option></select></label><label><span class="skip-link">Filter by theme</span><select id="category-filter"><option>Loading themes…</option></select></label></div>
+        <div class="results-meta" id="results-meta" aria-live="polite">Loading the promise index…</div>
+        <div class="results" id="results"><div class="loading">Preparing the searchable index…</div></div>
+      </div>
+    </section>
+
+    <section class="section" id="bible">
+      <div class="section-heading"><p class="eyebrow">Read the Word</p><h2>The complete King James Bible</h2><p>Choose any book and chapter. Each book begins with a concise guide to how it bears witness to Jesus Christ.</p></div>
+      <div class="reader">
+        <div class="reader-controls"><strong>Choose a passage</strong><label for="reader-book">Book</label><select id="reader-book"><option>Loading…</option></select><label for="reader-chapter">Chapter</label><select id="reader-chapter"><option>Loading…</option></select></div>
+        <article class="reader-content" id="reader-content"><div class="loading">Loading the KJV reader…</div></article>
+      </div>
+    </section>
+
+    <section class="section" id="vault">
+      <div class="section-heading"><p class="eyebrow">The Bible as one story</p><h2>Explore the Jesus-centered vault</h2><p>The Obsidian graph shows all 66 books gathered around Jesus Christ. On the web, use the book directory below; in Obsidian, download the repository for the full visual graph.</p></div>
+      <div class="vault-grid">
+        <article class="vault-card featured"><h3>Jesus Christ: the center</h3><p>“Beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.” The vault traces promise and fulfillment, sacrifice and atonement, kingship and kingdom, the Cross and the empty tomb.</p></article>
+        <article class="vault-card"><h3>Promise and fulfillment</h3><p>Move from Old Testament anticipation to New Testament revelation while keeping each passage in its biblical setting.</p></article>
+        <article class="vault-card"><h3>For Obsidian users</h3><p>Download the repository, open the <strong>vault</strong> folder as an Obsidian vault, then open Graph View to see every book connected to Christ.</p></article>
+        <article class="vault-card"><h3>For ordinary web visitors</h3><p>No software is required. Select a book below to read its Christ-centered introduction and complete KJV text.</p></article>
+      </div>
+      <div class="book-grid" id="vault-books" aria-label="All Bible books"><div class="loading">Loading book directory…</div></div>
+    </section>
+
+    <section class="section" id="ministry">
+      <div class="section-heading"><p class="eyebrow">Use it freely</p><h2>Built to serve the Church</h2><p>Use the promise index for personal study, discipleship, teaching preparation, small groups, handouts, or building new tools.</p></div>
+      <div class="ministry-note"><strong>Study responsibly.</strong> Promise summaries, categories, and “Christ in this book” introductions are editorial study aids, not replacements for reading Scripture in context. Distinguish promises addressed to particular people or covenants from universal commands and assurances. Test every teaching from the biblical text.</div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><p><strong>God’s Promises in Christ</strong> · Free and open for study and ministry</p><p><a href="https://github.com/ltexronq7/gods-promises-in-christ">View the source on GitHub</a> · KJV text is generally public domain in the United States; restrictions may apply elsewhere.</p></footer>
+  <script src="./assets/app.js" defer></script>
+</body>
+</html>
