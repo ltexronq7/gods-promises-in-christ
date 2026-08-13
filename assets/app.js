@@ -9,11 +9,14 @@ const state = {
   theme: '',
   bookFilter: '',
   focus: 0,             // a single promise id, when one was linked to directly
+  results: [],          // every match for the current search, not just the drawn ones
+  shown: 0,             // how many of them have been drawn
   book: '',
   chapter: 1,
   readerStarted: false
 };
 const SITE_TITLE = 'God’s Promises in Christ';
+const PAGE_SIZE = 200;
 const $ = (selector) => document.querySelector(selector);
 const escapeHtml = (value = '') => String(value).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const normalize = (value = '') => value.toLowerCase().replace(/[^a-z0-9\s]/g, ' ');
@@ -185,6 +188,7 @@ let renderToken = 0;
 async function renderSearch() {
   const token = ++renderToken;
   $('#category-filter').hidden = state.scope !== 'promises';
+  $('#results-more').hidden = true;
 
   if (state.focus) return renderFocusedPromise();
 
@@ -202,11 +206,47 @@ async function renderSearch() {
   }
 
   if (token !== renderToken) return;
-  const shown = results.slice(0, 200);
-  $('#results-meta').textContent = `${shown.length}${results.length > 200 ? '+' : ''} ${state.scope === 'promises' ? 'promise' : 'verse'} result${shown.length === 1 ? '' : 's'}`;
-  $('#results').innerHTML = shown.length
-    ? shown.map(item => state.scope === 'promises' ? promiseCard(item) : verseCard(item)).join('')
+  state.results = results;
+  state.shown = 0;
+  $('#results').innerHTML = results.length
+    ? ''
     : '<div class="empty">No matches found. Try fewer words or a different filter.</div>';
+  showMoreResults();
+}
+
+/**
+ * Draw the next page of results.
+ *
+ * Only a page at a time reaches the DOM — a common word can match thousands
+ * of verses, and building all of those cards at once would lock the page up.
+ * The count in the heading is always the true total, so the number you see is
+ * the number that matched, whether or not it has been drawn yet.
+ */
+function showMoreResults() {
+  const total = state.results.length;
+  const next = state.results.slice(state.shown, state.shown + PAGE_SIZE);
+  const card = state.scope === 'promises' ? promiseCard : verseCard;
+  if (next.length) $('#results').insertAdjacentHTML('beforeend', next.map(card).join(''));
+  state.shown += next.length;
+
+  const noun = state.scope === 'promises' ? 'promise' : 'verse';
+  $('#results-meta').textContent = !total
+    ? `No matching ${noun}s`
+    : state.shown < total
+      ? `Showing ${state.shown.toLocaleString()} of ${total.toLocaleString()} ${noun}s`
+      : `${total.toLocaleString()} ${noun}${total === 1 ? '' : 's'}`;
+  renderMoreButton(total - state.shown);
+}
+
+/** The button is never replaced, only relabelled, so keyboard focus survives a click. */
+function renderMoreButton(remaining) {
+  $('#results-more').hidden = remaining <= 0;
+  if (remaining <= 0) return;
+  const batch = Math.min(remaining, PAGE_SIZE);
+  $('#show-more').textContent = `Show ${batch.toLocaleString()} more`;
+  const hint = $('#results-hint');
+  hint.hidden = remaining <= batch;
+  hint.textContent = hint.hidden ? '' : `${remaining.toLocaleString()} more match. Adding another word narrows the search.`;
 }
 
 /** A link straight to one promise, e.g. ?promise=55 */
@@ -364,6 +404,10 @@ document.addEventListener('click', event => {
   if (bookLink) {
     event.preventDefault();
     openBook(bookLink.dataset.openBook, bookLink.dataset.openChapter);
+    return;
+  }
+  if (event.target.id === 'show-more') {
+    showMoreResults();
     return;
   }
   if (event.target.id === 'clear-focus') {

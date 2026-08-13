@@ -85,6 +85,8 @@ Fields:
 
 Visit the [live searchable site](https://ltexronq7.github.io/gods-promises-in-christ/). Search the curated promises by word, theme, or book; switch to **Full KJV** to search all 31,102 verses; or use the Bible reader to browse every book and chapter.
 
+Searches report how many matches there really are — searching the KJV for "lord" says *6,782 verses*, not a rounded-off "200+" — and results are drawn a page at a time, so nothing is out of reach. Where a result set is large enough that reading it all is unlikely to be what you want, the page says how many are left and suggests narrowing the search.
+
 ## Methodology & editorial decisions
 
 - **Translation basis:** Promise summaries are original paraphrases; references follow **NKJV** versification.

@@ -74,6 +74,10 @@ main { max-width: 1180px; margin: auto; padding: 3rem 1.2rem 5rem; }
 .result-card p { margin: .35rem 0 0; }
 .result-details { margin-top: .45rem; color: var(--muted); font-size: .86rem; }
 .empty { padding: 2rem 1rem; color: var(--muted); text-align: center; }
+.results-more { padding: 0 1rem 1.25rem; text-align: center; }
+.show-more { min-height: 2.6rem; padding: .6rem 1.4rem; border: 1px solid var(--line); border-radius: .5rem; background: white; color: var(--navy); font-weight: 750; }
+.show-more:hover, .show-more:focus { border-color: var(--gold); background: #fffbf1; }
+.results-hint { margin: .6rem 0 0; color: var(--muted); font-size: .88rem; }
 
 .reader { display: grid; grid-template-columns: 270px 1fr; gap: 1rem; }
 .reader-controls { background: var(--navy); color: white; padding: 1rem; border-radius: .75rem; align-self: start; position: sticky; top: 5.2rem; }
