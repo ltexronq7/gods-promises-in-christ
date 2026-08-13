@@ -34,6 +34,9 @@ The vault's study introductions express a Christ-centered evangelical reading of
 | `index.html` | Main public ministry site with promise search, full-KJV search, Bible reader, and vault navigation |
 | `assets/` | Website styles and browser code |
 | `data/kjv-web.json` | Generated browser-friendly KJV and Christ-in-each-book study data |
+| `scripts/verify_promises.py` | Checks every promise against the KJV text and the derived files |
+| `scripts/build_derived.py` | Rebuilds `promises.csv`, `books.json`, and `categories.json` from `promises.json` |
+| `scripts/generate_web_data.py` | Rebuilds `kjv-web.json` from the Obsidian vault notes |
 | `sources/` | The original master-index spreadsheet, kept for provenance |
 | `vault/` | Complete KJV book notes, Christ-centered introductions, hubs, and cross-links |
 | `CONTRIBUTING.md` | How to propose fixes and additions |
@@ -88,6 +91,20 @@ Visit the [live searchable site](https://ltexronq7.github.io/gods-promises-in-ch
 - **Conditional vs. unconditional:** "Conditional" marks promises with a stated human condition ("if you obey…"). Absence of a stated condition is marked "unconditional" — this is a classification of the text's *form*, not a theological claim about God's sovereignty.
 - **Compound themes:** Where a promise carries more than one theme, all are listed in `categories`; the original combined label is kept in `category_raw`.
 - Reasonable people will classify some edge cases differently. Issues and pull requests are welcome.
+
+## Verification
+
+The index is machine-checked against the full KJV text shipped in this repository:
+
+```bash
+python3 scripts/verify_promises.py
+```
+
+Every promise is verified for a unique and permanent `id`, a `reference` string that agrees with its parsed `book`/`chapter`/`verse_start`/`verse_end` fields, a book name that resolves to a real book of the Bible, a chapter and verse range that actually exists in that book, well-formed themes and classification fields, and agreement with `promises.csv`, `books.json`, and `categories.json`.
+
+All 1,046 promises currently pass with no errors. The check runs on every pull request, so a bad reference can't land silently.
+
+One note on versification: reference numbering follows the **NKJV**, while the text checked against is the **KJV**. The two share the same chapter and verse numbering throughout the passages indexed here, so the bounds check is sound — but the KJV wording will differ from the NKJV wording a summary was based on, which is expected and is why wording differences are reported as warnings rather than errors.
 
 ## Use it in your own project
 
