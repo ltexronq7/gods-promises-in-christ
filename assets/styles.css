@@ -87,6 +87,10 @@ main { max-width: 1180px; margin: auto; padding: 3rem 1.2rem 5rem; }
 .reader-content h3 { color: var(--navy); font-size: 2rem; margin-top: 0; }
 .book-intro { background: var(--gold-soft); border-radius: .6rem; padding: 1rem; margin-bottom: 1.25rem; }
 .book-intro strong { color: #74520c; }
+.chapter-promises { border: 1px solid var(--line); border-left: 4px solid var(--gold); border-radius: .6rem; padding: .85rem 1rem; margin-bottom: 1.25rem; font-size: .93rem; }
+.chapter-promises strong { color: var(--navy); }
+.chapter-promises ul { margin: .5rem 0 0; padding-left: 1.1rem; display: grid; gap: .3rem; }
+.chapter-promises li { color: var(--muted); }
 .verse { display: inline; }
 .verse-number { color: #976f1f; font-size: .72em; font-weight: 850; vertical-align: super; margin-right: .2rem; }
 

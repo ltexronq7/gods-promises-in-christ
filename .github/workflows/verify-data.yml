@@ -30,6 +30,16 @@ jobs:
             exit 1
           fi
 
+      - name: Confirm the vault's promise sections are in sync with promises.json
+        run: |
+          python3 scripts/build_vault_promises.py
+          if ! git diff --quiet -- vault/; then
+            echo "::error::The 'Promises in <Book>' sections in vault/ are out of date."
+            echo "Run 'python3 scripts/build_vault_promises.py' and commit the result."
+            git --no-pager diff --stat -- vault/
+            exit 1
+          fi
+
       - name: Confirm the generated Bible data is in sync with the vault
         run: |
           python3 scripts/generate_web_data.py

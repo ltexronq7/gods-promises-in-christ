@@ -24,6 +24,10 @@ Paul asked Philemon to receive a runaway as a brother. Who is your Onesimus — 
 ## Connections
 [[Colossians]]
 
+## Promises in Philemon
+
+The promise index does not currently include entries from this book.
+
 ## Text (KJV)
 
 ### Philemon 1

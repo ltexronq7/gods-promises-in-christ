@@ -24,6 +24,16 @@ Having begun in the Spirit, are you now being made perfect by the flesh? You did
 ## Connections
 [[Genesis]] · [[Deuteronomy]] · [[Habakkuk]] · [[Leviticus]] · [[Isaiah]]
 
+## Promises in Galatians
+
+**5 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Galatians) — 1 unconditional, 4 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#934**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=934) · [[Galatians#Galatians 3|Galatians 3:8]] — The Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel to Abraham beforehand: In you all the nations shall be blessed *(Justification · Blessing · unconditional)*
+- [**#935**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=935) · [[Galatians#Galatians 3|Galatians 3:14]] — The blessing of Abraham comes upon the Gentiles in Christ Jesus, that we might receive the promise of the Spirit through faith *(Holy Spirit · Blessing · conditional)*
+- [**#936**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=936) · [[Galatians#Galatians 3|Galatians 3:26-29]] — You are all sons of God through faith in Christ Jesus; if you are Christ's, then you are Abraham's seed, and heirs according to the promise *(Adoption · Inheritance · conditional)*
+- [**#937**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=937) · [[Galatians#Galatians 6|Galatians 6:8]] — He who sows to the Spirit will of the Spirit reap everlasting life *(Eternal Life · conditional)*
+- [**#938**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=938) · [[Galatians#Galatians 6|Galatians 6:9]] — Let us not grow weary while doing good, for in due season we shall reap if we do not lose heart *(Reward · Harvest · conditional)*
+
 ## Text (KJV)
 
 ### Galatians 1

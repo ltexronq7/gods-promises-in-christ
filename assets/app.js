@@ -316,8 +316,20 @@ async function renderReader() {
   const verses = data.text[chapter - 1] || [];
   $('#reader-content').innerHTML = `<h3>${escapeHtml(book)} ${chapter}</h3>
     ${data.christ ? `<div class="book-intro"><strong>Jesus Christ in ${escapeHtml(book)}</strong><br>${escapeHtml(data.christ)}</div>` : ''}
+    ${chapterPromises(book, chapter)}
     <div class="chapter-text">${verses.map((text, i) => `<span class="verse"><sup class="verse-number">${i + 1}</sup>${escapeHtml(text)} </span>`).join('')}</div>`;
   updateTitle();
+}
+
+/** The indexed promises that fall in the chapter being read, if any. */
+function chapterPromises(book, chapter) {
+  const found = state.promises
+    .filter(p => canonicalBook(p.book) === book && p.chapter === chapter)
+    .sort((a, b) => a.verse_start - b.verse_start || a.id - b.id);
+  if (!found.length) return '';
+  const items = found.map(p =>
+    `<li><a class="ref-link" href="${promiseUrl(p.id)}" data-focus-promise="${p.id}">#${p.id}</a> · ${escapeHtml(p.reference)} — ${escapeHtml(p.promise)}</li>`).join('');
+  return `<div class="chapter-promises"><strong>${found.length === 1 ? 'One indexed promise' : `${found.length} indexed promises`} in this chapter</strong><ul>${items}</ul></div>`;
 }
 
 /** Hold the reader until the visitor actually goes looking for it. */

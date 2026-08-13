@@ -24,6 +24,12 @@ Jude wanted to write about salvation and had to write about contending. Sometime
 ## Connections
 [[2 Peter]] · [[Genesis]] · [[Numbers]] · [[Zechariah]] · [[Deuteronomy]]
 
+## Promises in Jude
+
+**1 promise** from this book is indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Jude) — 1 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#1018**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1018) · [[Jude#Jude 1|Jude 1:24]] — He is able to keep you from stumbling and to present you faultless before the presence of His glory with exceeding joy *(Security · Glorification · unconditional)*
+
 ## Text (KJV)
 
 ### Jude 1

@@ -24,6 +24,13 @@ Some in Thessalonica quit their jobs to wait for the Lord. Watching for Christ n
 ## Connections
 [[1 Thessalonians]] · [[Daniel]]
 
+## Promises in 2 Thessalonians
+
+**2 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=2+Thessalonians) — 2 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#956**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=956) · [[2 Thessalonians#2 Thessalonians 1|2 Thessalonians 1:6-7]] — It is a righteous thing with God to repay with tribulation those who trouble you, and to give you who are troubled rest when the Lord Jesus is revealed from heaven *(Justice · Rest · unconditional)*
+- [**#957**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=957) · [[2 Thessalonians#2 Thessalonians 3|2 Thessalonians 3:3]] — The Lord is faithful, who will establish you and guard you from the evil one *(Faithfulness · Protection · unconditional)*
+
 ## Text (KJV)
 
 ### 2 Thessalonians 1

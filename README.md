@@ -20,6 +20,8 @@ The `vault/` folder is a complete KJV Bible organized as an Obsidian vault. Ever
 
 To experience it as intended, download the repository, open Obsidian, choose **Open folder as vault**, and select the `vault` folder. Then open Graph View. No Obsidian account or third-party plugin is required.
 
+Every book note also carries a **Promises in \<Book\>** section listing the promises indexed from that book. Each entry links down to the chapter in the same note, so the index is usable inside Obsidian and not only on the website, and each promise number links to its permanent address on the live site. The website closes the same loop from the other side: the reader names the indexed promises that fall in the chapter you are reading.
+
 The vault's study introductions express a Christ-centered evangelical reading of Scripture. The biblical text and the editorial study material are kept visually distinct so readers can evaluate the connections from Scripture itself.
 
 ## What's inside
@@ -37,6 +39,7 @@ The vault's study introductions express a Christ-centered evangelical reading of
 | `data/bible/` | The same text split one file per book, plus a small index — this is what the website loads on demand |
 | `scripts/verify_promises.py` | Checks every promise against the KJV text and the derived files |
 | `scripts/build_derived.py` | Rebuilds `promises.csv`, `books.json`, and `categories.json` from `promises.json` |
+| `scripts/build_vault_promises.py` | Writes each book's promises into that book's vault note |
 | `scripts/generate_web_data.py` | Rebuilds `kjv-web.json` from the Obsidian vault notes |
 | `sources/` | The original master-index spreadsheet, kept for provenance |
 | `vault/` | Complete KJV book notes, Christ-centered introductions, hubs, and cross-links |

@@ -24,6 +24,31 @@ Hebrews' warnings all target drift, not defection — nobody plans to fall away;
 ## Connections
 [[Psalms]] · [[Genesis]] · [[Exodus]] · [[Leviticus]] · [[Numbers]] · [[Deuteronomy]] · [[Jeremiah]] · [[Habakkuk]] · [[2 Samuel]] · [[Haggai]] · [[Joshua]] · [[Proverbs]]
 
+## Promises in Hebrews
+
+**20 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Hebrews) — 17 unconditional, 3 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#969**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=969) · [[Hebrews#Hebrews 1|Hebrews 1:3]] — When He had by Himself purged our sins, He sat down at the right hand of the Majesty on high *(Redemption · The Cross · unconditional)*
+- [**#970**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=970) · [[Hebrews#Hebrews 2|Hebrews 2:14-15]] — Through death He destroyed him who had the power of death, the devil, and released those who through fear of death were all their lifetime subject to bondage *(Victory · Deliverance · unconditional)*
+- [**#971**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=971) · [[Hebrews#Hebrews 4|Hebrews 4:9]] — There remains therefore a rest for the people of God *(Rest · unconditional)*
+- [**#972**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=972) · [[Hebrews#Hebrews 4|Hebrews 4:16]] — Let us come boldly to the throne of grace, that we may obtain mercy and find grace to help in time of need *(Grace · Mercy · Prayer · conditional)*
+- [**#973**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=973) · [[Hebrews#Hebrews 6|Hebrews 6:10]] — God is not unjust to forget your work and labor of love which you have shown toward His name *(Reward · Justice · unconditional)*
+- [**#974**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=974) · [[Hebrews#Hebrews 6|Hebrews 6:13-14]] — When God made a promise to Abraham, He swore by Himself: Surely blessing I will bless you, and multiplying I will multiply you *(Blessing · Faithfulness · unconditional)*
+- [**#975**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=975) · [[Hebrews#Hebrews 6|Hebrews 6:18-19]] — By two immutable things, in which it is impossible for God to lie, we have strong consolation — this hope we have as an anchor of the soul *(Hope · Faithfulness · unconditional)*
+- [**#976**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=976) · [[Hebrews#Hebrews 7|Hebrews 7:25]] — He is able to save to the uttermost those who come to God through Him, since He always lives to make intercession for them *(Salvation · Intercession · unconditional)*
+- [**#977**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=977) · [[Hebrews#Hebrews 8|Hebrews 8:10]] — I will put My laws in their mind and write them on their hearts; I will be their God, and they shall be My people *(New Covenant · New Heart · unconditional)*
+- [**#978**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=978) · [[Hebrews#Hebrews 8|Hebrews 8:12]] — I will be merciful to their unrighteousness, and their sins and lawless deeds I will remember no more *(Forgiveness · Mercy · unconditional)*
+- [**#979**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=979) · [[Hebrews#Hebrews 9|Hebrews 9:15]] — He is the Mediator of the new covenant, that those who are called may receive the promise of the eternal inheritance *(Inheritance · New Covenant · unconditional)*
+- [**#980**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=980) · [[Hebrews#Hebrews 9|Hebrews 9:28]] — Christ was offered once to bear the sins of many; to those who eagerly wait for Him He will appear a second time, apart from sin, for salvation *(Second Coming · Salvation · unconditional)*
+- [**#981**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=981) · [[Hebrews#Hebrews 10|Hebrews 10:16-17]] — I will put My laws into their hearts and in their minds I will write them; their sins and lawless deeds I will remember no more *(New Covenant · Forgiveness · unconditional)*
+- [**#982**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=982) · [[Hebrews#Hebrews 10|Hebrews 10:35-36]] — Do not cast away your confidence, which has great reward; after you have done the will of God, you will receive the promise *(Reward · Perseverance · conditional)*
+- [**#983**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=983) · [[Hebrews#Hebrews 10|Hebrews 10:37]] — Yet a little while, and He who is coming will come and will not tarry *(Second Coming · unconditional)*
+- [**#984**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=984) · [[Hebrews#Hebrews 11|Hebrews 11:6]] — He who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him *(Reward · conditional)*
+- [**#985**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=985) · [[Hebrews#Hebrews 12|Hebrews 12:5-11]] — Whom the LORD loves He chastens; He disciplines us for our profit, that we may be partakers of His holiness — afterward it yields the peaceable fruit of righteousness *(Discipline · Sanctification · unconditional)*
+- [**#986**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=986) · [[Hebrews#Hebrews 13|Hebrews 13:5]] — He Himself has said: I will never leave you nor forsake you *(Presence · Faithfulness · unconditional)*
+- [**#987**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=987) · [[Hebrews#Hebrews 13|Hebrews 13:6]] — The LORD is my helper; I will not fear. What can man do to me? *(Strength · Protection · unconditional)*
+- [**#988**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=988) · [[Hebrews#Hebrews 13|Hebrews 13:20-21]] — The God of peace who brought up our Lord Jesus from the dead through the blood of the everlasting covenant will make you complete in every good work to do His will *(Sanctification · Resurrection · unconditional)*
+
 ## Text (KJV)
 
 ### Hebrews 1

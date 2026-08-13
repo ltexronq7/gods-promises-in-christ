@@ -24,6 +24,28 @@ Luke is full of people nobody else wanted — Samaritans, tax men, prodigals, th
 ## Connections
 [[Isaiah]] · [[Malachi]] · [[Psalms]] · [[Genesis]] · [[Jonah]] · [[2 Samuel]]
 
+## Promises in Luke
+
+**17 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Luke) — 10 unconditional, 7 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#825**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=825) · [[Luke#Luke 1|Luke 1:32-33]] — He will be great and will be called the Son of the Highest; the Lord God will give Him the throne of His father David, and He will reign over the house of Jacob forever *(Messiah · Kingdom · unconditional)*
+- [**#826**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=826) · [[Luke#Luke 1|Luke 1:37]] — With God nothing will be impossible *(Power · unconditional)*
+- [**#827**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=827) · [[Luke#Luke 2|Luke 2:10-11]] — Good tidings of great joy to all people: there is born to you this day in the city of David a Savior, who is Christ the Lord *(Messiah · Salvation · Joy · unconditional)*
+- [**#828**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=828) · [[Luke#Luke 6|Luke 6:21]] — Blessed are you who hunger now, for you shall be filled; blessed are you who weep now, for you shall laugh *(Comfort · Satisfaction · conditional)*
+- [**#829**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=829) · [[Luke#Luke 6|Luke 6:35]] — Love your enemies, do good, and lend, hoping for nothing in return; and your reward will be great, and you will be sons of the Most High *(Reward · Adoption · conditional)*
+- [**#830**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=830) · [[Luke#Luke 6|Luke 6:38]] — Give, and it will be given to you: good measure, pressed down, shaken together, and running over *(Provision · conditional)*
+- [**#831**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=831) · [[Luke#Luke 10|Luke 10:19]] — Behold, I give you the authority to trample on serpents and scorpions, and over all the power of the enemy, and nothing shall by any means hurt you *(Authority · Protection · unconditional)*
+- [**#832**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=832) · [[Luke#Luke 11|Luke 11:13]] — If you know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask Him *(Holy Spirit · conditional)*
+- [**#833**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=833) · [[Luke#Luke 12|Luke 12:8]] — Everyone who confesses Me before men, the Son of Man also will confess before the angels of God *(Acknowledgment · conditional)*
+- [**#834**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=834) · [[Luke#Luke 12|Luke 12:31-32]] — Seek the kingdom of God, and all these things shall be added to you; do not fear, little flock, for it is your Father's good pleasure to give you the kingdom *(Kingdom · Provision · conditional)*
+- [**#835**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=835) · [[Luke#Luke 18|Luke 18:29-30]] — No one who has left house or family for the sake of the kingdom of God shall fail to receive many times more in this present time, and in the age to come eternal life *(Reward · Eternal Life · conditional)*
+- [**#836**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=836) · [[Luke#Luke 21|Luke 21:15]] — I will give you a mouth and wisdom which all your adversaries will not be able to contradict or resist *(Wisdom · unconditional)*
+- [**#837**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=837) · [[Luke#Luke 21|Luke 21:18]] — Not a hair of your head shall be lost; by your patience possess your souls *(Protection · unconditional)*
+- [**#838**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=838) · [[Luke#Luke 21|Luke 21:27-28]] — They will see the Son of Man coming in a cloud with power and great glory; when these things begin, lift up your heads, because your redemption draws near *(Second Coming · Redemption · unconditional)*
+- [**#839**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=839) · [[Luke#Luke 22|Luke 22:29-30]] — I bestow upon you a kingdom, just as My Father bestowed one upon Me, that you may eat and drink at My table and sit on thrones *(Kingdom · Reward · unconditional)*
+- [**#840**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=840) · [[Luke#Luke 23|Luke 23:43]] — Assuredly, I say to you, today you will be with Me in Paradise *(Eternal Life · Presence · unconditional)*
+- [**#841**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=841) · [[Luke#Luke 24|Luke 24:49]] — Behold, I send the Promise of My Father upon you; tarry in Jerusalem until you are endued with power from on high *(Holy Spirit · Power · unconditional)*
+
 ## Text (KJV)
 
 ### Luke 1

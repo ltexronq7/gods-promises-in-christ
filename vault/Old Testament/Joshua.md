@@ -24,6 +24,24 @@ God's promises still require your feet. Grace gave Israel the land; obedience wa
 ## Connections
 [[Hebrews]] · [[James]] · [[Acts]]
 
+## Promises in Joshua
+
+**13 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Joshua) — 12 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#211**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=211) · [[Joshua#Joshua 1|Joshua 1:3]] — Every place the sole of your foot treads I have given you, as I said to Moses *(Land · unconditional)*
+- [**#212**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=212) · [[Joshua#Joshua 1|Joshua 1:5]] — No man shall stand before you all the days of your life; as I was with Moses, so I will be with you *(Presence · Victory · unconditional)*
+- [**#213**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=213) · [[Joshua#Joshua 1|Joshua 1:5]] — I will not leave you nor forsake you *(Faithfulness · unconditional)*
+- [**#214**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=214) · [[Joshua#Joshua 1|Joshua 1:8]] — If you meditate on this Book of the Law and do it, you will make your way prosperous and have good success *(Blessing · Wisdom · conditional)*
+- [**#215**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=215) · [[Joshua#Joshua 1|Joshua 1:9]] — Be strong and courageous; the LORD your God is with you wherever you go *(Presence · unconditional)*
+- [**#216**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=216) · [[Joshua#Joshua 3|Joshua 3:7]] — This day God will begin to exalt Joshua in the sight of all Israel, that they may know He is with him as He was with Moses *(Blessing · unconditional)*
+- [**#217**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=217) · [[Joshua#Joshua 6|Joshua 6:2]] — God has given Jericho into Joshua's hand, its king, and its mighty men of valor *(Victory · unconditional)*
+- [**#218**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=218) · [[Joshua#Joshua 8|Joshua 8:1]] — God has given into Joshua's hand the king of Ai, his people, city, and land *(Victory · unconditional)*
+- [**#219**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=219) · [[Joshua#Joshua 10|Joshua 10:8]] — Do not fear the Amorite kings; God has delivered them into your hand; not a man shall stand before you *(Victory · unconditional)*
+- [**#220**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=220) · [[Joshua#Joshua 11|Joshua 11:6]] — By this time tomorrow God will deliver the northern coalition slain before Israel *(Victory · unconditional)*
+- [**#221**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=221) · [[Joshua#Joshua 13|Joshua 13:6]] — God Himself will drive out the inhabitants of the mountains and Sidon before Israel *(Victory · Land · unconditional)*
+- [**#222**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=222) · [[Joshua#Joshua 21|Joshua 21:45]] — Not a word failed of any good thing the LORD had spoken to Israel; all came to pass *(Faithfulness · unconditional)*
+- [**#223**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=223) · [[Joshua#Joshua 23|Joshua 23:10]] — One man of you shall chase a thousand, for the LORD fights for you as He promised *(Victory · unconditional)*
+
 ## Text (KJV)
 
 ### Joshua 1

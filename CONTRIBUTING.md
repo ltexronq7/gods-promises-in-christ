@@ -23,9 +23,10 @@ After editing `promises.json`, rebuild everything downstream of it:
 
 ```bash
 python3 scripts/build_derived.py
+python3 scripts/build_vault_promises.py
 ```
 
-That regenerates `data/promises.csv`, `data/books.json`, and `data/categories.json`. It needs nothing but a Python 3 install — no packages to install.
+The first regenerates `data/promises.csv`, `data/books.json`, and `data/categories.json`. The second rewrites the **Promises in \<Book\>** section of each vault note so the vault matches the index. Both need nothing but a Python 3 install — no packages to install — and both are safe to re-run.
 
 If you can't run the script, just edit the JSON and say so in your pull request — the maintainer will rebuild the rest.
 

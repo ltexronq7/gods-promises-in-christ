@@ -24,6 +24,17 @@ Christ is the **Desire of all nations** (Hag 2:7) whose presence made the second
 ## Connections
 [[Ezra]] · [[Hebrews]]
 
+## Promises in Haggai
+
+**6 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Haggai) — 6 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#748**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=748) · [[Haggai#Haggai 1|Haggai 1:13]] — I am with you, says the LORD *(Presence · unconditional)*
+- [**#749**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=749) · [[Haggai#Haggai 2|Haggai 2:4-5]] — Be strong and work, for I am with you; My Spirit remains among you; do not fear *(Presence · Holy Spirit · unconditional)*
+- [**#750**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=750) · [[Haggai#Haggai 2|Haggai 2:7]] — I will shake all nations, and they shall come to the Desire of All Nations, and I will fill this temple with glory *(Messiah · Glory · unconditional)*
+- [**#751**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=751) · [[Haggai#Haggai 2|Haggai 2:9]] — The glory of this latter temple shall be greater than the former, and in this place I will give peace *(Peace · Glory · unconditional)*
+- [**#752**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=752) · [[Haggai#Haggai 2|Haggai 2:19]] — From this day I will bless you *(Blessing · unconditional)*
+- [**#753**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=753) · [[Haggai#Haggai 2|Haggai 2:23]] — In that day I will take you, Zerubbabel My servant, and make you like a signet ring, for I have chosen you *(Election · Messiah (line) · unconditional)*
+
 ## Text (KJV)
 
 ### Haggai 1

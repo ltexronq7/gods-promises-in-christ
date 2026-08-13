@@ -24,6 +24,14 @@ Job never got answers — he got God, and it was enough. Stop demanding explanat
 ## Connections
 [[James]] · [[1 Corinthians]] · [[Romans]]
 
+## Promises in Job
+
+**3 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Job) — 2 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#289**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=289) · [[Job#Job 5|Job 5:19-26]] — God will deliver you in six troubles, and in seven no evil shall touch you — famine, war, the tongue, destruction, and beasts *(Protection · Deliverance · conditional)*
+- [**#290**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=290) · [[Job#Job 19|Job 19:25-26]] — I know that my Redeemer lives and shall stand at last on the earth; in my flesh I shall see God *(Redemption · Resurrection · unconditional)*
+- [**#291**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=291) · [[Job#Job 42|Job 42:10]] — The LORD restored Job's losses when he prayed for his friends, and gave him twice as much as he had before *(Restoration · unconditional)*
+
 ## Text (KJV)
 
 ### Job 1

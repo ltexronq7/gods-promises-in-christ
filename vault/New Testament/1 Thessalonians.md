@@ -24,6 +24,15 @@ Christ is the **returning Lord** — "Jesus, which died for us" (1 Thess 5:10) a
 ## Connections
 [[2 Thessalonians]]
 
+## Promises in 1 Thessalonians
+
+**4 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=1+Thessalonians) — 4 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#952**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=952) · [[1 Thessalonians#1 Thessalonians 4|1 Thessalonians 4:14]] — If we believe that Jesus died and rose again, even so God will bring with Him those who sleep in Jesus *(Resurrection · unconditional)*
+- [**#953**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=953) · [[1 Thessalonians#1 Thessalonians 4|1 Thessalonians 4:16-17]] — The Lord Himself will descend from heaven with a shout; the dead in Christ will rise first; then we who are alive shall be caught up together with them to meet the Lord in the air — and thus we shall always be with the Lord *(Second Coming · Resurrection · unconditional)*
+- [**#954**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=954) · [[1 Thessalonians#1 Thessalonians 5|1 Thessalonians 5:9]] — God did not appoint us to wrath, but to obtain salvation through our Lord Jesus Christ *(Salvation · unconditional)*
+- [**#955**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=955) · [[1 Thessalonians#1 Thessalonians 5|1 Thessalonians 5:23-24]] — May the God of peace Himself sanctify you completely; He who calls you is faithful, who also will do it *(Sanctification · Faithfulness · unconditional)*
+
 ## Text (KJV)
 
 ### 1 Thessalonians 1

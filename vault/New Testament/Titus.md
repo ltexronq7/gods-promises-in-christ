@@ -24,6 +24,14 @@ Grace teaches (Titus 2:11–12). If your grasp of grace isn't training you to sa
 ## Connections
 [[1 Timothy]]
 
+## Promises in Titus
+
+**3 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Titus) — 3 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#966**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=966) · [[Titus#Titus 1|Titus 1:2]] — In hope of eternal life which God, who cannot lie, promised before time began *(Eternal Life · Faithfulness · unconditional)*
+- [**#967**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=967) · [[Titus#Titus 2|Titus 2:13-14]] — We look for the blessed hope and glorious appearing of our great God and Savior Jesus Christ, who gave Himself for us to redeem us from every lawless deed *(Second Coming · Redemption · unconditional)*
+- [**#968**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=968) · [[Titus#Titus 3|Titus 3:5-7]] — According to His mercy He saved us, through the washing of regeneration and renewing of the Holy Spirit, that having been justified by His grace we should become heirs according to the hope of eternal life *(Salvation · Holy Spirit · Inheritance · unconditional)*
+
 ## Text (KJV)
 
 ### Titus 1

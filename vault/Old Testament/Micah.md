@@ -24,6 +24,16 @@ Christ is the **Ruler born in Bethlehem, whose goings forth have been from everl
 ## Connections
 [[Matthew]] · [[John]]
 
+## Promises in Micah
+
+**5 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Micah) — 5 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#734**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=734) · [[Micah#Micah 4|Micah 4:1-3]] — In the latter days the mountain of the LORD's house shall be established; nations shall beat their swords into plowshares, neither shall they learn war anymore *(Kingdom · Peace · unconditional)*
+- [**#735**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=735) · [[Micah#Micah 5|Micah 5:2]] — Out of Bethlehem shall come forth the One to be Ruler in Israel, whose goings forth are from of old, from everlasting *(Messiah · unconditional)*
+- [**#736**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=736) · [[Micah#Micah 5|Micah 5:4]] — He shall stand and feed His flock in the strength of the LORD; they shall abide, for now He shall be great to the ends of the earth *(Messiah · Provision · unconditional)*
+- [**#737**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=737) · [[Micah#Micah 7|Micah 7:18-19]] — Who is a God like You, pardoning iniquity? He will again have compassion on us and subdue our iniquities; You will cast all our sins into the depths of the sea *(Forgiveness · Mercy · unconditional)*
+- [**#738**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=738) · [[Micah#Micah 7|Micah 7:20]] — You will give truth to Jacob and mercy to Abraham, which You have sworn to our fathers from days of old *(Faithfulness · Covenant · unconditional)*
+
 ## Text (KJV)
 
 ### Micah 1

@@ -24,6 +24,20 @@ The Son of God came to serve. If serving is beneath you, so is following Him. Pi
 ## Connections
 [[Isaiah]] · [[Malachi]] · [[Psalms]] · [[Zechariah]] · [[Daniel]]
 
+## Promises in Mark
+
+**9 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Mark) — 3 unconditional, 6 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#816**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=816) · [[Mark#Mark 1|Mark 1:17]] — Follow Me, and I will make you become fishers of men *(Commission · Transformation · conditional)*
+- [**#817**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=817) · [[Mark#Mark 9|Mark 9:23]] — If you can believe, all things are possible to him who believes *(Faith · Power · conditional)*
+- [**#818**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=818) · [[Mark#Mark 10|Mark 10:27]] — With men it is impossible, but not with God; for with God all things are possible *(Power · Salvation · unconditional)*
+- [**#819**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=819) · [[Mark#Mark 10|Mark 10:29-30]] — No one who has left house or family for My sake and the gospel's shall fail to receive a hundredfold now, with persecutions, and in the age to come eternal life *(Reward · Eternal Life · conditional)*
+- [**#820**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=820) · [[Mark#Mark 11|Mark 11:24]] — Whatever things you ask when you pray, believe that you receive them, and you will have them *(Prayer · conditional)*
+- [**#821**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=821) · [[Mark#Mark 11|Mark 11:25]] — Whenever you stand praying, forgive, that your Father in heaven may also forgive you your trespasses *(Forgiveness · conditional)*
+- [**#822**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=822) · [[Mark#Mark 13|Mark 13:11]] — Whatever is given you in that hour, speak that; for it is not you who speak, but the Holy Spirit *(Holy Spirit · unconditional)*
+- [**#823**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=823) · [[Mark#Mark 13|Mark 13:26-27]] — They will see the Son of Man coming in the clouds with great power and glory; He will send His angels and gather His elect from the four winds *(Second Coming · Gathering · unconditional)*
+- [**#824**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=824) · [[Mark#Mark 16|Mark 16:16]] — He who believes and is baptized will be saved *(Salvation · conditional)*
+
 ## Text (KJV)
 
 ### Mark 1

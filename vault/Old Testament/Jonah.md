@@ -24,6 +24,12 @@ Christ is **greater than Jonah** — "as Jonas was three days and three nights i
 ## Connections
 [[Matthew]] · [[Luke]] · [[Nahum]]
 
+## Promises in Jonah
+
+**1 promise** from this book is indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Jonah) — 1 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#733**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=733) · [[Jonah#Jonah 2|Jonah 2:9]] — Salvation is of the LORD *(Salvation · unconditional)*
+
 ## Text (KJV)
 
 ### Jonah 1

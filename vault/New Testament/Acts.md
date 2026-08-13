@@ -24,6 +24,21 @@ Christ is the **risen Lord building His church** — every sermon in Acts lands 
 ## Connections
 [[Joel]] · [[Psalms]] · [[Isaiah]] · [[Amos]] · [[Deuteronomy]] · [[Luke]]
 
+## Promises in Acts
+
+**10 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Acts) — 6 unconditional, 4 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#886**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=886) · [[Acts#Acts 1|Acts 1:5]] — John truly baptized with water, but you shall be baptized with the Holy Spirit not many days from now *(Holy Spirit · unconditional)*
+- [**#887**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=887) · [[Acts#Acts 1|Acts 1:8]] — You shall receive power when the Holy Spirit has come upon you, and you shall be witnesses to Me to the end of the earth *(Holy Spirit · Power · unconditional)*
+- [**#888**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=888) · [[Acts#Acts 1|Acts 1:11]] — This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven *(Second Coming · unconditional)*
+- [**#889**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=889) · [[Acts#Acts 2|Acts 2:21]] — Whoever calls on the name of the LORD shall be saved *(Salvation · conditional)*
+- [**#890**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=890) · [[Acts#Acts 2|Acts 2:38-39]] — Repent and be baptized in the name of Jesus Christ for the remission of sins, and you shall receive the gift of the Holy Spirit — for the promise is to you, your children, and all who are afar off *(Forgiveness · Holy Spirit · conditional)*
+- [**#891**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=891) · [[Acts#Acts 3|Acts 3:19-21]] — Repent, that your sins may be blotted out, so that times of refreshing may come from the presence of the Lord, and that He may send Jesus Christ *(Forgiveness · Second Coming · conditional)*
+- [**#892**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=892) · [[Acts#Acts 16|Acts 16:31]] — Believe on the Lord Jesus Christ, and you will be saved, you and your household *(Salvation · conditional)*
+- [**#893**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=893) · [[Acts#Acts 18|Acts 18:9-10]] — Do not be afraid, but speak; for I am with you, and no one will attack you to hurt you, for I have many people in this city *(Presence · Protection · unconditional)*
+- [**#894**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=894) · [[Acts#Acts 23|Acts 23:11]] — Be of good cheer, Paul; as you have testified for Me in Jerusalem, so you must also bear witness at Rome *(Commission · Protection · unconditional)*
+- [**#895**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=895) · [[Acts#Acts 27|Acts 27:24]] — Do not be afraid, Paul; you must be brought before Caesar, and God has granted you all those who sail with you *(Protection · Deliverance · unconditional)*
+
 ## Text (KJV)
 
 ### Acts 1

@@ -24,6 +24,19 @@ Christ is the **Lamb without blemish who bore our sins in his own body on the tr
 ## Connections
 [[Isaiah]] · [[Psalms]] · [[Leviticus]] · [[Proverbs]] · [[Exodus]] · [[Genesis]] · [[Hosea]]
 
+## Promises in 1 Peter
+
+**8 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=1+Peter) — 4 unconditional, 4 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#996**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=996) · [[1 Peter#1 Peter 1|1 Peter 1:3-4]] — He has begotten us again to a living hope through the resurrection of Jesus Christ, to an inheritance incorruptible, undefiled, that does not fade away, reserved in heaven for you *(Inheritance · Resurrection · Hope · unconditional)*
+- [**#997**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=997) · [[1 Peter#1 Peter 1|1 Peter 1:5]] — You are kept by the power of God through faith for salvation ready to be revealed in the last time *(Security · Salvation · unconditional)*
+- [**#998**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=998) · [[1 Peter#1 Peter 2|1 Peter 2:6]] — Behold, I lay in Zion a chief cornerstone, elect, precious, and he who believes on Him will by no means be put to shame *(Messiah · Security · conditional)*
+- [**#999**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=999) · [[1 Peter#1 Peter 2|1 Peter 2:9]] — You are a chosen generation, a royal priesthood, a holy nation, His own special people *(Identity · Priesthood · unconditional)*
+- [**#1000**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1000) · [[1 Peter#1 Peter 3|1 Peter 3:12]] — The eyes of the LORD are on the righteous, and His ears are open to their prayers *(Prayer · Presence · conditional)*
+- [**#1001**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1001) · [[1 Peter#1 Peter 5|1 Peter 5:4]] — When the Chief Shepherd appears, you will receive the crown of glory that does not fade away *(Reward · Second Coming · conditional)*
+- [**#1002**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1002) · [[1 Peter#1 Peter 5|1 Peter 5:6-7]] — Humble yourselves under the mighty hand of God, that He may exalt you in due time, casting all your care upon Him, for He cares for you *(Exaltation · Care · conditional)*
+- [**#1003**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1003) · [[1 Peter#1 Peter 5|1 Peter 5:10]] — The God of all grace, who called us to His eternal glory by Christ Jesus, after you have suffered a while, will perfect, establish, strengthen, and settle you *(Restoration · Strength · unconditional)*
+
 ## Text (KJV)
 
 ### 1 Peter 1

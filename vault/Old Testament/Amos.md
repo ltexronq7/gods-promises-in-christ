@@ -24,6 +24,14 @@ Amos was a shepherd, not a seminary man, and God shook a nation through him. Ava
 ## Connections
 [[Acts]]
 
+## Promises in Amos
+
+**3 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Amos) — 2 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#727**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=727) · [[Amos#Amos 5|Amos 5:4]] — Seek Me and live *(Life · conditional)*
+- [**#728**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=728) · [[Amos#Amos 9|Amos 9:11]] — On that day I will raise up the tabernacle of David which has fallen down, repair its damages, and rebuild it as in the days of old *(Restoration · Kingdom · unconditional)*
+- [**#729**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=729) · [[Amos#Amos 9|Amos 9:14-15]] — I will bring back the captives of My people Israel; they shall plant vineyards and drink wine from them; I will plant them in their land, and no longer shall they be pulled up *(Restoration · Land · unconditional)*
+
 ## Text (KJV)
 
 ### Amos 1

@@ -24,6 +24,12 @@ Nineveh repented under Jonah and relapsed by Nahum. Yesterday's revival won't ca
 ## Connections
 [[Jonah]] · [[Romans]]
 
+## Promises in Nahum
+
+**1 promise** from this book is indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Nahum) — 0 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#739**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=739) · [[Nahum#Nahum 1|Nahum 1:7]] — The LORD is good, a stronghold in the day of trouble, and He knows those who trust in Him *(Refuge · conditional)*
+
 ## Text (KJV)
 
 ### Nahum 1

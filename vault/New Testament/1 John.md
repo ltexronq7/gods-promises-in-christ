@@ -24,6 +24,19 @@ Christ is the **propitiation for our sins** (1 John 2:2) and our **Advocate with
 ## Connections
 [[John]] · [[Genesis]] · [[2 John]] · [[3 John]]
 
+## Promises in 1 John
+
+**8 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=1+John) — 3 unconditional, 5 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#1009**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1009) · [[1 John#1 John 1|1 John 1:9]] — If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness *(Forgiveness · Cleansing · conditional)*
+- [**#1010**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1010) · [[1 John#1 John 2|1 John 2:1-2]] — If anyone sins, we have an Advocate with the Father, Jesus Christ the righteous — He Himself is the propitiation for our sins, and for the whole world *(Advocacy · Atonement · unconditional)*
+- [**#1011**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1011) · [[1 John#1 John 2|1 John 2:17]] — He who does the will of God abides forever *(Eternal Life · conditional)*
+- [**#1012**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1012) · [[1 John#1 John 2|1 John 2:25]] — This is the promise that He has promised us — eternal life *(Eternal Life · unconditional)*
+- [**#1013**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1013) · [[1 John#1 John 3|1 John 3:2]] — We know that when He is revealed, we shall be like Him, for we shall see Him as He is *(Glorification · Second Coming · unconditional)*
+- [**#1014**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1014) · [[1 John#1 John 4|1 John 4:15]] — Whoever confesses that Jesus is the Son of God, God abides in him, and he in God *(Presence · Union · conditional)*
+- [**#1015**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1015) · [[1 John#1 John 5|1 John 5:11-12]] — God has given us eternal life, and this life is in His Son; he who has the Son has life *(Eternal Life · conditional)*
+- [**#1016**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1016) · [[1 John#1 John 5|1 John 5:14-15]] — If we ask anything according to His will, He hears us; and we know that we have the petitions that we have asked of Him *(Prayer · conditional)*
+
 ## Text (KJV)
 
 ### 1 John 1

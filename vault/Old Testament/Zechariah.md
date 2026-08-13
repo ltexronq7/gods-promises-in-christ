@@ -24,6 +24,26 @@ Christ is the **King on the donkey** (Zech 9:9), the One **sold for thirty piece
 ## Connections
 [[Matthew]] · [[Mark]] · [[John]] · [[Revelation]]
 
+## Promises in Zechariah
+
+**15 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Zechariah) — 14 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#754**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=754) · [[Zechariah#Zechariah 1|Zechariah 1:3]] — Return to Me, and I will return to you *(Restoration · Presence · conditional)*
+- [**#755**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=755) · [[Zechariah#Zechariah 1|Zechariah 1:16-17]] — I am returning to Jerusalem with mercy; My house shall be built in it; My cities shall again spread out through prosperity; the LORD will again comfort Zion *(Mercy · Restoration · unconditional)*
+- [**#756**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=756) · [[Zechariah#Zechariah 2|Zechariah 2:5]] — I will be a wall of fire all around her, and I will be the glory in her midst *(Protection · Presence · unconditional)*
+- [**#757**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=757) · [[Zechariah#Zechariah 2|Zechariah 2:10-11]] — Sing and rejoice, O daughter of Zion, for I am coming and will dwell in your midst; many nations shall be joined to the LORD in that day and shall become My people *(Presence · Kingdom · unconditional)*
+- [**#758**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=758) · [[Zechariah#Zechariah 3|Zechariah 3:8-9]] — Behold, I am bringing forth My Servant the BRANCH; I will remove the iniquity of that land in one day *(Messiah · Forgiveness · unconditional)*
+- [**#759**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=759) · [[Zechariah#Zechariah 8|Zechariah 8:3]] — I will return to Zion and dwell in the midst of Jerusalem; Jerusalem shall be called the City of Truth *(Presence · Restoration · unconditional)*
+- [**#760**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=760) · [[Zechariah#Zechariah 8|Zechariah 8:7-8]] — I will save My people from the land of the east and the west; they shall dwell in Jerusalem; they shall be My people, and I will be their God in truth and righteousness *(Restoration · Covenant · unconditional)*
+- [**#761**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=761) · [[Zechariah#Zechariah 8|Zechariah 8:12-13]] — The seed shall be prosperous, the vine give its fruit, the heavens their dew; as you were a curse among the nations, so I will save you, and you shall be a blessing *(Provision · Blessing · unconditional)*
+- [**#762**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=762) · [[Zechariah#Zechariah 9|Zechariah 9:9]] — Behold, your King is coming to you; He is just and having salvation, lowly and riding on a donkey *(Messiah · unconditional)*
+- [**#763**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=763) · [[Zechariah#Zechariah 9|Zechariah 9:16]] — The LORD their God will save them in that day, as the flock of His people; they shall be like the jewels of a crown *(Salvation · unconditional)*
+- [**#764**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=764) · [[Zechariah#Zechariah 10|Zechariah 10:6]] — I will strengthen the house of Judah and save the house of Joseph; I will bring them back because I have mercy on them; they shall be as though I had not cast them aside *(Strength · Mercy · Restoration · unconditional)*
+- [**#765**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=765) · [[Zechariah#Zechariah 12|Zechariah 12:10]] — I will pour on the house of David and the inhabitants of Jerusalem the Spirit of grace and supplication; they will look on Me whom they pierced and mourn *(Holy Spirit · Repentance · Messiah · unconditional)*
+- [**#766**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=766) · [[Zechariah#Zechariah 13|Zechariah 13:1]] — In that day a fountain shall be opened for the house of David and the inhabitants of Jerusalem, for sin and for uncleanness *(Cleansing · Redemption · unconditional)*
+- [**#767**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=767) · [[Zechariah#Zechariah 13|Zechariah 13:9]] — I will bring the third through the fire and refine them as silver; they will call on My name, and I will answer them; I will say, This is My people *(Sanctification · Covenant · unconditional)*
+- [**#768**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=768) · [[Zechariah#Zechariah 14|Zechariah 14:9]] — The LORD shall be King over all the earth; in that day it shall be — the LORD is one, and His name one *(Kingdom · unconditional)*
+
 ## Text (KJV)
 
 ### Zechariah 1

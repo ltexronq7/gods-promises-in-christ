@@ -24,6 +24,10 @@ Gaius served, Diotrephes self-promoted, Demetrius had a good report. Every churc
 ## Connections
 [[1 John]]
 
+## Promises in 3 John
+
+The promise index does not currently include entries from this book.
+
 ## Text (KJV)
 
 ### 3 John 1

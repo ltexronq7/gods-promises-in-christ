@@ -24,6 +24,16 @@ Joy in Philippians is not circumstantial — Paul wrote it chained to a guard. "
 ## Connections
 [[Isaiah]]
 
+## Promises in Philippians
+
+**5 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Philippians) — 4 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#944**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=944) · [[Philippians#Philippians 1|Philippians 1:6]] — He who has begun a good work in you will complete it until the day of Jesus Christ *(Perseverance · Sanctification · unconditional)*
+- [**#945**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=945) · [[Philippians#Philippians 2|Philippians 2:9-11]] — God has highly exalted Him and given Him the name above every name, that at the name of Jesus every knee should bow and every tongue confess that Jesus Christ is Lord *(Messiah · Kingdom · unconditional)*
+- [**#946**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=946) · [[Philippians#Philippians 3|Philippians 3:20-21]] — Our citizenship is in heaven, from which we eagerly wait for the Savior, who will transform our lowly body to be conformed to His glorious body *(Resurrection · Second Coming · unconditional)*
+- [**#947**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=947) · [[Philippians#Philippians 4|Philippians 4:7]] — The peace of God, which surpasses all understanding, will guard your hearts and minds through Christ Jesus *(Peace · conditional)*
+- [**#948**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=948) · [[Philippians#Philippians 4|Philippians 4:19]] — My God shall supply all your need according to His riches in glory by Christ Jesus *(Provision · unconditional)*
+
 ## Text (KJV)
 
 ### Philippians 1

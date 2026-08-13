@@ -24,6 +24,10 @@ Christ is the **Bridegroom** — the Song celebrates covenant love, and the chur
 ## Connections
 [[Ephesians]] · [[Revelation]]
 
+## Promises in Song of Solomon
+
+The promise index does not currently include entries from this book.
+
 ## Text (KJV)
 
 ### Song of Solomon 1

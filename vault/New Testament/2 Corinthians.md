@@ -24,6 +24,21 @@ Christ is the **One made sin for us** — "he hath made him to be sin for us, wh
 ## Connections
 [[Exodus]] · [[Isaiah]] · [[Psalms]]
 
+## Promises in 2 Corinthians
+
+**10 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=2+Corinthians) — 8 unconditional, 2 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#924**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=924) · [[2 Corinthians#2 Corinthians 1|2 Corinthians 1:20]] — All the promises of God in Him are Yes, and in Him Amen, to the glory of God through us *(Faithfulness · unconditional)*
+- [**#925**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=925) · [[2 Corinthians#2 Corinthians 1|2 Corinthians 1:21-22]] — God has anointed us, sealed us, and given us the Spirit in our hearts as a guarantee *(Holy Spirit · Security · unconditional)*
+- [**#926**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=926) · [[2 Corinthians#2 Corinthians 4|2 Corinthians 4:14]] — He who raised up the Lord Jesus will also raise us up with Jesus, and will present us with you *(Resurrection · unconditional)*
+- [**#927**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=927) · [[2 Corinthians#2 Corinthians 4|2 Corinthians 4:17]] — Our light affliction, which is but for a moment, is working for us a far more exceeding and eternal weight of glory *(Glory · Hope · unconditional)*
+- [**#928**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=928) · [[2 Corinthians#2 Corinthians 5|2 Corinthians 5:1]] — If our earthly house is destroyed, we have a building from God, a house not made with hands, eternal in the heavens *(Heaven · Resurrection · unconditional)*
+- [**#929**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=929) · [[2 Corinthians#2 Corinthians 5|2 Corinthians 5:17]] — If anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new *(New Creation · conditional)*
+- [**#930**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=930) · [[2 Corinthians#2 Corinthians 5|2 Corinthians 5:21]] — He made Him who knew no sin to be sin for us, that we might become the righteousness of God in Him *(Justification · The Cross · unconditional)*
+- [**#931**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=931) · [[2 Corinthians#2 Corinthians 6|2 Corinthians 6:16-18]] — I will dwell in them and walk among them; I will be their God, and they shall be My people; I will be a Father to you, and you shall be My sons and daughters *(Presence · Adoption · conditional)*
+- [**#932**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=932) · [[2 Corinthians#2 Corinthians 9|2 Corinthians 9:8]] — God is able to make all grace abound toward you, that you, always having all sufficiency in all things, may have an abundance for every good work *(Grace · Provision · unconditional)*
+- [**#933**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=933) · [[2 Corinthians#2 Corinthians 12|2 Corinthians 12:9]] — My grace is sufficient for you, for My strength is made perfect in weakness *(Grace · Strength · unconditional)*
+
 ## Text (KJV)
 
 ### 2 Corinthians 1

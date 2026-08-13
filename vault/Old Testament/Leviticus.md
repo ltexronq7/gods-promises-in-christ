@@ -24,6 +24,24 @@ Every altar in Leviticus preaches the same sermon: sin costs blood, and God prov
 ## Connections
 [[Exodus]] · [[Hebrews]] · [[Romans]] · [[1 Peter]]
 
+## Promises in Leviticus
+
+**13 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Leviticus) — 3 unconditional, 10 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#118**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=118) · [[Leviticus#Leviticus 26|Leviticus 26:3-4]] — If Israel walks in God's statutes, He will give rain in its season, and the land shall yield its produce *(Provision · conditional)*
+- [**#119**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=119) · [[Leviticus#Leviticus 26|Leviticus 26:5]] — Israel's threshing shall last to vintage; they shall eat bread to the full and dwell safely *(Provision · Peace · conditional)*
+- [**#120**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=120) · [[Leviticus#Leviticus 26|Leviticus 26:6]] — God will give peace in the land; they will lie down and none will make them afraid *(Peace · conditional)*
+- [**#121**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=121) · [[Leviticus#Leviticus 26|Leviticus 26:6]] — God will rid the land of evil beasts, and the sword will not go through the land *(Protection · conditional)*
+- [**#122**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=122) · [[Leviticus#Leviticus 26|Leviticus 26:7-8]] — Israel will chase their enemies; five shall chase a hundred, and a hundred put ten thousand to flight *(Victory · conditional)*
+- [**#123**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=123) · [[Leviticus#Leviticus 26|Leviticus 26:9]] — God will look on Israel with favor, make them fruitful, multiply them, and confirm His covenant *(Blessing · Covenant · conditional)*
+- [**#124**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=124) · [[Leviticus#Leviticus 26|Leviticus 26:11]] — God will set His tabernacle among them, and His soul shall not abhor them *(Presence · conditional)*
+- [**#125**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=125) · [[Leviticus#Leviticus 26|Leviticus 26:12]] — God will walk among them, be their God, and they shall be His people *(Presence · Covenant · conditional)*
+- [**#126**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=126) · [[Leviticus#Leviticus 26|Leviticus 26:13]] — God broke the bands of their yoke and made them walk upright *(Deliverance · unconditional)*
+- [**#127**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=127) · [[Leviticus#Leviticus 26|Leviticus 26:14-39]] — If Israel despises God's statutes, He will appoint terror, defeat, drought, wild beasts, sword, pestilence, and scattering *(Judgment · conditional)*
+- [**#128**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=128) · [[Leviticus#Leviticus 26|Leviticus 26:40-42]] — If they confess their iniquity and their hearts are humbled, God will remember His covenant with Jacob, Isaac, and Abraham, and remember the land *(Restoration · Covenant · conditional)*
+- [**#129**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=129) · [[Leviticus#Leviticus 26|Leviticus 26:44]] — Even in the land of their enemies God will not cast them away nor abhor them to destroy them utterly or break His covenant *(Faithfulness · Covenant · unconditional)*
+- [**#130**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=130) · [[Leviticus#Leviticus 26|Leviticus 26:45]] — For their sakes God will remember the covenant of their ancestors whom He brought out of Egypt *(Covenant · Mercy · unconditional)*
+
 ## Text (KJV)
 
 ### Leviticus 1

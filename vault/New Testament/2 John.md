@@ -24,6 +24,12 @@ Love and truth are not rivals — John commands both in one breath. A love that 
 ## Connections
 [[1 John]]
 
+## Promises in 2 John
+
+**1 promise** from this book is indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=2+John) — 1 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#1017**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1017) · [[2 John#2 John 1|2 John 1:2]] — The truth abides in us and will be with us forever *(Faithfulness · Truth · unconditional)*
+
 ## Text (KJV)
 
 ### 2 John 1

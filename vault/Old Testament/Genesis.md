@@ -24,6 +24,87 @@ The gospel starts on page three of your Bible. God announced the Cross before He
 ## Connections
 [[Exodus]] · [[Matthew]] · [[Luke]] · [[John]] · [[Romans]] · [[Galatians]] · [[Hebrews]] · [[Revelation]]
 
+## Promises in Genesis
+
+**76 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Genesis) — 71 unconditional, 5 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#1**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1) · [[Genesis#Genesis 3|Genesis 3:15]] — The Seed of the woman will bruise the serpent's head *(Redemption · Messiah · unconditional)*
+- [**#2**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=2) · [[Genesis#Genesis 3|Genesis 3:15]] — God will put enmity between the serpent and the woman, and between their seeds *(Redemption · unconditional)*
+- [**#3**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=3) · [[Genesis#Genesis 4|Genesis 4:15]] — Whoever kills Cain will suffer vengeance sevenfold *(Protection · unconditional)*
+- [**#4**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=4) · [[Genesis#Genesis 6|Genesis 6:18]] — God will establish His covenant with Noah *(Covenant · unconditional)*
+- [**#5**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=5) · [[Genesis#Genesis 6|Genesis 6:18]] — Noah, his family, and the animals will enter and be preserved in the ark *(Deliverance · conditional)*
+- [**#6**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=6) · [[Genesis#Genesis 7|Genesis 7:4]] — In seven days God will send rain forty days and nights and destroy every living thing He made *(Judgment · unconditional)*
+- [**#7**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=7) · [[Genesis#Genesis 8|Genesis 8:21]] — God will never again curse the ground for man's sake *(Mercy · unconditional)*
+- [**#8**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=8) · [[Genesis#Genesis 8|Genesis 8:21]] — God will never again destroy every living thing as He had done *(Mercy · unconditional)*
+- [**#9**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=9) · [[Genesis#Genesis 8|Genesis 8:22]] — While the earth remains, seedtime, harvest, cold, heat, summer, winter, day and night shall not cease *(Providence · unconditional)*
+- [**#10**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=10) · [[Genesis#Genesis 9|Genesis 9:9-10]] — God establishes His covenant with Noah, his descendants, and every living creature *(Covenant · unconditional)*
+- [**#11**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=11) · [[Genesis#Genesis 9|Genesis 9:11]] — Never again shall all flesh be cut off by flood waters *(Covenant · unconditional)*
+- [**#12**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=12) · [[Genesis#Genesis 9|Genesis 9:11]] — Never again shall a flood destroy the earth *(Covenant · unconditional)*
+- [**#13**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=13) · [[Genesis#Genesis 9|Genesis 9:13-15]] — The rainbow is set as the sign; God will remember His covenant when clouds cover the earth *(Covenant · unconditional)*
+- [**#14**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=14) · [[Genesis#Genesis 12|Genesis 12:1]] — God will show Abram the land to which he is called *(Guidance · conditional)*
+- [**#15**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=15) · [[Genesis#Genesis 12|Genesis 12:2]] — God will make Abram a great nation *(Nation · unconditional)*
+- [**#16**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=16) · [[Genesis#Genesis 12|Genesis 12:2]] — God will bless Abram *(Blessing · unconditional)*
+- [**#17**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=17) · [[Genesis#Genesis 12|Genesis 12:2]] — God will make Abram's name great *(Blessing · unconditional)*
+- [**#18**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=18) · [[Genesis#Genesis 12|Genesis 12:2]] — Abram shall be a blessing *(Blessing · unconditional)*
+- [**#19**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=19) · [[Genesis#Genesis 12|Genesis 12:3]] — God will bless those who bless Abram *(Blessing · unconditional)*
+- [**#20**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=20) · [[Genesis#Genesis 12|Genesis 12:3]] — God will curse him who curses Abram *(Judgment · unconditional)*
+- [**#21**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=21) · [[Genesis#Genesis 12|Genesis 12:3]] — In Abram all families of the earth shall be blessed *(Messiah · Blessing · unconditional)*
+- [**#22**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=22) · [[Genesis#Genesis 12|Genesis 12:7]] — To Abram's seed God will give the land of Canaan *(Land · unconditional)*
+- [**#23**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=23) · [[Genesis#Genesis 13|Genesis 13:15]] — All the land Abram sees God gives to him and his seed forever *(Land · unconditional)*
+- [**#24**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=24) · [[Genesis#Genesis 13|Genesis 13:16]] — Abram's seed will be as the dust of the earth, beyond counting *(Nation · unconditional)*
+- [**#25**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=25) · [[Genesis#Genesis 15|Genesis 15:1]] — God Himself is Abram's shield and exceedingly great reward *(Protection · Presence · unconditional)*
+- [**#26**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=26) · [[Genesis#Genesis 15|Genesis 15:4]] — One from Abram's own body shall be his heir *(Inheritance · unconditional)*
+- [**#27**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=27) · [[Genesis#Genesis 15|Genesis 15:5]] — Abram's descendants shall be as numberless as the stars *(Nation · unconditional)*
+- [**#28**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=28) · [[Genesis#Genesis 15|Genesis 15:13-14]] — Abram's descendants will be afflicted four hundred years, but God will judge that nation *(Prophecy · Judgment · unconditional)*
+- [**#29**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=29) · [[Genesis#Genesis 15|Genesis 15:14]] — Afterward Abram's descendants will come out with great possessions *(Deliverance · Provision · unconditional)*
+- [**#30**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=30) · [[Genesis#Genesis 15|Genesis 15:15]] — Abram will go to his fathers in peace and be buried at a good old age *(Peace · unconditional)*
+- [**#31**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=31) · [[Genesis#Genesis 15|Genesis 15:16]] — In the fourth generation his descendants will return to the land *(Restoration · Land · unconditional)*
+- [**#32**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=32) · [[Genesis#Genesis 15|Genesis 15:18]] — God gives Abram's descendants the land from the river of Egypt to the Euphrates *(Land · Covenant · unconditional)*
+- [**#33**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=33) · [[Genesis#Genesis 16|Genesis 16:10]] — The Angel of the LORD will multiply Hagar's descendants exceedingly *(Nation · unconditional)*
+- [**#34**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=34) · [[Genesis#Genesis 16|Genesis 16:11-12]] — Hagar will bear Ishmael, and he will be a wild man dwelling among his brethren *(Prophecy · unconditional)*
+- [**#35**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=35) · [[Genesis#Genesis 17|Genesis 17:2]] — God will make His covenant with Abram and multiply him exceedingly *(Covenant · unconditional)*
+- [**#36**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=36) · [[Genesis#Genesis 17|Genesis 17:4]] — Abram shall be a father of many nations *(Nation · unconditional)*
+- [**#37**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=37) · [[Genesis#Genesis 17|Genesis 17:6]] — God will make Abraham exceedingly fruitful; nations and kings shall come from him *(Nation · Kingdom · unconditional)*
+- [**#38**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=38) · [[Genesis#Genesis 17|Genesis 17:7]] — God establishes an everlasting covenant to be God to Abraham and his seed *(Covenant · Presence · unconditional)*
+- [**#39**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=39) · [[Genesis#Genesis 17|Genesis 17:8]] — God gives Canaan as an everlasting possession and will be their God *(Land · Covenant · unconditional)*
+- [**#40**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=40) · [[Genesis#Genesis 17|Genesis 17:16]] — God will bless Sarah and give Abraham a son by her *(Provision · unconditional)*
+- [**#41**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=41) · [[Genesis#Genesis 17|Genesis 17:16]] — Sarah shall be a mother of nations; kings shall come from her *(Nation · Kingdom · unconditional)*
+- [**#42**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=42) · [[Genesis#Genesis 17|Genesis 17:19]] — Sarah shall bear Isaac, and God will establish His everlasting covenant with him *(Covenant · unconditional)*
+- [**#43**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=43) · [[Genesis#Genesis 17|Genesis 17:20]] — God will bless Ishmael, multiply him, and make him a great nation of twelve princes *(Blessing · Nation · unconditional)*
+- [**#44**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=44) · [[Genesis#Genesis 17|Genesis 17:21]] — God will establish His covenant with Isaac, whom Sarah will bear at the set time *(Covenant · unconditional)*
+- [**#45**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=45) · [[Genesis#Genesis 18|Genesis 18:10]] — The LORD will return, and Sarah shall have a son *(Provision · unconditional)*
+- [**#46**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=46) · [[Genesis#Genesis 18|Genesis 18:14]] — At the appointed time Sarah shall have a son, for nothing is too hard for the LORD *(Provision · unconditional)*
+- [**#47**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=47) · [[Genesis#Genesis 18|Genesis 18:26]] — If fifty righteous are found in Sodom, God will spare the whole place *(Mercy · conditional)*
+- [**#48**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=48) · [[Genesis#Genesis 18|Genesis 18:28-32]] — God will not destroy Sodom for the sake of forty-five, forty, thirty, twenty, or ten righteous *(Mercy · conditional)*
+- [**#49**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=49) · [[Genesis#Genesis 21|Genesis 21:12]] — In Isaac Abraham's seed shall be called *(Covenant · Messiah · unconditional)*
+- [**#50**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=50) · [[Genesis#Genesis 21|Genesis 21:13]] — God will make a nation of Ishmael because he is Abraham's seed *(Nation · unconditional)*
+- [**#51**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=51) · [[Genesis#Genesis 21|Genesis 21:18]] — God will make Ishmael a great nation *(Nation · unconditional)*
+- [**#52**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=52) · [[Genesis#Genesis 22|Genesis 22:16-17]] — Because Abraham did not withhold his son, God will surely bless him *(Blessing · unconditional)*
+- [**#53**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=53) · [[Genesis#Genesis 22|Genesis 22:17]] — God will multiply Abraham's seed as the stars of heaven and the sand of the seashore *(Nation · unconditional)*
+- [**#54**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=54) · [[Genesis#Genesis 22|Genesis 22:17]] — Abraham's seed shall possess the gate of his enemies *(Victory · unconditional)*
+- [**#55**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=55) · [[Genesis#Genesis 22|Genesis 22:18]] — In Abraham's Seed all nations of the earth shall be blessed *(Messiah · unconditional)*
+- [**#56**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=56) · [[Genesis#Genesis 24|Genesis 24:7]] — God will send His angel before Abraham's servant to secure a wife for Isaac *(Guidance · unconditional)*
+- [**#57**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=57) · [[Genesis#Genesis 26|Genesis 26:3]] — God will be with Isaac and bless him *(Presence · Blessing · conditional)*
+- [**#58**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=58) · [[Genesis#Genesis 26|Genesis 26:3]] — To Isaac and his descendants God will give all these lands, performing the oath to Abraham *(Land · Covenant · unconditional)*
+- [**#59**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=59) · [[Genesis#Genesis 26|Genesis 26:4]] — God will make Isaac's descendants multiply as the stars and give them all these lands *(Nation · Land · unconditional)*
+- [**#60**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=60) · [[Genesis#Genesis 26|Genesis 26:4]] — In Isaac's seed all the nations of the earth shall be blessed *(Messiah · unconditional)*
+- [**#61**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=61) · [[Genesis#Genesis 26|Genesis 26:24]] — God is with Isaac, will bless him, and multiply his descendants for Abraham's sake *(Presence · Blessing · unconditional)*
+- [**#62**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=62) · [[Genesis#Genesis 28|Genesis 28:13]] — The land on which Jacob lies God will give to him and his descendants *(Land · unconditional)*
+- [**#63**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=63) · [[Genesis#Genesis 28|Genesis 28:14]] — Jacob's descendants shall be as the dust, spreading to the four directions *(Nation · unconditional)*
+- [**#64**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=64) · [[Genesis#Genesis 28|Genesis 28:14]] — In Jacob and his Seed all families of the earth shall be blessed *(Messiah · unconditional)*
+- [**#65**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=65) · [[Genesis#Genesis 28|Genesis 28:15]] — God is with Jacob and will keep him wherever he goes *(Presence · Protection · unconditional)*
+- [**#66**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=66) · [[Genesis#Genesis 28|Genesis 28:15]] — God will bring Jacob back to this land *(Restoration · unconditional)*
+- [**#67**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=67) · [[Genesis#Genesis 28|Genesis 28:15]] — God will not leave Jacob until He has done what He has spoken *(Faithfulness · unconditional)*
+- [**#68**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=68) · [[Genesis#Genesis 31|Genesis 31:3]] — God commands Jacob to return, and He will be with him *(Presence · unconditional)*
+- [**#69**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=69) · [[Genesis#Genesis 32|Genesis 32:12]] — God will surely treat Jacob well and make his seed as the sand of the sea *(Blessing · Nation · unconditional)*
+- [**#70**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=70) · [[Genesis#Genesis 35|Genesis 35:11-12]] — A nation and a company of nations shall come from Jacob; kings shall come from his body *(Nation · Kingdom · unconditional)*
+- [**#71**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=71) · [[Genesis#Genesis 35|Genesis 35:12]] — The land given to Abraham and Isaac God gives to Jacob and his descendants *(Land · unconditional)*
+- [**#72**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=72) · [[Genesis#Genesis 46|Genesis 46:3-4]] — God will make Jacob a great nation in Egypt, go down with him, and surely bring him up again *(Nation · Presence · Restoration · unconditional)*
+- [**#73**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=73) · [[Genesis#Genesis 48|Genesis 48:4]] — God will make Jacob fruitful, multiply him, and give the land to his descendants as an everlasting possession *(Nation · Land · unconditional)*
+- [**#74**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=74) · [[Genesis#Genesis 48|Genesis 48:21]] — God will be with Joseph's people and bring them back to the land of their fathers *(Presence · Restoration · unconditional)*
+- [**#75**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=75) · [[Genesis#Genesis 49|Genesis 49:10]] — The scepter shall not depart from Judah until Shiloh comes, and to Him shall be the obedience of the people *(Messiah · Kingdom · unconditional)*
+- [**#76**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=76) · [[Genesis#Genesis 50|Genesis 50:24]] — God will surely visit Israel and bring them out of Egypt to the promised land *(Deliverance · Land · unconditional)*
+
 ## Text (KJV)
 
 ### Genesis 1
