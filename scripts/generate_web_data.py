@@ -1,15 +1,33 @@
-"""Generate browser-friendly KJV and vault data from the Obsidian source notes."""
+"""Generate browser-friendly KJV and vault data from the Obsidian source notes.
+
+Writes two things, both derived from `vault/`:
+
+    data/kjv-web.json   — the whole Bible in one file, for data consumers who
+                          want a single download
+    data/bible/         — the same text split per book, plus a small index,
+                          which is what the website loads on demand so a
+                          visitor never waits on the full Bible to read a page
+
+Keeping both in one generator is deliberate: they cannot drift apart.
+"""
 
 from __future__ import annotations
 
 import json
 import re
+import shutil
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
 VAULT = ROOT / "vault"
 DATA = ROOT / "data"
+BIBLE = DATA / "bible"
+
+
+def book_slug(book: str) -> str:
+    """File-safe name for a book, e.g. '1 Samuel' -> '1-samuel'."""
+    return re.sub(r"[^a-z0-9]+", "-", book.lower()).strip("-")
 
 
 def strip_frontmatter(text: str) -> str:
@@ -105,7 +123,69 @@ def main() -> None:
     (DATA / "kjv-web.json").write_text(
         json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
     )
+
+    write_split_bible(books, verses, jesus)
     print(f"Generated {len(books)} books and {len(verses)} verses")
+
+
+def write_split_bible(books: list[dict], verses: list[dict], jesus: str) -> None:
+    """Write data/bible/: one file per book plus a small index.
+
+    Verse text is stored as nested arrays rather than one object per verse.
+    Chapter and verse numbers are the array positions, and the reference is
+    rebuilt in the browser, which drops roughly a third of the bytes without
+    losing anything.
+    """
+    by_book: dict[str, list[dict]] = {}
+    for verse in verses:
+        by_book.setdefault(verse["book"], []).append(verse)
+
+    if BIBLE.exists():
+        shutil.rmtree(BIBLE)
+    BIBLE.mkdir(parents=True)
+
+    index_books = []
+    for book in books:
+        name = book["book"]
+        chapters: list[list[str]] = [[] for _ in range(book["chapters"])]
+        for verse in by_book.get(name, []):
+            chapters[verse["chapter"] - 1].append(verse["text"])
+
+        slug = book_slug(name)
+        (BIBLE / f"{slug}.json").write_text(
+            json.dumps(
+                {
+                    "book": name,
+                    "testament": book["testament"],
+                    "christ": book["christ"],
+                    "keyVerse": book["keyVerse"],
+                    "application": book["application"],
+                    "connections": book["connections"],
+                    "text": chapters,
+                },
+                ensure_ascii=False,
+                separators=(",", ":"),
+            ),
+            encoding="utf-8",
+        )
+        index_books.append(
+            {
+                "book": name,
+                "testament": book["testament"],
+                "chapters": book["chapters"],
+                "verseCount": book["verseCount"],
+                "slug": slug,
+            }
+        )
+
+    (BIBLE / "index.json").write_text(
+        json.dumps(
+            {"translation": "KJV", "books": index_books, "jesusHub": jesus},
+            ensure_ascii=False,
+            separators=(",", ":"),
+        ),
+        encoding="utf-8",
+    )
 
 
 if __name__ == "__main__":

@@ -29,3 +29,14 @@ jobs:
             git --no-pager diff --stat -- data/
             exit 1
           fi
+
+      - name: Confirm the generated Bible data is in sync with the vault
+        run: |
+          python3 scripts/generate_web_data.py
+          if ! git status --porcelain -- data/kjv-web.json data/bible | grep -q . ; then
+            exit 0
+          fi
+          echo "::error::data/kjv-web.json or data/bible/ is out of date."
+          echo "Run 'python3 scripts/generate_web_data.py' and commit the result."
+          git --no-pager status --short -- data/kjv-web.json data/bible
+          exit 1

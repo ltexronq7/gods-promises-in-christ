@@ -33,7 +33,8 @@ The vault's study introductions express a Christ-centered evangelical reading of
 | `data/SCHEMA.json` | Data dictionary — what every field means |
 | `index.html` | Main public ministry site with promise search, full-KJV search, Bible reader, and vault navigation |
 | `assets/` | Website styles and browser code |
-| `data/kjv-web.json` | Generated browser-friendly KJV and Christ-in-each-book study data |
+| `data/kjv-web.json` | The whole KJV and Christ-in-each-book study data in one file, for anyone who wants a single download |
+| `data/bible/` | The same text split one file per book, plus a small index — this is what the website loads on demand |
 | `scripts/verify_promises.py` | Checks every promise against the KJV text and the derived files |
 | `scripts/build_derived.py` | Rebuilds `promises.csv`, `books.json`, and `categories.json` from `promises.json` |
 | `scripts/generate_web_data.py` | Rebuilds `kjv-web.json` from the Obsidian vault notes |
@@ -91,6 +92,20 @@ Visit the [live searchable site](https://ltexronq7.github.io/gods-promises-in-ch
 - **Conditional vs. unconditional:** "Conditional" marks promises with a stated human condition ("if you obey…"). Absence of a stated condition is marked "unconditional" — this is a classification of the text's *form*, not a theological claim about God's sovereignty.
 - **Compound themes:** Where a promise carries more than one theme, all are listed in `categories`; the original combined label is kept in `category_raw`.
 - Reasonable people will classify some edge cases differently. Issues and pull requests are welcome.
+
+## How the site loads
+
+The site is plain HTML, CSS, and JavaScript with no build step and no dependencies, but it does not make you download the whole Bible to read one page.
+
+Landing on the site fetches the promise index and a small book index — about **70 KB compressed**. Everything on the front page works immediately. After that, text arrives only when you ask for it:
+
+- Opening a chapter fetches just that book (the largest, Psalms, is 230 KB uncompressed).
+- Searching the full KJV *within one book* fetches only that book.
+- Searching the full KJV *across the whole Bible* is the one action that needs everything, so it fetches the remaining books once, with a progress indicator, and caches them for the rest of the visit.
+
+A visitor who reads the promises and a few chapters never downloads the rest of Scripture. Books are cached in memory once loaded, so moving between chapters costs no further requests.
+
+Both `data/kjv-web.json` and `data/bible/` are generated from `vault/` by the same script, so the single-file and split forms cannot drift apart; CI fails if either is out of date.
 
 ## Verification
 
