@@ -93,6 +93,25 @@ Visit the [live searchable site](https://ltexronq7.github.io/gods-promises-in-ch
 - **Compound themes:** Where a promise carries more than one theme, all are listed in `categories`; the original combined label is kept in `category_raw`.
 - Reasonable people will classify some edge cases differently. Issues and pull requests are welcome.
 
+## Linking to a passage or a promise
+
+Every view on the site has its own address, so anything you are looking at can be pasted into a group chat, a sermon outline, a lesson handout, or a bulletin.
+
+| Link | Opens |
+|------|-------|
+| `?read=Isaiah&ch=53` | Isaiah 53 in the KJV reader |
+| `?read=Jude` | Jude 1 (chapter 1 is assumed) |
+| `?promise=55` | Promise #55 on its own |
+| `?q=shepherd` | A search of the promise index for "shepherd" |
+| `?q=shepherd&theme=Messiah` | The same search, narrowed to one theme |
+| `?q=everlasting+life&scope=kjv&in=John` | A full-text KJV search inside John |
+
+The reader has a **Copy link to this chapter** button, and every promise number and verse reference in the results is an ordinary link — so right-click and "copy link address" works the way it does anywhere else, and links open in a new tab normally.
+
+Because `id` values never change, `?promise=55` is a permanent address. A citation printed in a handout today will still open the same promise years from now.
+
+Back and forward behave as you would expect, and an unknown book, chapter, theme, or promise number falls back to the ordinary view rather than an error.
+
 ## How the site loads
 
 The site is plain HTML, CSS, and JavaScript with no build step and no dependencies, but it does not make you download the whole Bible to read one page.

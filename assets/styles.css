@@ -94,8 +94,16 @@ main { max-width: 1180px; margin: auto; padding: 3rem 1.2rem 5rem; }
 .vault-card.featured h3 { color: #f0c76f; }
 .vault-card.featured p { color: #d7e1eb; }
 .book-grid { margin-top: 1rem; display: grid; grid-template-columns: repeat(4, 1fr); gap: .45rem; }
-.book-link { border: 1px solid var(--line); background: white; border-radius: .4rem; padding: .55rem; text-align: left; color: var(--navy); }
+.book-link { display: inline-block; border: 1px solid var(--line); background: white; border-radius: .4rem; padding: .55rem; text-align: left; color: var(--navy); text-decoration: none; }
 .book-link:hover, .book-link:focus { border-color: var(--gold); background: #fffbf1; }
+
+/* Every view has an address: citations and references are real links. */
+.ref-link { color: inherit; text-decoration-color: var(--gold); text-underline-offset: .2em; }
+.ref-link:hover, .ref-link:focus { color: var(--navy); }
+.copy-link { width: 100%; margin-top: 1rem; border: 1px solid #4d6a89; border-radius: .4rem; padding: .5rem; background: transparent; color: white; font-size: .85rem; }
+.copy-link:hover, .copy-link:focus { border-color: var(--gold); color: #efc86d; }
+.focus-note { padding: .75rem 1rem; color: var(--muted); font-size: .9rem; }
+.link-button { border: 0; background: none; padding: 0; color: var(--navy); font: inherit; text-decoration: underline; text-decoration-color: var(--gold); }
 
 .ministry-note { background: var(--gold-soft); border: 1px solid #ead29c; border-radius: .8rem; padding: 1.2rem; }
 .site-footer { background: var(--navy); color: #d6e0ea; padding: 2.2rem 1.2rem; text-align: center; }

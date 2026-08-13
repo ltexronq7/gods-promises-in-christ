@@ -6,10 +6,14 @@ const state = {
   corpusLoad: null,
   scope: 'promises',
   search: '',
+  theme: '',
+  bookFilter: '',
+  focus: 0,             // a single promise id, when one was linked to directly
   book: '',
   chapter: 1,
   readerStarted: false
 };
+const SITE_TITLE = 'God’s Promises in Christ';
 const $ = (selector) => document.querySelector(selector);
 const escapeHtml = (value = '') => String(value).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const normalize = (value = '') => value.toLowerCase().replace(/[^a-z0-9\s]/g, ' ');
@@ -17,6 +21,84 @@ const normalize = (value = '') => value.toLowerCase().replace(/[^a-z0-9\s]/g, ' 
 const canonicalBook = (book) => book === 'Psalm' ? 'Psalms' : book;
 const matchesQuery = (haystack, query) => !query || query.split(/\s+/).every(word => haystack.includes(word));
 const bookEntry = (name) => state.index.books.find(b => b.book === name);
+
+/* ---- Shareable URLs ----
+ * Everything you can look at has an address: a search, a single promise, or a
+ * chapter. Each address describes one view, so a link says what it is about
+ * and nothing else — no stale query text riding along inside a link to a
+ * chapter. The hash keeps doing what it always did, which is scrolling.
+ */
+
+function searchUrl() {
+  const params = new URLSearchParams();
+  if (state.search) params.set('q', state.search);
+  if (state.scope === 'bible') params.set('scope', 'kjv');
+  if (state.bookFilter) params.set('in', state.bookFilter);
+  if (state.theme) params.set('theme', state.theme);
+  return withQuery(params, '');
+}
+
+const promiseUrl = (id) => withQuery(new URLSearchParams({promise: id}), '#search');
+
+function chapterUrl(book, chapter) {
+  const params = new URLSearchParams({read: book});
+  if (Number(chapter) > 1) params.set('ch', chapter);
+  return withQuery(params, '#bible');
+}
+
+function withQuery(params, hash) {
+  const query = params.toString();
+  return `${location.pathname}${query ? '?' + query : ''}${hash}`;
+}
+
+function pushUrl(url, replace = false) {
+  history[replace ? 'replaceState' : 'pushState']({}, '', url);
+  updateTitle();
+}
+
+/** Restore state from the current address. Returns true if a chapter was requested. */
+function applyUrl() {
+  const params = new URLSearchParams(location.search);
+  const focus = Number(params.get('promise')) || 0;
+  state.focus = state.promises.some(p => p.id === focus) ? focus : 0;
+  state.search = state.focus ? '' : (params.get('q') || '');
+  state.scope = !state.focus && params.get('scope') === 'kjv' ? 'bible' : 'promises';
+
+  const requestedBookFilter = params.get('in') || '';
+  state.bookFilter = bookEntry(requestedBookFilter) ? requestedBookFilter : '';
+  const themes = new Set(state.promises.flatMap(p => p.categories));
+  state.theme = themes.has(params.get('theme')) ? params.get('theme') : '';
+
+  // An address with no chapter in it says nothing about the reader, so the
+  // reader is left showing whatever it was showing.
+  const entry = bookEntry(params.get('read') || '');
+  if (entry) {
+    state.book = entry.book;
+    state.chapter = Math.min(Math.max(Number(params.get('ch')) || 1, 1), entry.chapters);
+  }
+  syncControls();
+  return Boolean(entry);
+}
+
+function syncControls() {
+  $('#global-search').value = state.search;
+  $('#search-book-filter').value = state.bookFilter;
+  $('#category-filter').value = state.theme;
+  $('#category-filter').hidden = state.scope !== 'promises';
+  $('#reader-book').value = state.book;
+  $('#global-search').placeholder = state.scope === 'promises'
+    ? 'Search promises, themes, people, or references…'
+    : 'Search every word of the KJV…';
+  document.querySelectorAll('.tab').forEach(tab => tab.setAttribute('aria-selected', String(tab.dataset.scope === state.scope)));
+  updateChapterOptions();
+}
+
+function updateTitle() {
+  const promise = state.focus && state.promises.find(p => p.id === state.focus);
+  if (promise) document.title = `Promise #${promise.id} · ${promise.reference} | ${SITE_TITLE}`;
+  else if (state.readerStarted) document.title = `${state.book} ${state.chapter} (KJV) | ${SITE_TITLE}`;
+  else document.title = `${SITE_TITLE} | Search the KJV and Explore the Vault`;
+}
 
 async function loadData() {
   const [promisesResponse, indexResponse] = await Promise.all([
@@ -27,9 +109,16 @@ async function loadData() {
   state.promises = await promisesResponse.json();
   state.index = await indexResponse.json();
   initializeFilters();
+  const chapterRequested = applyUrl();
   renderSearch();
   renderVault();
-  prepareReader();
+  if (chapterRequested) {
+    await renderReader();
+    if (!location.hash) $('#bible').scrollIntoView();
+  } else {
+    prepareReader();
+  }
+  updateTitle();
 }
 
 /* ---- Bible text, fetched a book at a time ---- */
@@ -89,25 +178,25 @@ function initializeFilters() {
   $('#search-book-filter').innerHTML = '<option value="">All books</option>' + bookOptions;
   $('#reader-book').innerHTML = bookOptions;
   state.book = state.index.books[0].book;
-  updateChapterOptions();
 }
 
 let renderToken = 0;
 
 async function renderSearch() {
   const token = ++renderToken;
-  const query = normalize(state.search).trim();
-  const bookFilter = $('#search-book-filter').value;
   $('#category-filter').hidden = state.scope !== 'promises';
 
+  if (state.focus) return renderFocusedPromise();
+
+  const query = normalize(state.search).trim();
   let results;
   if (state.scope === 'promises') {
     results = state.promises.filter(p =>
       matchesQuery(normalize([p.promise, p.reference, p.book, p.recipient, p.speaker, ...(p.categories || [])].join(' ')), query) &&
-      (!bookFilter || canonicalBook(p.book) === bookFilter) &&
-      (!$('#category-filter').value || p.categories.includes($('#category-filter').value)));
+      (!state.bookFilter || canonicalBook(p.book) === state.bookFilter) &&
+      (!state.theme || p.categories.includes(state.theme)));
   } else {
-    const verses = await bibleSearchSource(query, bookFilter, token);
+    const verses = await bibleSearchSource(query, state.bookFilter, token);
     if (token !== renderToken || !verses) return;
     results = verses.filter(v => matchesQuery(normalize(`${v.reference} ${v.text}`), query));
   }
@@ -118,6 +207,14 @@ async function renderSearch() {
   $('#results').innerHTML = shown.length
     ? shown.map(item => state.scope === 'promises' ? promiseCard(item) : verseCard(item)).join('')
     : '<div class="empty">No matches found. Try fewer words or a different filter.</div>';
+}
+
+/** A link straight to one promise, e.g. ?promise=55 */
+function renderFocusedPromise() {
+  const promise = state.promises.find(p => p.id === state.focus);
+  $('#results-meta').textContent = `Promise #${promise.id}`;
+  $('#results').innerHTML = promiseCard(promise) +
+    '<div class="focus-note">You followed a link to a single promise. <button class="link-button" id="clear-focus">Show all 1,046 promises</button></div>';
 }
 
 /**
@@ -141,17 +238,20 @@ async function bibleSearchSource(query, bookFilter, token) {
 }
 
 function promiseCard(p) {
-  return `<article class="result-card"><div class="result-ref">Promise #${p.id} · ${escapeHtml(p.reference)}</div><p>${escapeHtml(p.promise)}</p><div class="result-details">${escapeHtml(p.categories.join(' · '))} · ${p.conditional ? 'Conditional' : 'Unconditional'} · Spoken by ${escapeHtml(p.speaker)}<br><button class="book-link" data-open-book="${escapeHtml(canonicalBook(p.book))}" data-open-chapter="${p.chapter}">Read this passage in the KJV</button></div></article>`;
+  const book = canonicalBook(p.book);
+  return `<article class="result-card"><div class="result-ref"><a class="ref-link" href="${promiseUrl(p.id)}" data-focus-promise="${p.id}">Promise #${p.id}</a> · ${escapeHtml(p.reference)}</div><p>${escapeHtml(p.promise)}</p><div class="result-details">${escapeHtml(p.categories.join(' · '))} · ${p.conditional ? 'Conditional' : 'Unconditional'} · Spoken by ${escapeHtml(p.speaker)}<br><a class="book-link" href="${chapterUrl(book, p.chapter)}" data-open-book="${escapeHtml(book)}" data-open-chapter="${p.chapter}">Read this passage in the KJV</a></div></article>`;
 }
 
 function verseCard(v) {
-  return `<article class="result-card"><div class="result-ref">${escapeHtml(v.reference)} · KJV</div><p>${escapeHtml(v.text)}</p><div class="result-details"><button class="book-link" data-open-book="${escapeHtml(v.book)}" data-open-chapter="${v.chapter}">Read this chapter</button></div></article>`;
+  return `<article class="result-card"><div class="result-ref"><a class="ref-link" href="${chapterUrl(v.book, v.chapter)}" data-open-book="${escapeHtml(v.book)}" data-open-chapter="${v.chapter}">${escapeHtml(v.reference)}</a> · KJV</div><p>${escapeHtml(v.text)}</p><div class="result-details"><a class="book-link" href="${chapterUrl(v.book, v.chapter)}" data-open-book="${escapeHtml(v.book)}" data-open-chapter="${v.chapter}">Read this chapter</a></div></article>`;
 }
 
 function setScope(scope) {
+  if (scope === state.scope && !state.focus) return;
   state.scope = scope;
-  document.querySelectorAll('.tab').forEach(tab => tab.setAttribute('aria-selected', String(tab.dataset.scope === scope)));
-  $('#global-search').placeholder = scope === 'promises' ? 'Search promises, themes, people, or references…' : 'Search every word of the KJV…';
+  state.focus = 0;
+  syncControls();
+  pushUrl(searchUrl());
   renderSearch();
 }
 
@@ -177,6 +277,7 @@ async function renderReader() {
   $('#reader-content').innerHTML = `<h3>${escapeHtml(book)} ${chapter}</h3>
     ${data.christ ? `<div class="book-intro"><strong>Jesus Christ in ${escapeHtml(book)}</strong><br>${escapeHtml(data.christ)}</div>` : ''}
     <div class="chapter-text">${verses.map((text, i) => `<span class="verse"><sup class="verse-number">${i + 1}</sup>${escapeHtml(text)} </span>`).join('')}</div>`;
+  updateTitle();
 }
 
 /** Hold the reader until the visitor actually goes looking for it. */
@@ -195,29 +296,90 @@ function prepareReader() {
 
 function renderVault() {
   $('#vault-books').innerHTML = state.index.books
-    .map(b => `<button class="book-link" data-open-book="${escapeHtml(b.book)}" data-open-chapter="1">${escapeHtml(b.book)}</button>`)
+    .map(b => `<a class="book-link" href="${chapterUrl(b.book, 1)}" data-open-book="${escapeHtml(b.book)}" data-open-chapter="1">${escapeHtml(b.book)}</a>`)
     .join('');
 }
 
-function openBook(book, chapter = 1) {
+function openBook(book, chapter = 1, scroll = true) {
   state.book = book;
   state.chapter = Number(chapter);
+  state.readerStarted = true;
   $('#reader-book').value = book;
   updateChapterOptions();
-  $('#reader-chapter').value = state.chapter;
+  pushUrl(chapterUrl(book, state.chapter));
   renderReader();
-  location.hash = 'bible';
+  if (scroll) $('#bible').scrollIntoView();
+}
+
+async function copyChapterLink(button) {
+  const url = new URL(chapterUrl(state.book, state.chapter), location.href).href;
+  const original = button.textContent;
+  try {
+    await navigator.clipboard.writeText(url);
+    button.textContent = 'Link copied';
+  } catch {
+    button.textContent = 'Press Ctrl+C to copy';
+    window.prompt('Copy this link:', url);
+  }
+  setTimeout(() => { button.textContent = original; }, 2000);
 }
 
 /* ---- Wiring ---- */
 
-$('#global-search').addEventListener('input', event => { state.search = event.target.value; clearTimeout(window.searchTimer); window.searchTimer = setTimeout(renderSearch, 120); });
+$('#global-search').addEventListener('input', event => {
+  state.search = event.target.value;
+  state.focus = 0;
+  clearTimeout(window.searchTimer);
+  window.searchTimer = setTimeout(() => { pushUrl(searchUrl(), true); renderSearch(); }, 120);
+});
 document.querySelectorAll('.tab').forEach(tab => tab.addEventListener('click', () => setScope(tab.dataset.scope)));
-$('#search-book-filter').addEventListener('change', renderSearch);
-$('#category-filter').addEventListener('change', renderSearch);
-$('#reader-book').addEventListener('change', event => { state.book = event.target.value; state.chapter = 1; updateChapterOptions(); renderReader(); });
-$('#reader-chapter').addEventListener('change', event => { state.chapter = Number(event.target.value); renderReader(); });
-document.addEventListener('click', event => { const target = event.target.closest('[data-open-book]'); if (target) openBook(target.dataset.openBook, target.dataset.openChapter); });
+$('#search-book-filter').addEventListener('change', event => {
+  state.bookFilter = event.target.value; state.focus = 0; pushUrl(searchUrl()); renderSearch();
+});
+$('#category-filter').addEventListener('change', event => {
+  state.theme = event.target.value; state.focus = 0; pushUrl(searchUrl()); renderSearch();
+});
+$('#reader-book').addEventListener('change', event => {
+  state.book = event.target.value; state.chapter = 1; state.readerStarted = true;
+  updateChapterOptions(); pushUrl(chapterUrl(state.book, 1)); renderReader();
+});
+$('#reader-chapter').addEventListener('change', event => {
+  state.chapter = Number(event.target.value); state.readerStarted = true;
+  pushUrl(chapterUrl(state.book, state.chapter)); renderReader();
+});
+$('#copy-chapter-link').addEventListener('click', event => copyChapterLink(event.currentTarget));
+
+document.addEventListener('click', event => {
+  const focusLink = event.target.closest('[data-focus-promise]');
+  if (focusLink) {
+    event.preventDefault();
+    state.focus = Number(focusLink.dataset.focusPromise);
+    state.search = '';
+    syncControls();
+    pushUrl(promiseUrl(state.focus));
+    renderSearch();
+    return;
+  }
+  const bookLink = event.target.closest('[data-open-book]');
+  if (bookLink) {
+    event.preventDefault();
+    openBook(bookLink.dataset.openBook, bookLink.dataset.openChapter);
+    return;
+  }
+  if (event.target.id === 'clear-focus') {
+    state.focus = 0;
+    pushUrl(searchUrl());
+    renderSearch();
+  }
+});
+
+window.addEventListener('popstate', async () => {
+  if (!state.index) return;
+  const chapterRequested = applyUrl();
+  renderSearch();
+  if (chapterRequested) await renderReader();
+  updateTitle();
+});
 
 loadData().catch(error => {
   $('#results').innerHTML = `<div class="empty">${escapeHtml(error.message)} Please refresh the page.</div>`;
