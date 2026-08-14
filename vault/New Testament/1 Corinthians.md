@@ -24,6 +24,18 @@ Corinth had every gift and little love. Chapter 13 sits between chapters on gift
 ## Connections
 [[Exodus]] · [[Numbers]] · [[Psalms]] · [[Isaiah]] · [[Hosea]] · [[Genesis]] · [[Job]]
 
+## Promises in 1 Corinthians
+
+**7 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=1+Corinthians) — 6 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#917**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=917) · [[1 Corinthians#1 Corinthians 1|1 Corinthians 1:8-9]] — He will confirm you to the end, blameless in the day of our Lord Jesus Christ; God is faithful, by whom you were called *(Perseverance · Faithfulness · unconditional)*
+- [**#918**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=918) · [[1 Corinthians#1 Corinthians 2|1 Corinthians 2:9]] — Eye has not seen, nor ear heard, the things which God has prepared for those who love Him *(Reward · Glory · unconditional)*
+- [**#919**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=919) · [[1 Corinthians#1 Corinthians 3|1 Corinthians 3:8]] — Each one will receive his own reward according to his own labor *(Reward · conditional)*
+- [**#920**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=920) · [[1 Corinthians#1 Corinthians 10|1 Corinthians 10:13]] — No temptation has overtaken you except such as is common to man; God is faithful, who will not allow you to be tempted beyond what you are able, but will also make the way of escape *(Faithfulness · Deliverance · unconditional)*
+- [**#921**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=921) · [[1 Corinthians#1 Corinthians 15|1 Corinthians 15:22]] — As in Adam all die, even so in Christ all shall be made alive *(Resurrection · unconditional)*
+- [**#922**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=922) · [[1 Corinthians#1 Corinthians 15|1 Corinthians 15:51-52]] — We shall all be changed — in a moment, in the twinkling of an eye, at the last trumpet; the dead will be raised incorruptible *(Resurrection · unconditional)*
+- [**#923**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=923) · [[1 Corinthians#1 Corinthians 15|1 Corinthians 15:57]] — Thanks be to God, who gives us the victory through our Lord Jesus Christ *(Victory · unconditional)*
+
 ## Text (KJV)
 
 ### 1 Corinthians 1

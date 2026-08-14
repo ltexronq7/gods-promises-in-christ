@@ -24,6 +24,17 @@ God promised to restore the years the locust ate. Whatever the swarm took from y
 ## Connections
 [[Acts]] · [[Romans]] · [[Revelation]]
 
+## Promises in Joel
+
+**6 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Joel) — 4 unconditional, 2 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#721**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=721) · [[Joel#Joel 2|Joel 2:13]] — Return to the LORD your God, for He is gracious and merciful, slow to anger, of great kindness, and He relents from doing harm *(Mercy · conditional)*
+- [**#722**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=722) · [[Joel#Joel 2|Joel 2:25]] — I will restore to you the years that the swarming locust has eaten *(Restoration · unconditional)*
+- [**#723**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=723) · [[Joel#Joel 2|Joel 2:26]] — You shall eat in plenty and be satisfied, and praise the name of the LORD; My people shall never be put to shame *(Provision · Honor · unconditional)*
+- [**#724**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=724) · [[Joel#Joel 2|Joel 2:28-29]] — Afterward I will pour out My Spirit on all flesh; your sons and daughters shall prophesy; on My menservants and maidservants I will pour out My Spirit *(Holy Spirit · unconditional)*
+- [**#725**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=725) · [[Joel#Joel 2|Joel 2:32]] — Whoever calls on the name of the LORD shall be saved *(Salvation · conditional)*
+- [**#726**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=726) · [[Joel#Joel 3|Joel 3:16]] — The LORD will be a shelter for His people and the strength of the children of Israel *(Refuge · Strength · unconditional)*
+
 ## Text (KJV)
 
 ### Joel 1

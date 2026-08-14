@@ -24,6 +24,19 @@ Christ is the **final Deliverer** — every flawed judge points to the sinless O
 ## Connections
 [[Ruth]] · [[Hebrews]]
 
+## Promises in Judges
+
+**8 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Judges) — 8 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#224**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=224) · [[Judges#Judges 1|Judges 1:2]] — Judah shall go up first; God has delivered the land into his hand *(Victory · unconditional)*
+- [**#225**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=225) · [[Judges#Judges 2|Judges 2:1]] — The Angel of the LORD declares: I will never break My covenant with you *(Covenant · Faithfulness · unconditional)*
+- [**#226**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=226) · [[Judges#Judges 4|Judges 4:7]] — God will deploy Sisera at the River Kishon and deliver him into Barak's hand *(Victory · unconditional)*
+- [**#227**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=227) · [[Judges#Judges 6|Judges 6:12]] — The LORD is with you, mighty man of valor *(Presence · unconditional)*
+- [**#228**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=228) · [[Judges#Judges 6|Judges 6:14]] — Go in this might of yours; you shall save Israel from the Midianites — have I not sent you? *(Commission · Victory · unconditional)*
+- [**#229**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=229) · [[Judges#Judges 6|Judges 6:16]] — Surely I will be with you, and you shall defeat the Midianites as one man *(Presence · Victory · unconditional)*
+- [**#230**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=230) · [[Judges#Judges 7|Judges 7:7]] — By the three hundred men who lapped I will save you and deliver the Midianites into your hand *(Deliverance · unconditional)*
+- [**#231**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=231) · [[Judges#Judges 13|Judges 13:3-5]] — The barren wife of Manoah will conceive and bear a son who will begin to deliver Israel from the Philistines *(Provision · Deliverance · unconditional)*
+
 ## Text (KJV)
 
 ### Judges 1

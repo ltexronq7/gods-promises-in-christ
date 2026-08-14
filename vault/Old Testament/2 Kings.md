@@ -24,6 +24,17 @@ Naaman almost missed his healing because the instructions were too simple. Don't
 ## Connections
 [[Luke]] · [[Hebrews]]
 
+## Promises in 2 Kings
+
+**6 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=2+Kings) — 6 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#266**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=266) · [[2 Kings#2 Kings 7|2 Kings 7:1]] — Tomorrow about this time fine flour and barley will sell cheaply in the gate of Samaria *(Provision · Deliverance · unconditional)*
+- [**#267**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=267) · [[2 Kings#2 Kings 10|2 Kings 10:30]] — Because Jehu did well executing what was right, his sons to the fourth generation shall sit on Israel's throne *(Kingdom · unconditional)*
+- [**#268**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=268) · [[2 Kings#2 Kings 19|2 Kings 19:32-34]] — The king of Assyria shall not come into this city; God will defend it and save it for His own sake and David's sake *(Protection · Deliverance · unconditional)*
+- [**#269**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=269) · [[2 Kings#2 Kings 20|2 Kings 20:5-6]] — God has heard Hezekiah's prayer and seen his tears; He will heal him, add fifteen years to his life, and deliver the city from Assyria *(Healing · Prayer · unconditional)*
+- [**#270**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=270) · [[2 Kings#2 Kings 21|2 Kings 21:12-14]] — God will bring such calamity on Jerusalem that both ears of everyone who hears will tingle, because of Manasseh's sin *(Judgment · unconditional)*
+- [**#271**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=271) · [[2 Kings#2 Kings 22|2 Kings 22:19-20]] — Because Josiah's heart was tender and he humbled himself, he shall be gathered to his grave in peace and not see the coming calamity *(Mercy · Peace · unconditional)*
+
 ## Text (KJV)
 
 ### 2 Kings 1

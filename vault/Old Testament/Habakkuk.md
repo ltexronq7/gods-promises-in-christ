@@ -24,6 +24,14 @@ Habakkuk starts with "How long?" and ends with "yet I will rejoice." You're allo
 ## Connections
 [[Romans]] · [[Galatians]] · [[Hebrews]] · [[Acts]]
 
+## Promises in Habakkuk
+
+**3 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Habakkuk) — 2 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#740**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=740) · [[Habakkuk#Habakkuk 2|Habakkuk 2:3]] — The vision is yet for an appointed time; though it tarries, wait for it; it will surely come, it will not tarry *(Faithfulness · Hope · unconditional)*
+- [**#741**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=741) · [[Habakkuk#Habakkuk 2|Habakkuk 2:4]] — The just shall live by his faith *(Faith · Life · conditional)*
+- [**#742**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=742) · [[Habakkuk#Habakkuk 2|Habakkuk 2:14]] — The earth will be filled with the knowledge of the glory of the LORD as the waters cover the sea *(Kingdom · Glory · unconditional)*
+
 ## Text (KJV)
 
 ### Habakkuk 1

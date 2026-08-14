@@ -24,6 +24,16 @@ God doesn't just tolerate His redeemed — He sings over them. Let that verse re
 ## Connections
 [[Joel]]
 
+## Promises in Zephaniah
+
+**5 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Zephaniah) — 4 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#743**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=743) · [[Zephaniah#Zephaniah 2|Zephaniah 2:3]] — Seek the LORD, all you meek of the earth; it may be that you will be hidden in the day of the LORD's anger *(Protection · conditional)*
+- [**#744**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=744) · [[Zephaniah#Zephaniah 3|Zephaniah 3:9]] — I will restore to the peoples a pure language, that they all may call on the name of the LORD to serve Him with one accord *(Restoration · Worship · unconditional)*
+- [**#745**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=745) · [[Zephaniah#Zephaniah 3|Zephaniah 3:15]] — The LORD has taken away your judgments, cast out your enemy; the King of Israel, the LORD, is in your midst; you shall see disaster no more *(Deliverance · Presence · unconditional)*
+- [**#746**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=746) · [[Zephaniah#Zephaniah 3|Zephaniah 3:17]] — The LORD your God in your midst, the Mighty One, will save; He will rejoice over you with gladness; He will quiet you with His love; He will rejoice over you with singing *(Presence · Love · Salvation · unconditional)*
+- [**#747**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=747) · [[Zephaniah#Zephaniah 3|Zephaniah 3:19-20]] — I will save the lame and gather the outcast; I will give you fame and praise among all the peoples when I return your captives before your eyes *(Restoration · Honor · unconditional)*
+
 ## Text (KJV)
 
 ### Zephaniah 1

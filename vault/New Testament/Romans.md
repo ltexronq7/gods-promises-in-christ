@@ -24,6 +24,32 @@ Christ is the **righteousness of God for everyone who believes** — set forth a
 ## Connections
 [[Habakkuk]] · [[Genesis]] · [[Psalms]] · [[Isaiah]] · [[Hosea]] · [[Deuteronomy]] · [[Job]]
 
+## Promises in Romans
+
+**21 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Romans) — 15 unconditional, 6 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#896**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=896) · [[Romans#Romans 1|Romans 1:16]] — The gospel is the power of God to salvation for everyone who believes, for the Jew first and also for the Greek *(Salvation · conditional)*
+- [**#897**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=897) · [[Romans#Romans 4|Romans 4:5]] — To him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness *(Justification · conditional)*
+- [**#898**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=898) · [[Romans#Romans 5|Romans 5:1]] — Having been justified by faith, we have peace with God through our Lord Jesus Christ *(Peace · Justification · unconditional)*
+- [**#899**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=899) · [[Romans#Romans 5|Romans 5:9]] — Having now been justified by His blood, we shall be saved from wrath through Him *(Salvation · The Cross · unconditional)*
+- [**#900**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=900) · [[Romans#Romans 6|Romans 6:14]] — Sin shall not have dominion over you, for you are not under law but under grace *(Victory · Grace · unconditional)*
+- [**#901**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=901) · [[Romans#Romans 6|Romans 6:23]] — The gift of God is eternal life in Christ Jesus our Lord *(Eternal Life · unconditional)*
+- [**#902**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=902) · [[Romans#Romans 8|Romans 8:1]] — There is therefore now no condemnation to those who are in Christ Jesus *(Justification · Security · unconditional)*
+- [**#903**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=903) · [[Romans#Romans 8|Romans 8:11]] — He who raised Christ from the dead will also give life to your mortal bodies through His Spirit who dwells in you *(Resurrection · Holy Spirit · unconditional)*
+- [**#904**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=904) · [[Romans#Romans 8|Romans 8:16-17]] — The Spirit Himself bears witness that we are children of God — and if children, then heirs of God and joint heirs with Christ *(Adoption · Inheritance · unconditional)*
+- [**#905**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=905) · [[Romans#Romans 8|Romans 8:18]] — The sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us *(Glory · Hope · unconditional)*
+- [**#906**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=906) · [[Romans#Romans 8|Romans 8:26]] — The Spirit helps in our weaknesses and makes intercession for us with groanings which cannot be uttered *(Holy Spirit · Prayer · unconditional)*
+- [**#907**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=907) · [[Romans#Romans 8|Romans 8:28]] — All things work together for good to those who love God, to those who are the called according to His purpose *(Providence · conditional)*
+- [**#908**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=908) · [[Romans#Romans 8|Romans 8:30]] — Whom He predestined He also called; whom He called He also justified; and whom He justified He also glorified *(Salvation · Glorification · unconditional)*
+- [**#909**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=909) · [[Romans#Romans 8|Romans 8:32]] — He who did not spare His own Son but delivered Him up for us all, how shall He not with Him also freely give us all things? *(Provision · The Cross · unconditional)*
+- [**#910**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=910) · [[Romans#Romans 8|Romans 8:37-39]] — In all these things we are more than conquerors; nothing shall be able to separate us from the love of God which is in Christ Jesus our Lord *(Security · Love · Victory · unconditional)*
+- [**#911**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=911) · [[Romans#Romans 10|Romans 10:9]] — If you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved *(Salvation · Resurrection · conditional)*
+- [**#912**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=912) · [[Romans#Romans 10|Romans 10:11]] — Whoever believes on Him will not be put to shame *(Honor · Security · conditional)*
+- [**#913**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=913) · [[Romans#Romans 10|Romans 10:13]] — Whoever calls on the name of the LORD shall be saved *(Salvation · conditional)*
+- [**#914**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=914) · [[Romans#Romans 11|Romans 11:26-27]] — All Israel will be saved: the Deliverer will come out of Zion and turn away ungodliness from Jacob, for this is My covenant when I take away their sins *(Salvation · Covenant · unconditional)*
+- [**#915**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=915) · [[Romans#Romans 11|Romans 11:29]] — The gifts and the calling of God are irrevocable *(Faithfulness · unconditional)*
+- [**#916**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=916) · [[Romans#Romans 16|Romans 16:20]] — The God of peace will crush Satan under your feet shortly *(Victory · unconditional)*
+
 ## Text (KJV)
 
 ### Romans 1

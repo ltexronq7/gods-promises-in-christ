@@ -24,6 +24,21 @@ God rejected the king who looked the part and chose the shepherd nobody invited 
 ## Connections
 [[2 Samuel]] · [[Acts]] · [[Psalms]] · [[Hebrews]]
 
+## Promises in 1 Samuel
+
+**10 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=1+Samuel) — 9 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#233**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=233) · [[1 Samuel#1 Samuel 2|1 Samuel 2:30]] — Those who honor Me I will honor, and those who despise Me shall be lightly esteemed *(Blessing · Judgment · conditional)*
+- [**#234**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=234) · [[1 Samuel#1 Samuel 2|1 Samuel 2:35]] — God will raise up a faithful priest who shall do according to what is in His heart, and He will build him a sure house *(Priesthood · Messiah · unconditional)*
+- [**#235**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=235) · [[1 Samuel#1 Samuel 3|1 Samuel 3:11-14]] — God will judge Eli's house forever, and its iniquity shall not be atoned by sacrifice *(Judgment · unconditional)*
+- [**#236**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=236) · [[1 Samuel#1 Samuel 9|1 Samuel 9:16]] — Saul shall save God's people from the hand of the Philistines, for God has looked upon His people *(Deliverance · unconditional)*
+- [**#237**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=237) · [[1 Samuel#1 Samuel 10|1 Samuel 10:7]] — Do as the occasion demands, for God is with you *(Presence · unconditional)*
+- [**#238**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=238) · [[1 Samuel#1 Samuel 12|1 Samuel 12:22]] — The LORD will not forsake His people, for His great name's sake, because it has pleased Him to make you His people *(Faithfulness · unconditional)*
+- [**#239**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=239) · [[1 Samuel#1 Samuel 15|1 Samuel 15:28]] — The LORD has torn the kingdom of Israel from Saul and given it to a neighbor better than he *(Judgment · Kingdom · unconditional)*
+- [**#240**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=240) · [[1 Samuel#1 Samuel 16|1 Samuel 16:1]] — God has provided Himself a king among the sons of Jesse *(Kingdom · Provision · unconditional)*
+- [**#241**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=241) · [[1 Samuel#1 Samuel 23|1 Samuel 23:4]] — Arise, go down to Keilah, for I will deliver the Philistines into your hand *(Victory · unconditional)*
+- [**#242**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=242) · [[1 Samuel#1 Samuel 30|1 Samuel 30:8]] — Pursue, for you shall surely overtake them and without fail recover all *(Victory · Restoration · unconditional)*
+
 ## Text (KJV)
 
 ### 1 Samuel 1

@@ -24,6 +24,52 @@ You are not saved by how well you keep the feast but by whether the blood is on 
 ## Connections
 [[Leviticus]] · [[Numbers]] · [[Deuteronomy]] · [[Psalms]] · [[Matthew]] · [[John]] · [[1 Corinthians]] · [[Hebrews]] · [[Revelation]]
 
+## Promises in Exodus
+
+**41 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Exodus) — 31 unconditional, 10 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#77**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=77) · [[Exodus#Exodus 3|Exodus 3:8]] — God has come down to deliver Israel from Egypt and bring them to a good and large land *(Deliverance · Land · unconditional)*
+- [**#78**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=78) · [[Exodus#Exodus 3|Exodus 3:10]] — God will send Moses to Pharaoh to bring Israel out of Egypt *(Commission · Deliverance · unconditional)*
+- [**#79**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=79) · [[Exodus#Exodus 3|Exodus 3:12]] — God will certainly be with Moses *(Presence · unconditional)*
+- [**#80**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=80) · [[Exodus#Exodus 3|Exodus 3:12]] — Israel will serve God on this mountain as the sign *(Sign · unconditional)*
+- [**#81**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=81) · [[Exodus#Exodus 3|Exodus 3:17]] — God will bring Israel up out of affliction into a land flowing with milk and honey *(Deliverance · Land · unconditional)*
+- [**#82**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=82) · [[Exodus#Exodus 3|Exodus 3:20]] — God will stretch out His hand, strike Egypt with wonders, and after that Pharaoh will let them go *(Deliverance · unconditional)*
+- [**#83**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=83) · [[Exodus#Exodus 3|Exodus 3:21-22]] — God will give Israel favor with the Egyptians; they will not go out empty-handed *(Provision · unconditional)*
+- [**#84**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=84) · [[Exodus#Exodus 4|Exodus 4:12]] — God will be with Moses' mouth and teach him what to say *(Wisdom · Presence · unconditional)*
+- [**#85**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=85) · [[Exodus#Exodus 4|Exodus 4:15]] — God will be with the mouths of Moses and Aaron and teach them what to do *(Wisdom · unconditional)*
+- [**#86**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=86) · [[Exodus#Exodus 6|Exodus 6:6]] — God will bring Israel out from under the burdens of Egypt *(Deliverance · unconditional)*
+- [**#87**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=87) · [[Exodus#Exodus 6|Exodus 6:6]] — God will rescue Israel from bondage *(Deliverance · unconditional)*
+- [**#88**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=88) · [[Exodus#Exodus 6|Exodus 6:6]] — God will redeem Israel with an outstretched arm and great judgments *(Redemption · unconditional)*
+- [**#89**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=89) · [[Exodus#Exodus 6|Exodus 6:7]] — God will take Israel as His people and be their God *(Covenant · Presence · unconditional)*
+- [**#90**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=90) · [[Exodus#Exodus 6|Exodus 6:8]] — God will bring Israel into the land He swore to Abraham, Isaac, and Jacob and give it as a heritage *(Land · Inheritance · unconditional)*
+- [**#91**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=91) · [[Exodus#Exodus 8|Exodus 8:22-23]] — God will set apart Goshen so no swarms of flies are there, making a difference between His people and Egypt *(Protection · unconditional)*
+- [**#92**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=92) · [[Exodus#Exodus 9|Exodus 9:4]] — The LORD will make a difference between Israel's livestock and Egypt's; nothing of Israel's shall die *(Protection · unconditional)*
+- [**#93**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=93) · [[Exodus#Exodus 12|Exodus 12:13]] — When God sees the blood, He will pass over; the plague shall not destroy those under it *(Redemption · Protection · conditional)*
+- [**#94**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=94) · [[Exodus#Exodus 12|Exodus 12:23]] — The LORD will not allow the destroyer to enter houses marked by the blood *(Protection · conditional)*
+- [**#95**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=95) · [[Exodus#Exodus 14|Exodus 14:13-14]] — Israel will see the salvation of the LORD; the LORD will fight for them *(Deliverance · Victory · unconditional)*
+- [**#96**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=96) · [[Exodus#Exodus 15|Exodus 15:26]] — If Israel diligently heeds God's voice, He will put none of Egypt's diseases on them, for He is the LORD who heals *(Healing · conditional)*
+- [**#97**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=97) · [[Exodus#Exodus 16|Exodus 16:4]] — God will rain bread from heaven for Israel *(Provision · unconditional)*
+- [**#98**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=98) · [[Exodus#Exodus 16|Exodus 16:12]] — At twilight Israel shall eat meat, and in the morning be filled with bread, and know the LORD their God *(Provision · unconditional)*
+- [**#99**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=99) · [[Exodus#Exodus 19|Exodus 19:5-6]] — If Israel obeys God's voice and keeps His covenant, they shall be His special treasure, a kingdom of priests and a holy nation *(Covenant · Sanctification · conditional)*
+- [**#100**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=100) · [[Exodus#Exodus 20|Exodus 20:6]] — God shows mercy to thousands who love Him and keep His commandments *(Mercy · conditional)*
+- [**#101**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=101) · [[Exodus#Exodus 20|Exodus 20:12]] — Honor your father and mother, that your days may be long upon the land *(Blessing · Land · conditional)*
+- [**#102**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=102) · [[Exodus#Exodus 20|Exodus 20:24]] — In every place where God records His name, He will come to His people and bless them *(Presence · Blessing · unconditional)*
+- [**#103**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=103) · [[Exodus#Exodus 23|Exodus 23:20]] — God sends His Angel before Israel to keep them in the way and bring them into the prepared place *(Guidance · Protection · unconditional)*
+- [**#104**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=104) · [[Exodus#Exodus 23|Exodus 23:22]] — If Israel obeys His voice, God will be an enemy to their enemies *(Protection · Victory · conditional)*
+- [**#105**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=105) · [[Exodus#Exodus 23|Exodus 23:25]] — Serve the LORD, and He will bless your bread and water and take sickness away from your midst *(Provision · Healing · conditional)*
+- [**#106**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=106) · [[Exodus#Exodus 23|Exodus 23:26]] — No one shall miscarry or be barren; God will fulfill the number of their days *(Blessing · conditional)*
+- [**#107**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=107) · [[Exodus#Exodus 23|Exodus 23:27-28]] — God will send His fear and hornets before Israel and drive out their enemies *(Victory · unconditional)*
+- [**#108**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=108) · [[Exodus#Exodus 23|Exodus 23:30]] — Little by little God will drive out the inhabitants until Israel has increased and inherits the land *(Land · Victory · unconditional)*
+- [**#109**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=109) · [[Exodus#Exodus 23|Exodus 23:31]] — God will set Israel's borders from the Red Sea to the Euphrates and deliver the inhabitants into their hand *(Land · unconditional)*
+- [**#110**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=110) · [[Exodus#Exodus 29|Exodus 29:45]] — God will dwell among the children of Israel and be their God *(Presence · unconditional)*
+- [**#111**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=111) · [[Exodus#Exodus 32|Exodus 32:34]] — God's Angel shall go before Israel; in the day He visits, He will visit their sin upon them *(Guidance · Judgment · unconditional)*
+- [**#112**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=112) · [[Exodus#Exodus 33|Exodus 33:14]] — God's Presence will go with Moses, and He will give him rest *(Presence · Peace · unconditional)*
+- [**#113**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=113) · [[Exodus#Exodus 33|Exodus 33:19]] — God will make all His goodness pass before Moses and will be gracious to whom He will be gracious *(Grace · Mercy · unconditional)*
+- [**#114**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=114) · [[Exodus#Exodus 34|Exodus 34:6-7]] — The LORD is merciful and gracious, longsuffering, abounding in goodness and truth, keeping mercy for thousands, forgiving iniquity — yet by no means clearing the guilty *(Mercy · Grace · Judgment · unconditional)*
+- [**#115**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=115) · [[Exodus#Exodus 34|Exodus 34:10]] — God will make a covenant and do marvels never before done in all the earth *(Covenant · unconditional)*
+- [**#116**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=116) · [[Exodus#Exodus 34|Exodus 34:11]] — God will drive out the Amorite, Canaanite, Hittite, Perizzite, Hivite, and Jebusite before Israel *(Victory · Land · unconditional)*
+- [**#117**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=117) · [[Exodus#Exodus 34|Exodus 34:24]] — God will cast out the nations, enlarge Israel's borders, and no one will covet their land when they appear before Him *(Protection · Land · conditional)*
+
 ## Text (KJV)
 
 ### Exodus 1

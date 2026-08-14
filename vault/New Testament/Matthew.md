@@ -24,6 +24,50 @@ Christ is the **King of the Jews, Messiah of prophecy** — Matthew's drumbeat i
 ## Connections
 [[Isaiah]] · [[Micah]] · [[Hosea]] · [[Zechariah]] · [[Psalms]] · [[Jonah]] · [[Daniel]] · [[Genesis]] · [[Jeremiah]] · [[Deuteronomy]]
 
+## Promises in Matthew
+
+**39 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Matthew) — 14 unconditional, 25 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#777**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=777) · [[Matthew#Matthew 1|Matthew 1:21]] — She will bring forth a Son, and you shall call His name JESUS, for He will save His people from their sins *(Salvation · Messiah · unconditional)*
+- [**#778**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=778) · [[Matthew#Matthew 5|Matthew 5:3]] — Blessed are the poor in spirit, for theirs is the kingdom of heaven *(Kingdom · conditional)*
+- [**#779**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=779) · [[Matthew#Matthew 5|Matthew 5:4]] — Blessed are those who mourn, for they shall be comforted *(Comfort · conditional)*
+- [**#780**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=780) · [[Matthew#Matthew 5|Matthew 5:5]] — Blessed are the meek, for they shall inherit the earth *(Inheritance · conditional)*
+- [**#781**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=781) · [[Matthew#Matthew 5|Matthew 5:6]] — Blessed are those who hunger and thirst for righteousness, for they shall be filled *(Satisfaction · Righteousness · conditional)*
+- [**#782**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=782) · [[Matthew#Matthew 5|Matthew 5:7]] — Blessed are the merciful, for they shall obtain mercy *(Mercy · conditional)*
+- [**#783**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=783) · [[Matthew#Matthew 5|Matthew 5:8]] — Blessed are the pure in heart, for they shall see God *(Presence · Glory · conditional)*
+- [**#784**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=784) · [[Matthew#Matthew 5|Matthew 5:9]] — Blessed are the peacemakers, for they shall be called sons of God *(Adoption · conditional)*
+- [**#785**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=785) · [[Matthew#Matthew 5|Matthew 5:10-12]] — Blessed are those persecuted for righteousness' sake — great is your reward in heaven *(Reward · Kingdom · conditional)*
+- [**#786**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=786) · [[Matthew#Matthew 6|Matthew 6:4]] — Your Father who sees in secret will Himself reward you openly *(Reward · conditional)*
+- [**#787**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=787) · [[Matthew#Matthew 6|Matthew 6:6]] — Pray to your Father in the secret place, and your Father who sees in secret will reward you openly *(Prayer · Reward · conditional)*
+- [**#788**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=788) · [[Matthew#Matthew 6|Matthew 6:14]] — If you forgive men their trespasses, your heavenly Father will also forgive you *(Forgiveness · conditional)*
+- [**#789**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=789) · [[Matthew#Matthew 6|Matthew 6:30]] — If God so clothes the grass of the field, will He not much more clothe you, O you of little faith? *(Provision · unconditional)*
+- [**#790**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=790) · [[Matthew#Matthew 6|Matthew 6:33]] — Seek first the kingdom of God and His righteousness, and all these things shall be added to you *(Provision · conditional)*
+- [**#791**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=791) · [[Matthew#Matthew 7|Matthew 7:7-8]] — Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you *(Prayer · conditional)*
+- [**#792**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=792) · [[Matthew#Matthew 7|Matthew 7:11]] — If you, being evil, know how to give good gifts, how much more will your Father in heaven give good things to those who ask Him *(Provision · Prayer · conditional)*
+- [**#793**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=793) · [[Matthew#Matthew 10|Matthew 10:19-20]] — Do not worry how or what you should speak, for it will be given to you in that hour; it is the Spirit of your Father who speaks in you *(Holy Spirit · Wisdom · unconditional)*
+- [**#794**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=794) · [[Matthew#Matthew 10|Matthew 10:22]] — He who endures to the end will be saved *(Salvation · Perseverance · conditional)*
+- [**#795**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=795) · [[Matthew#Matthew 10|Matthew 10:29-31]] — Not one sparrow falls apart from your Father's will; the very hairs of your head are numbered — you are of more value than many sparrows *(Providence · Care · unconditional)*
+- [**#796**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=796) · [[Matthew#Matthew 10|Matthew 10:32]] — Whoever confesses Me before men, him I will also confess before My Father in heaven *(Reward · Acknowledgment · conditional)*
+- [**#797**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=797) · [[Matthew#Matthew 10|Matthew 10:39]] — He who loses his life for My sake will find it *(Life · conditional)*
+- [**#798**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=798) · [[Matthew#Matthew 10|Matthew 10:42]] — Whoever gives one of these little ones only a cup of cold water in the name of a disciple shall by no means lose his reward *(Reward · conditional)*
+- [**#799**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=799) · [[Matthew#Matthew 11|Matthew 11:28]] — Come to Me, all you who labor and are heavy laden, and I will give you rest *(Rest · Peace · conditional)*
+- [**#800**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=800) · [[Matthew#Matthew 11|Matthew 11:29]] — Take My yoke upon you and learn from Me, and you will find rest for your souls *(Rest · conditional)*
+- [**#801**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=801) · [[Matthew#Matthew 12|Matthew 12:20]] — A bruised reed He will not break, and smoking flax He will not quench, till He sends forth justice to victory *(Mercy · Justice · unconditional)*
+- [**#802**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=802) · [[Matthew#Matthew 16|Matthew 16:18]] — On this rock I will build My church, and the gates of Hades shall not prevail against it *(Church · Victory · unconditional)*
+- [**#803**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=803) · [[Matthew#Matthew 16|Matthew 16:27]] — The Son of Man will come in the glory of His Father with His angels, and He will reward each according to his works *(Second Coming · Reward · unconditional)*
+- [**#804**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=804) · [[Matthew#Matthew 17|Matthew 17:20]] — If you have faith as a mustard seed, nothing will be impossible for you *(Faith · Power · conditional)*
+- [**#805**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=805) · [[Matthew#Matthew 18|Matthew 18:19-20]] — If two of you agree on earth concerning anything they ask, it will be done for them by My Father; where two or three are gathered in My name, I am there in the midst of them *(Prayer · Presence · conditional)*
+- [**#806**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=806) · [[Matthew#Matthew 19|Matthew 19:28-29]] — In the regeneration you who have followed Me will sit on twelve thrones; everyone who has left houses or family for My name's sake shall receive a hundredfold and inherit eternal life *(Reward · Eternal Life · conditional)*
+- [**#807**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=807) · [[Matthew#Matthew 21|Matthew 21:22]] — Whatever things you ask in prayer, believing, you will receive *(Prayer · conditional)*
+- [**#808**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=808) · [[Matthew#Matthew 24|Matthew 24:13]] — He who endures to the end shall be saved *(Salvation · Perseverance · conditional)*
+- [**#809**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=809) · [[Matthew#Matthew 24|Matthew 24:14]] — This gospel of the kingdom will be preached in all the world as a witness to all the nations, and then the end will come *(Kingdom · Prophecy · unconditional)*
+- [**#810**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=810) · [[Matthew#Matthew 24|Matthew 24:30]] — They will see the Son of Man coming on the clouds of heaven with power and great glory *(Second Coming · unconditional)*
+- [**#811**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=811) · [[Matthew#Matthew 24|Matthew 24:35]] — Heaven and earth will pass away, but My words will by no means pass away *(Faithfulness · unconditional)*
+- [**#812**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=812) · [[Matthew#Matthew 25|Matthew 25:34]] — Come, you blessed of My Father, inherit the kingdom prepared for you from the foundation of the world *(Kingdom · Inheritance · unconditional)*
+- [**#813**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=813) · [[Matthew#Matthew 26|Matthew 26:28]] — This is My blood of the new covenant, which is shed for many for the remission of sins *(New Covenant · Forgiveness · unconditional)*
+- [**#814**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=814) · [[Matthew#Matthew 26|Matthew 26:64]] — Hereafter you will see the Son of Man sitting at the right hand of the Power, and coming on the clouds of heaven *(Second Coming · unconditional)*
+- [**#815**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=815) · [[Matthew#Matthew 28|Matthew 28:20]] — Lo, I am with you always, even to the end of the age *(Presence · unconditional)*
+
 ## Text (KJV)
 
 ### Matthew 1

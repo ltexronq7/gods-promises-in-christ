@@ -24,6 +24,13 @@ Solomon ran every experiment — pleasure, wealth, work, wisdom — and filed th
 ## Connections
 [[Romans]]
 
+## Promises in Ecclesiastes
+
+**2 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Ecclesiastes) — 1 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#439**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=439) · [[Ecclesiastes#Ecclesiastes 8|Ecclesiastes 8:12]] — Though a sinner does evil a hundred times, it will be well with those who fear God *(Blessing · conditional)*
+- [**#440**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=440) · [[Ecclesiastes#Ecclesiastes 12|Ecclesiastes 12:14]] — God will bring every work into judgment, including every secret thing, whether good or evil *(Judgment · Justice · unconditional)*
+
 ## Text (KJV)
 
 ### Ecclesiastes 1

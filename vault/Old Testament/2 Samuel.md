@@ -24,6 +24,22 @@ David sat before the LORD and said "Who am I?" Grace should still stagger you. W
 ## Connections
 [[1 Samuel]] · [[Matthew]] · [[Luke]] · [[Acts]] · [[Romans]] · [[Hebrews]]
 
+## Promises in 2 Samuel
+
+**11 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=2+Samuel) — 10 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#243**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=243) · [[2 Samuel#2 Samuel 5|2 Samuel 5:19]] — Go up, for I will doubtless deliver the Philistines into your hand *(Victory · unconditional)*
+- [**#244**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=244) · [[2 Samuel#2 Samuel 7|2 Samuel 7:9]] — God will make David a great name, like the name of the great men of the earth *(Blessing · unconditional)*
+- [**#245**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=245) · [[2 Samuel#2 Samuel 7|2 Samuel 7:10]] — God will appoint a place for His people Israel and plant them, that they may dwell in a place of their own and move no more *(Land · Peace · unconditional)*
+- [**#246**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=246) · [[2 Samuel#2 Samuel 7|2 Samuel 7:11]] — The LORD will make David a house *(Covenant · Kingdom · unconditional)*
+- [**#247**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=247) · [[2 Samuel#2 Samuel 7|2 Samuel 7:12]] — God will set up David's seed after him and establish his kingdom *(Kingdom · Messiah · unconditional)*
+- [**#248**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=248) · [[2 Samuel#2 Samuel 7|2 Samuel 7:13]] — David's seed shall build a house for God's name, and God will establish the throne of his kingdom forever *(Kingdom · Messiah · unconditional)*
+- [**#249**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=249) · [[2 Samuel#2 Samuel 7|2 Samuel 7:14]] — I will be his Father, and he shall be My son; when he sins I will chasten him with the rod of men *(Covenant · Discipline · unconditional)*
+- [**#250**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=250) · [[2 Samuel#2 Samuel 7|2 Samuel 7:15]] — My mercy shall not depart from him, as I took it from Saul *(Mercy · unconditional)*
+- [**#251**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=251) · [[2 Samuel#2 Samuel 7|2 Samuel 7:16]] — Your house, kingdom, and throne shall be established forever before Me *(Kingdom · Messiah · unconditional)*
+- [**#252**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=252) · [[2 Samuel#2 Samuel 12|2 Samuel 12:13-14]] — The LORD has put away David's sin — he shall not die — but the child born to him shall die *(Mercy · Judgment · unconditional)*
+- [**#253**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=253) · [[2 Samuel#2 Samuel 22|2 Samuel 22:31]] — As for God, His way is perfect; the word of the LORD is proven; He is a shield to all who trust in Him *(Protection · conditional)*
+
 ## Text (KJV)
 
 ### 2 Samuel 1

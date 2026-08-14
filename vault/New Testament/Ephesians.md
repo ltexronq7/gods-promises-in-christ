@@ -24,6 +24,16 @@ Christ is the **Head of the church and our peace** — "in whom we have redempti
 ## Connections
 [[Psalms]] · [[Genesis]] · [[Isaiah]] · [[Song of Solomon]]
 
+## Promises in Ephesians
+
+**5 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Ephesians) — 3 unconditional, 2 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#939**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=939) · [[Ephesians#Ephesians 1|Ephesians 1:13-14]] — Having believed, you were sealed with the Holy Spirit of promise, who is the guarantee of our inheritance until the redemption of the purchased possession *(Holy Spirit · Inheritance · Security · unconditional)*
+- [**#940**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=940) · [[Ephesians#Ephesians 2|Ephesians 2:6-7]] — God raised us up together and made us sit together in the heavenly places in Christ, that in the ages to come He might show the exceeding riches of His grace *(Grace · Glory · unconditional)*
+- [**#941**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=941) · [[Ephesians#Ephesians 3|Ephesians 3:20]] — He is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us *(Power · Prayer · unconditional)*
+- [**#942**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=942) · [[Ephesians#Ephesians 6|Ephesians 6:2-3]] — Honor your father and mother — the first commandment with promise — that it may be well with you and you may live long on the earth *(Blessing · Life · conditional)*
+- [**#943**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=943) · [[Ephesians#Ephesians 6|Ephesians 6:8]] — Whatever good anyone does, he will receive the same from the Lord, whether he is a slave or free *(Reward · conditional)*
+
 ## Text (KJV)
 
 ### Ephesians 1

@@ -24,6 +24,18 @@ Christ is the **Lord of glory** (Jas 2:1) whose genuine faith always gets its ha
 ## Connections
 [[Proverbs]] · [[Genesis]] · [[Joshua]] · [[Job]] · [[Leviticus]] · [[1 Kings]]
 
+## Promises in James
+
+**7 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=James) — 0 unconditional, 7 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#989**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=989) · [[James#James 1|James 1:5]] — If any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him *(Wisdom · Prayer · conditional)*
+- [**#990**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=990) · [[James#James 1|James 1:12]] — Blessed is the man who endures temptation; when he has been approved, he will receive the crown of life which the Lord has promised to those who love Him *(Reward · Life · conditional)*
+- [**#991**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=991) · [[James#James 4|James 4:6]] — God resists the proud, but gives grace to the humble *(Grace · conditional)*
+- [**#992**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=992) · [[James#James 4|James 4:7]] — Resist the devil and he will flee from you *(Victory · conditional)*
+- [**#993**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=993) · [[James#James 4|James 4:8]] — Draw near to God and He will draw near to you *(Presence · conditional)*
+- [**#994**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=994) · [[James#James 4|James 4:10]] — Humble yourselves in the sight of the Lord, and He will lift you up *(Exaltation · conditional)*
+- [**#995**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=995) · [[James#James 5|James 5:15]] — The prayer of faith will save the sick, and the Lord will raise him up; if he has committed sins, he will be forgiven *(Healing · Forgiveness · conditional)*
+
 ## Text (KJV)
 
 ### James 1

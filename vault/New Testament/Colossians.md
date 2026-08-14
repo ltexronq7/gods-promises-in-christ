@@ -24,6 +24,14 @@ Colossae was adding things to Jesus — angels, rules, secret knowledge. Anythin
 ## Connections
 [[Genesis]] · [[Philemon]]
 
+## Promises in Colossians
+
+**3 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Colossians) — 2 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#949**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=949) · [[Colossians#Colossians 1|Colossians 1:13-14]] — He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love, in whom we have redemption through His blood, the forgiveness of sins *(Redemption · Kingdom · unconditional)*
+- [**#950**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=950) · [[Colossians#Colossians 3|Colossians 3:4]] — When Christ who is our life appears, then you also will appear with Him in glory *(Glory · Second Coming · unconditional)*
+- [**#951**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=951) · [[Colossians#Colossians 3|Colossians 3:23-24]] — Whatever you do, do it heartily, as to the Lord; from the Lord you will receive the reward of the inheritance *(Reward · Inheritance · conditional)*
+
 ## Text (KJV)
 
 ### Colossians 1

@@ -24,6 +24,27 @@ The bitten Israelite only had to look and live. Salvation is not climbing to God
 ## Connections
 [[John]] · [[1 Corinthians]] · [[Hebrews]] · [[Jude]]
 
+## Promises in Numbers
+
+**16 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Numbers) — 14 unconditional, 2 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#131**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=131) · [[Numbers#Numbers 6|Numbers 6:24-27]] — The LORD will bless and keep Israel, make His face shine on them, be gracious, lift up His countenance, and give peace — for He puts His name on them and will bless them *(Blessing · Peace · Presence · unconditional)*
+- [**#132**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=132) · [[Numbers#Numbers 10|Numbers 10:9]] — When Israel blows the trumpets in war, they will be remembered before the LORD and saved from their enemies *(Deliverance · conditional)*
+- [**#133**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=133) · [[Numbers#Numbers 11|Numbers 11:18-20]] — God will give Israel meat for a whole month until it becomes loathsome, because they despised the LORD *(Provision · Judgment · unconditional)*
+- [**#134**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=134) · [[Numbers#Numbers 12|Numbers 12:6]] — If there is a prophet, God will make Himself known in a vision and speak in a dream *(Revelation · unconditional)*
+- [**#135**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=135) · [[Numbers#Numbers 14|Numbers 14:20-23]] — God pardons Israel at Moses' word, but the men who tested Him ten times shall not see the land *(Mercy · Judgment · unconditional)*
+- [**#136**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=136) · [[Numbers#Numbers 14|Numbers 14:24]] — Because Caleb has a different spirit and fully followed God, He will bring him into the land, and his descendants shall inherit it *(Inheritance · unconditional)*
+- [**#137**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=137) · [[Numbers#Numbers 14|Numbers 14:28-31]] — The unbelieving generation will fall in the wilderness, but their little ones God will bring in to know the land *(Judgment · Mercy · unconditional)*
+- [**#138**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=138) · [[Numbers#Numbers 15|Numbers 15:2]] — God will give Israel the land of their habitations *(Land · unconditional)*
+- [**#139**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=139) · [[Numbers#Numbers 18|Numbers 18:20]] — God Himself is Aaron's portion and inheritance among the children of Israel *(Inheritance · Presence · unconditional)*
+- [**#140**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=140) · [[Numbers#Numbers 21|Numbers 21:8]] — Everyone bitten who looks at the bronze serpent shall live *(Healing · Salvation · conditional)*
+- [**#141**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=141) · [[Numbers#Numbers 21|Numbers 21:34]] — God has delivered Og king of Bashan into Israel's hand *(Victory · unconditional)*
+- [**#142**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=142) · [[Numbers#Numbers 23|Numbers 23:19]] — God is not a man that He should lie; what He has spoken He will make good *(Faithfulness · unconditional)*
+- [**#143**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=143) · [[Numbers#Numbers 24|Numbers 24:17]] — A Star shall come out of Jacob; a Scepter shall rise out of Israel *(Messiah · Kingdom · unconditional)*
+- [**#144**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=144) · [[Numbers#Numbers 25|Numbers 25:12-13]] — God gives Phinehas His covenant of peace — an everlasting priesthood for him and his descendants *(Covenant · Priesthood · unconditional)*
+- [**#145**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=145) · [[Numbers#Numbers 27|Numbers 27:12-13]] — Moses will see the land and then be gathered to his people *(Prophecy · unconditional)*
+- [**#146**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=146) · [[Numbers#Numbers 35|Numbers 35:34]] — God dwells among the children of Israel *(Presence · unconditional)*
+
 ## Text (KJV)
 
 ### Numbers 1

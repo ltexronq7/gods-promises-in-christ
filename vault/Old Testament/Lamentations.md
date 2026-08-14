@@ -24,6 +24,14 @@ Lamentations puts hope in the middle of the wreckage, not after it. You don't ha
 ## Connections
 [[Jeremiah]]
 
+## Promises in Lamentations
+
+**3 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Lamentations) — 2 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#658**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=658) · [[Lamentations#Lamentations 3|Lamentations 3:22-23]] — Through the LORD's mercies we are not consumed, because His compassions fail not; they are new every morning; great is Your faithfulness *(Mercy · Faithfulness · unconditional)*
+- [**#659**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=659) · [[Lamentations#Lamentations 3|Lamentations 3:25]] — The LORD is good to those who wait for Him, to the soul who seeks Him *(Goodness · conditional)*
+- [**#660**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=660) · [[Lamentations#Lamentations 3|Lamentations 3:31-32]] — The Lord will not cast off forever; though He causes grief, yet He will show compassion according to the multitude of His mercies *(Mercy · Comfort · unconditional)*
+
 ## Text (KJV)
 
 ### Lamentations 1

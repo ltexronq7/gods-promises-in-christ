@@ -24,6 +24,14 @@ Paul never graduated from "chief of sinners" — grace kept him amazed. The day 
 ## Connections
 [[Deuteronomy]] · [[Luke]] · [[2 Timothy]]
 
+## Promises in 1 Timothy
+
+**3 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=1+Timothy) — 1 unconditional, 2 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#958**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=958) · [[1 Timothy#1 Timothy 1|1 Timothy 1:15]] — Christ Jesus came into the world to save sinners *(Salvation · unconditional)*
+- [**#959**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=959) · [[1 Timothy#1 Timothy 4|1 Timothy 4:8]] — Godliness is profitable for all things, having promise of the life that now is and of that which is to come *(Life · Blessing · conditional)*
+- [**#960**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=960) · [[1 Timothy#1 Timothy 6|1 Timothy 6:17-19]] — God gives us richly all things to enjoy; those rich in good works store up a good foundation for the time to come, that they may lay hold on eternal life *(Provision · Reward · conditional)*
+
 ## Text (KJV)
 
 ### 1 Timothy 1

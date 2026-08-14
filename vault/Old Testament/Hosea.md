@@ -24,6 +24,18 @@ God said "I desired mercy, and not sacrifice" — Jesus quoted it twice. Religio
 ## Connections
 [[Matthew]] · [[Romans]] · [[1 Corinthians]] · [[1 Peter]]
 
+## Promises in Hosea
+
+**7 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Hosea) — 5 unconditional, 2 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#714**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=714) · [[Hosea#Hosea 1|Hosea 1:10]] — The number of Israel shall be as the sand of the sea; where it was said, You are not My people, it shall be said, You are sons of the living God *(Restoration · Adoption · unconditional)*
+- [**#715**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=715) · [[Hosea#Hosea 2|Hosea 2:19-20]] — I will betroth you to Me forever in righteousness, justice, lovingkindness, mercy, and faithfulness — and you shall know the LORD *(Covenant · Love · unconditional)*
+- [**#716**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=716) · [[Hosea#Hosea 2|Hosea 2:23]] — I will sow her for Myself in the earth; I will have mercy on her who had not obtained mercy; I will say to those who were not My people, You are My people *(Mercy · Adoption · unconditional)*
+- [**#717**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=717) · [[Hosea#Hosea 6|Hosea 6:1-2]] — Come, let us return to the LORD; He has torn, but He will heal us; after two days He will revive us; on the third day He will raise us up *(Healing · Resurrection · conditional)*
+- [**#718**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=718) · [[Hosea#Hosea 11|Hosea 11:8-9]] — How can I give you up, Ephraim? My heart churns within Me; I will not execute the fierceness of My anger, for I am God and not man *(Mercy · unconditional)*
+- [**#719**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=719) · [[Hosea#Hosea 13|Hosea 13:14]] — I will ransom them from the power of the grave; I will redeem them from death. O Death, I will be your plagues! O Grave, I will be your destruction! *(Redemption · Resurrection · unconditional)*
+- [**#720**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=720) · [[Hosea#Hosea 14|Hosea 14:4]] — I will heal their backsliding; I will love them freely, for My anger has turned away from him *(Healing · Love · conditional)*
+
 ## Text (KJV)
 
 ### Hosea 1

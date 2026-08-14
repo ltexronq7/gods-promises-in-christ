@@ -24,6 +24,16 @@ Paul's final requests: the people, the coat, the books. Finish like that — lov
 ## Connections
 [[Exodus]] · [[1 Timothy]]
 
+## Promises in 2 Timothy
+
+**5 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=2+Timothy) — 3 unconditional, 2 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#961**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=961) · [[2 Timothy#2 Timothy 1|2 Timothy 1:12]] — He is able to keep what I have committed to Him until that Day *(Security · unconditional)*
+- [**#962**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=962) · [[2 Timothy#2 Timothy 2|2 Timothy 2:11-12]] — If we died with Him, we shall also live with Him; if we endure, we shall also reign with Him *(Life · Kingdom · conditional)*
+- [**#963**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=963) · [[2 Timothy#2 Timothy 2|2 Timothy 2:13]] — If we are faithless, He remains faithful; He cannot deny Himself *(Faithfulness · unconditional)*
+- [**#964**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=964) · [[2 Timothy#2 Timothy 4|2 Timothy 4:8]] — There is laid up for me the crown of righteousness, which the Lord, the righteous Judge, will give on that Day — and to all who have loved His appearing *(Reward · conditional)*
+- [**#965**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=965) · [[2 Timothy#2 Timothy 4|2 Timothy 4:18]] — The Lord will deliver me from every evil work and preserve me for His heavenly kingdom *(Deliverance · Kingdom · unconditional)*
+
 ## Text (KJV)
 
 ### 2 Timothy 1

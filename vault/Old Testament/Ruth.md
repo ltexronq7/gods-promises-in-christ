@@ -24,6 +24,12 @@ Ruth came to Boaz's field empty and left full. Bring your emptiness to the Redee
 ## Connections
 [[Judges]] · [[Matthew]]
 
+## Promises in Ruth
+
+**1 promise** from this book is indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Ruth) — 1 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#232**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=232) · [[Ruth#Ruth 2|Ruth 2:12]] — The LORD repay your work; a full reward be given you by the LORD, under whose wings you have come for refuge *(Reward · Refuge · unconditional)*
+
 ## Text (KJV)
 
 ### Ruth 1

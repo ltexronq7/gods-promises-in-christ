@@ -24,6 +24,23 @@ Christ is **greater than Solomon** (Matt 12:42) — wiser, richer in mercy, and 
 ## Connections
 [[Matthew]] · [[Luke]] · [[James]] · [[Romans]]
 
+## Promises in 1 Kings
+
+**12 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=1+Kings) — 8 unconditional, 4 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#254**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=254) · [[1 Kings#1 Kings 3|1 Kings 3:12]] — God gives Solomon a wise and understanding heart, so that there has been and will be none like him *(Wisdom · unconditional)*
+- [**#255**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=255) · [[1 Kings#1 Kings 3|1 Kings 3:13]] — God also gives Solomon what he did not ask — riches and honor above all kings of his days *(Provision · Blessing · unconditional)*
+- [**#256**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=256) · [[1 Kings#1 Kings 3|1 Kings 3:14]] — If Solomon walks in God's ways as David did, God will lengthen his days *(Life · conditional)*
+- [**#257**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=257) · [[1 Kings#1 Kings 6|1 Kings 6:12-13]] — If Solomon walks in God's statutes, God will perform His word to David, dwell among Israel, and not forsake them *(Covenant · Presence · conditional)*
+- [**#258**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=258) · [[1 Kings#1 Kings 8|1 Kings 8:56]] — Blessed be the LORD who has given rest to Israel; not one word has failed of all His good promise through Moses *(Faithfulness · unconditional)*
+- [**#259**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=259) · [[1 Kings#1 Kings 9|1 Kings 9:3]] — God has consecrated the temple; His eyes and heart will be there perpetually *(Presence · unconditional)*
+- [**#260**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=260) · [[1 Kings#1 Kings 9|1 Kings 9:4-5]] — If Solomon walks before God in integrity, He will establish the throne of his kingdom over Israel forever *(Kingdom · conditional)*
+- [**#261**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=261) · [[1 Kings#1 Kings 11|1 Kings 11:13]] — For David's sake God will not tear away the whole kingdom; one tribe will remain for David and Jerusalem *(Mercy · Kingdom · unconditional)*
+- [**#262**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=262) · [[1 Kings#1 Kings 11|1 Kings 11:38]] — If Jeroboam heeds God's commands, God will be with him and build him an enduring house as He built for David *(Kingdom · conditional)*
+- [**#263**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=263) · [[1 Kings#1 Kings 17|1 Kings 17:14]] — The bin of flour shall not be used up nor the jar of oil run dry until the LORD sends rain *(Provision · unconditional)*
+- [**#264**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=264) · [[1 Kings#1 Kings 18|1 Kings 18:1]] — Go present yourself to Ahab, and I will send rain on the earth *(Provision · unconditional)*
+- [**#265**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=265) · [[1 Kings#1 Kings 19|1 Kings 19:18]] — God has reserved seven thousand in Israel whose knees have not bowed to Baal *(Remnant · Faithfulness · unconditional)*
+
 ## Text (KJV)
 
 ### 1 Kings 1

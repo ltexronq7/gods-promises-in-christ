@@ -24,6 +24,19 @@ Daniel purposed in his heart before the pressure came. Convictions made in the c
 ## Connections
 [[Matthew]] · [[Mark]] · [[Revelation]] · [[Hebrews]] · [[2 Thessalonians]]
 
+## Promises in Daniel
+
+**8 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Daniel) — 8 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#706**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=706) · [[Daniel#Daniel 2|Daniel 2:44]] — In the days of these kings the God of heaven will set up a kingdom which shall never be destroyed; it shall stand forever *(Kingdom · unconditional)*
+- [**#707**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=707) · [[Daniel#Daniel 7|Daniel 7:13-14]] — One like the Son of Man came to the Ancient of Days and was given dominion, glory, and a kingdom that all peoples should serve Him — an everlasting dominion *(Messiah · Kingdom · unconditional)*
+- [**#708**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=708) · [[Daniel#Daniel 7|Daniel 7:27]] — The kingdom and dominion shall be given to the people of the saints of the Most High; His kingdom is an everlasting kingdom *(Kingdom · Inheritance · unconditional)*
+- [**#709**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=709) · [[Daniel#Daniel 9|Daniel 9:24]] — Seventy weeks are determined to finish transgression, make an end of sins, make reconciliation for iniquity, and bring in everlasting righteousness *(Redemption · Prophecy · unconditional)*
+- [**#710**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=710) · [[Daniel#Daniel 12|Daniel 12:1]] — At that time Michael shall stand up, and your people shall be delivered — everyone found written in the book *(Deliverance · unconditional)*
+- [**#711**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=711) · [[Daniel#Daniel 12|Daniel 12:2]] — Many of those who sleep in the dust of the earth shall awake — some to everlasting life, some to shame and everlasting contempt *(Resurrection · Judgment · unconditional)*
+- [**#712**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=712) · [[Daniel#Daniel 12|Daniel 12:3]] — Those who are wise shall shine like the brightness of the firmament, and those who turn many to righteousness like the stars forever *(Reward · Glory · unconditional)*
+- [**#713**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=713) · [[Daniel#Daniel 12|Daniel 12:13]] — You shall rest, and will arise to your inheritance at the end of the days *(Resurrection · Inheritance · unconditional)*
+
 ## Text (KJV)
 
 ### Daniel 1

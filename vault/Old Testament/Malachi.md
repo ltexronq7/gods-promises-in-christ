@@ -24,6 +24,19 @@ Israel's last word from God for 400 years was a call to wholehearted worship ove
 ## Connections
 [[Matthew]] · [[Mark]] · [[Luke]] · [[Romans]]
 
+## Promises in Malachi
+
+**8 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Malachi) — 5 unconditional, 3 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#769**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=769) · [[Malachi#Malachi 1|Malachi 1:11]] — From the rising of the sun to its going down My name shall be great among the Gentiles; in every place incense shall be offered to My name *(Worship · Kingdom · unconditional)*
+- [**#770**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=770) · [[Malachi#Malachi 3|Malachi 3:1]] — Behold, I send My messenger, and he will prepare the way before Me; and the Lord whom you seek will suddenly come to His temple *(Messiah · Prophecy · unconditional)*
+- [**#771**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=771) · [[Malachi#Malachi 3|Malachi 3:6]] — I am the LORD, I do not change; therefore you are not consumed, O sons of Jacob *(Faithfulness · Mercy · unconditional)*
+- [**#772**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=772) · [[Malachi#Malachi 3|Malachi 3:7]] — Return to Me, and I will return to you *(Restoration · conditional)*
+- [**#773**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=773) · [[Malachi#Malachi 3|Malachi 3:10-11]] — Bring all the tithes into the storehouse, and try Me in this — if I will not open for you the windows of heaven and pour out such blessing that there will not be room enough to receive it; I will rebuke the devourer for your sakes *(Provision · Blessing · conditional)*
+- [**#774**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=774) · [[Malachi#Malachi 3|Malachi 3:16-17]] — A book of remembrance was written for those who fear the LORD; they shall be Mine on the day I make them My jewels, and I will spare them *(Reward · Mercy · unconditional)*
+- [**#775**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=775) · [[Malachi#Malachi 4|Malachi 4:2]] — To you who fear My name the Sun of Righteousness shall arise with healing in His wings *(Messiah · Healing · conditional)*
+- [**#776**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=776) · [[Malachi#Malachi 4|Malachi 4:5-6]] — Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD, and he will turn the hearts of the fathers to the children *(Prophecy · Restoration · unconditional)*
+
 ## Text (KJV)
 
 ### Malachi 1

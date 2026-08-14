@@ -24,6 +24,10 @@ Christ is the **greater Advocate** — Esther risked her life to intercede for h
 ## Connections
 [[Ezra]]
 
+## Promises in Esther
+
+The promise index does not currently include entries from this book.
+
 ## Text (KJV)
 
 ### Esther 1

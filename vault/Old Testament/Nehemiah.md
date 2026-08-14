@@ -24,6 +24,12 @@ Nehemiah prayed for four months before he spoke to the king for four minutes. Th
 ## Connections
 [[Ezra]]
 
+## Promises in Nehemiah
+
+**1 promise** from this book is indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Nehemiah) — 0 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#288**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=288) · [[Nehemiah#Nehemiah 1|Nehemiah 1:8-9]] — If you return to Me and keep My commandments, though you were cast to the farthest heavens, I will gather you to the place I have chosen *(Restoration · conditional)*
+
 ## Text (KJV)
 
 ### Nehemiah 1

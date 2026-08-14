@@ -20,6 +20,8 @@ The `vault/` folder is a complete KJV Bible organized as an Obsidian vault. Ever
 
 To experience it as intended, download the repository, open Obsidian, choose **Open folder as vault**, and select the `vault` folder. Then open Graph View. No Obsidian account or third-party plugin is required.
 
+Every book note also carries a **Promises in \<Book\>** section listing the promises indexed from that book. Each entry links down to the chapter in the same note, so the index is usable inside Obsidian and not only on the website, and each promise number links to its permanent address on the live site. The website closes the same loop from the other side: the reader names the indexed promises that fall in the chapter you are reading.
+
 The vault's study introductions express a Christ-centered evangelical reading of Scripture. The biblical text and the editorial study material are kept visually distinct so readers can evaluate the connections from Scripture itself.
 
 ## What's inside
@@ -33,7 +35,13 @@ The vault's study introductions express a Christ-centered evangelical reading of
 | `data/SCHEMA.json` | Data dictionary — what every field means |
 | `index.html` | Main public ministry site with promise search, full-KJV search, Bible reader, and vault navigation |
 | `assets/` | Website styles and browser code |
-| `data/kjv-web.json` | Generated browser-friendly KJV and Christ-in-each-book study data |
+| `data/kjv-web.json` | The whole KJV and Christ-in-each-book study data in one file, for anyone who wants a single download |
+| `data/bible/` | The same text split one file per book, plus a small index — this is what the website loads on demand |
+| `scripts/verify_promises.py` | Checks every promise against the KJV text and the derived files |
+| `scripts/build_derived.py` | Rebuilds `promises.csv`, `books.json`, and `categories.json` from `promises.json` |
+| `scripts/build_vault_promises.py` | Writes each book's promises into that book's vault note |
+| `scripts/generate_web_data.py` | Rebuilds `kjv-web.json` from the Obsidian vault notes |
+| `scripts/check_source_workbook.py` | Compares the original spreadsheet against `promises.json` |
 | `sources/` | The original master-index spreadsheet, kept for provenance |
 | `vault/` | Complete KJV book notes, Christ-centered introductions, hubs, and cross-links |
 | `CONTRIBUTING.md` | How to propose fixes and additions |
@@ -81,13 +89,81 @@ Fields:
 
 Visit the [live searchable site](https://ltexronq7.github.io/gods-promises-in-christ/). Search the curated promises by word, theme, or book; switch to **Full KJV** to search all 31,102 verses; or use the Bible reader to browse every book and chapter.
 
+Searches report how many matches there really are — searching the KJV for "lord" says *6,782 verses*, not a rounded-off "200+" — and results are drawn a page at a time, so nothing is out of reach. Where a result set is large enough that reading it all is unlikely to be what you want, the page says how many are left and suggests narrowing the search.
+
 ## Methodology & editorial decisions
 
 - **Translation basis:** Promise summaries are original paraphrases; references follow **NKJV** versification.
 - **What counts as a "promise":** A declared commitment, oath, or assured word from God (or His messenger) about what He will do. Some entries include pronouncements of judgment where God pledges a specific outcome.
 - **Conditional vs. unconditional:** "Conditional" marks promises with a stated human condition ("if you obey…"). Absence of a stated condition is marked "unconditional" — this is a classification of the text's *form*, not a theological claim about God's sovereignty.
 - **Compound themes:** Where a promise carries more than one theme, all are listed in `categories`; the original combined label is kept in `category_raw`.
+- **Volumes.** The `volume` field records which compilation pass an entry came from. Volume 1 laid the canonical spine at whole-promise granularity across all 66 books (816 entries). Volume 2 added four clause-level expansion sweeps (230 entries): Psalms exhaustively, Isaiah 40–66 clause-split, Deuteronomy 28 blessing by blessing, and the Jeremiah and Ezekiel restoration oracles.
+- **No double counting.** Where a Volume 1 block entry was later split into clauses, the block was removed in favour of its children — so Deuteronomy 28:3-6 and 28:11-12 no longer appear as blocks, and their individual verses do.
+- **Books with no entries.** Esther, Song of Solomon, Philemon, and 3 John contain no direct divine promise by the definition above. This is why 62 books are represented rather than 66: `books.json` lists only books with at least one entry. Their vault notes say plainly that the index has nothing from them, so the absence reads as a finding rather than an oversight.
 - Reasonable people will classify some edge cases differently. Issues and pull requests are welcome.
+
+## Provenance
+
+The dataset was compiled in a spreadsheet, which is kept unchanged in [`sources/`](sources/) so the published data can be traced back to where it came from.
+
+**`data/promises.json` is the source of truth.** Everything else is generated from it, and the spreadsheet is *not* updated when the JSON changes — it is a record of the original compilation, not a working file. Edit the JSON.
+
+You can check for yourself how far the two have moved apart:
+
+```bash
+python3 scripts/check_source_workbook.py
+```
+
+It reads the workbook with the Python standard library alone and compares all 1,046 entries field by field. As of this commit the two agree completely — every promise, reference, speaker, recipient, theme, conditional flag, and volume. It is deliberately not part of CI, because once `promises.json` legitimately moves ahead of the original compilation, a failing check would be noise rather than a signal.
+
+One difference is intentional and lives outside the compared fields: the spreadsheet's book totals list the book of Psalms as "Psalm", while the dataset uses the canonical "Psalms" so records join cleanly to the Bible data and the vault. Citations still read `Psalm 23:1`, which is how a single psalm is cited.
+
+## Linking to a passage or a promise
+
+Every view on the site has its own address, so anything you are looking at can be pasted into a group chat, a sermon outline, a lesson handout, or a bulletin.
+
+| Link | Opens |
+|------|-------|
+| `?read=Isaiah&ch=53` | Isaiah 53 in the KJV reader |
+| `?read=Jude` | Jude 1 (chapter 1 is assumed) |
+| `?promise=55` | Promise #55 on its own |
+| `?q=shepherd` | A search of the promise index for "shepherd" |
+| `?q=shepherd&theme=Messiah` | The same search, narrowed to one theme |
+| `?q=everlasting+life&scope=kjv&in=John` | A full-text KJV search inside John |
+
+The reader has a **Copy link to this chapter** button, and every promise number and verse reference in the results is an ordinary link — so right-click and "copy link address" works the way it does anywhere else, and links open in a new tab normally.
+
+Because `id` values never change, `?promise=55` is a permanent address. A citation printed in a handout today will still open the same promise years from now.
+
+Back and forward behave as you would expect, and an unknown book, chapter, theme, or promise number falls back to the ordinary view rather than an error.
+
+## How the site loads
+
+The site is plain HTML, CSS, and JavaScript with no build step and no dependencies, but it does not make you download the whole Bible to read one page.
+
+Landing on the site fetches the promise index and a small book index — about **70 KB compressed**. Everything on the front page works immediately. After that, text arrives only when you ask for it:
+
+- Opening a chapter fetches just that book (the largest, Psalms, is 230 KB uncompressed).
+- Searching the full KJV *within one book* fetches only that book.
+- Searching the full KJV *across the whole Bible* is the one action that needs everything, so it fetches the remaining books once, with a progress indicator, and caches them for the rest of the visit.
+
+A visitor who reads the promises and a few chapters never downloads the rest of Scripture. Books are cached in memory once loaded, so moving between chapters costs no further requests.
+
+Both `data/kjv-web.json` and `data/bible/` are generated from `vault/` by the same script, so the single-file and split forms cannot drift apart; CI fails if either is out of date.
+
+## Verification
+
+The index is machine-checked against the full KJV text shipped in this repository:
+
+```bash
+python3 scripts/verify_promises.py
+```
+
+Every promise is verified for a unique and permanent `id`, a `reference` string that agrees with its parsed `book`/`chapter`/`verse_start`/`verse_end` fields, a book name that resolves to a real book of the Bible, a chapter and verse range that actually exists in that book, well-formed themes and classification fields, and agreement with `promises.csv`, `books.json`, and `categories.json`.
+
+All 1,046 promises currently pass with no errors. The check runs on every pull request, so a bad reference can't land silently.
+
+One note on versification: reference numbering follows the **NKJV**, while the text checked against is the **KJV**. The two share the same chapter and verse numbering throughout the passages indexed here, so the bounds check is sound — but the KJV wording will differ from the NKJV wording a summary was based on, which is expected and is why wording differences are reported as warnings rather than errors.
 
 ## Use it in your own project
 

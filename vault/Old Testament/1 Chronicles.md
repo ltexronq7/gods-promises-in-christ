@@ -24,6 +24,19 @@ Chronicles was written to discouraged returnees to remind them who they were. Wh
 ## Connections
 [[2 Samuel]] · [[Matthew]]
 
+## Promises in 1 Chronicles
+
+**8 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=1+Chronicles) — 8 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#272**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=272) · [[1 Chronicles#1 Chronicles 17|1 Chronicles 17:8]] — God will make David a name like the name of the great men of the earth *(Blessing · unconditional)*
+- [**#273**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=273) · [[1 Chronicles#1 Chronicles 17|1 Chronicles 17:9]] — God will ordain a place for Israel and plant them; they shall be moved no more *(Land · Peace · unconditional)*
+- [**#274**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=274) · [[1 Chronicles#1 Chronicles 17|1 Chronicles 17:10]] — God will subdue all David's enemies and build him a house *(Victory · Covenant · unconditional)*
+- [**#275**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=275) · [[1 Chronicles#1 Chronicles 17|1 Chronicles 17:11-12]] — God will raise up David's seed, establish his kingdom, and establish his throne forever *(Kingdom · Messiah · unconditional)*
+- [**#276**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=276) · [[1 Chronicles#1 Chronicles 17|1 Chronicles 17:13]] — I will be his Father, and he shall be My son; I will not take My mercy from him *(Covenant · Mercy · unconditional)*
+- [**#277**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=277) · [[1 Chronicles#1 Chronicles 17|1 Chronicles 17:14]] — God will settle him in His house and kingdom forever; his throne shall be established forevermore *(Kingdom · unconditional)*
+- [**#278**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=278) · [[1 Chronicles#1 Chronicles 22|1 Chronicles 22:9-10]] — Solomon, a man of rest, will build God's house; God will give Israel peace in his days and establish his throne forever *(Peace · Kingdom · unconditional)*
+- [**#279**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=279) · [[1 Chronicles#1 Chronicles 28|1 Chronicles 28:20]] — The LORD God will be with Solomon; He will not leave nor forsake him until the temple work is finished *(Presence · Faithfulness · unconditional)*
+
 ## Text (KJV)
 
 ### 1 Chronicles 1

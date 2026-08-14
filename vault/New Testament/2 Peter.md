@@ -24,6 +24,16 @@ Scoffers read God's patience as absence. Read it correctly: every day the Lord d
 ## Connections
 [[Genesis]] · [[Numbers]] · [[Proverbs]] · [[Jude]]
 
+## Promises in 2 Peter
+
+**5 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=2+Peter) — 4 unconditional, 1 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#1004**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1004) · [[2 Peter#2 Peter 1|2 Peter 1:4]] — He has given us exceedingly great and precious promises, that through these you may be partakers of the divine nature *(Sanctification · Promises · unconditional)*
+- [**#1005**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1005) · [[2 Peter#2 Peter 1|2 Peter 1:10-11]] — If you do these things you will never stumble, and an entrance will be supplied to you abundantly into the everlasting kingdom of our Lord Jesus Christ *(Kingdom · Perseverance · conditional)*
+- [**#1006**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1006) · [[2 Peter#2 Peter 2|2 Peter 2:9]] — The Lord knows how to deliver the godly out of temptations and to reserve the unjust under punishment for the day of judgment *(Deliverance · Judgment · unconditional)*
+- [**#1007**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1007) · [[2 Peter#2 Peter 3|2 Peter 3:9]] — The Lord is not slack concerning His promise, but is longsuffering toward us, not willing that any should perish but that all should come to repentance *(Mercy · Faithfulness · unconditional)*
+- [**#1008**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=1008) · [[2 Peter#2 Peter 3|2 Peter 3:13]] — We, according to His promise, look for new heavens and a new earth in which righteousness dwells *(New Creation · unconditional)*
+
 ## Text (KJV)
 
 ### 2 Peter 1

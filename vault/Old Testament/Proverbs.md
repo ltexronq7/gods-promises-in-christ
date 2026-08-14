@@ -24,6 +24,27 @@ Lean not on your own understanding — that lean is the posture of most of your 
 ## Connections
 [[James]] · [[Romans]] · [[Hebrews]] · [[1 Peter]]
 
+## Promises in Proverbs
+
+**16 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Proverbs) — 0 unconditional, 16 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#423**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=423) · [[Proverbs#Proverbs 1|Proverbs 1:23]] — Turn at my rebuke; surely I will pour out my spirit on you; I will make my words known to you *(Holy Spirit · Wisdom · conditional)*
+- [**#424**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=424) · [[Proverbs#Proverbs 1|Proverbs 1:33]] — Whoever listens to me will dwell safely and be secure, without fear of evil *(Peace · Protection · conditional)*
+- [**#425**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=425) · [[Proverbs#Proverbs 2|Proverbs 2:6-7]] — The LORD gives wisdom; from His mouth come knowledge and understanding; He is a shield to those who walk uprightly *(Wisdom · Protection · conditional)*
+- [**#426**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=426) · [[Proverbs#Proverbs 3|Proverbs 3:5-6]] — Trust in the LORD with all your heart; in all your ways acknowledge Him, and He shall direct your paths *(Guidance · conditional)*
+- [**#427**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=427) · [[Proverbs#Proverbs 3|Proverbs 3:9-10]] — Honor the LORD with your possessions and the firstfruits of your increase; so your barns will be filled with plenty *(Provision · conditional)*
+- [**#428**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=428) · [[Proverbs#Proverbs 3|Proverbs 3:24]] — When you lie down, you will not be afraid; your sleep will be sweet *(Peace · conditional)*
+- [**#429**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=429) · [[Proverbs#Proverbs 3|Proverbs 3:33]] — The curse of the LORD is on the house of the wicked, but He blesses the home of the just *(Blessing · Judgment · conditional)*
+- [**#430**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=430) · [[Proverbs#Proverbs 8|Proverbs 8:17]] — I love those who love me, and those who seek me diligently will find me *(Wisdom · conditional)*
+- [**#431**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=431) · [[Proverbs#Proverbs 8|Proverbs 8:35]] — Whoever finds me finds life, and obtains favor from the LORD *(Life · Grace · conditional)*
+- [**#432**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=432) · [[Proverbs#Proverbs 10|Proverbs 10:3]] — The LORD will not allow the righteous soul to famish, but He casts away the desire of the wicked *(Provision · conditional)*
+- [**#433**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=433) · [[Proverbs#Proverbs 15|Proverbs 15:29]] — The LORD is far from the wicked, but He hears the prayer of the righteous *(Prayer · conditional)*
+- [**#434**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=434) · [[Proverbs#Proverbs 16|Proverbs 16:7]] — When a man's ways please the LORD, He makes even his enemies to be at peace with him *(Peace · conditional)*
+- [**#435**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=435) · [[Proverbs#Proverbs 18|Proverbs 18:10]] — The name of the LORD is a strong tower; the righteous run to it and are safe *(Refuge · Protection · conditional)*
+- [**#436**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=436) · [[Proverbs#Proverbs 22|Proverbs 22:4]] — By humility and the fear of the LORD are riches and honor and life *(Blessing · Life · conditional)*
+- [**#437**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=437) · [[Proverbs#Proverbs 28|Proverbs 28:13]] — He who covers his sins will not prosper, but whoever confesses and forsakes them will have mercy *(Mercy · conditional)*
+- [**#438**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=438) · [[Proverbs#Proverbs 30|Proverbs 30:5]] — Every word of God is pure; He is a shield to those who put their trust in Him *(Protection · Faithfulness · conditional)*
+
 ## Text (KJV)
 
 ### Proverbs 1

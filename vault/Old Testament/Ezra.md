@@ -24,6 +24,12 @@ Ezra prepared his heart to seek, to do, and to teach — in that order. Don't te
 ## Connections
 [[Nehemiah]] · [[Haggai]] · [[Zechariah]] · [[2 Chronicles]]
 
+## Promises in Ezra
+
+**1 promise** from this book is indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Ezra) — 1 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#287**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=287) · [[Ezra#Ezra 1|Ezra 1:1-2]] — The LORD stirred Cyrus to fulfill the word by Jeremiah: the house of the LORD shall be built at Jerusalem *(Restoration · Faithfulness · unconditional)*
+
 ## Text (KJV)
 
 ### Ezra 1

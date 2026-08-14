@@ -24,6 +24,18 @@ Revival in Chronicles always starts the same way: humble yourself, pray, seek Hi
 ## Connections
 [[Matthew]] · [[Ezra]]
 
+## Promises in 2 Chronicles
+
+**7 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=2+Chronicles) — 3 unconditional, 4 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#280**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=280) · [[2 Chronicles#2 Chronicles 1|2 Chronicles 1:12]] — Wisdom and knowledge are granted to Solomon, and God will give riches, wealth, and honor beyond any king before or after *(Wisdom · Provision · unconditional)*
+- [**#281**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=281) · [[2 Chronicles#2 Chronicles 7|2 Chronicles 7:14]] — If My people humble themselves, pray, seek My face, and turn from their wicked ways, I will hear from heaven, forgive their sin, and heal their land *(Restoration · Healing · Prayer · conditional)*
+- [**#282**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=282) · [[2 Chronicles#2 Chronicles 7|2 Chronicles 7:15-16]] — God's eyes will be open and ears attentive to prayer made in this place; His eyes and heart will be there perpetually *(Prayer · Presence · unconditional)*
+- [**#283**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=283) · [[2 Chronicles#2 Chronicles 16|2 Chronicles 16:9]] — The eyes of the LORD run to and fro throughout the whole earth to show Himself strong on behalf of those whose heart is loyal to Him *(Strength · Presence · conditional)*
+- [**#284**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=284) · [[2 Chronicles#2 Chronicles 20|2 Chronicles 20:15-17]] — The battle is not yours but God's; you will not need to fight — position yourselves, stand still, and see the salvation of the LORD *(Victory · Deliverance · unconditional)*
+- [**#285**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=285) · [[2 Chronicles#2 Chronicles 30|2 Chronicles 30:9]] — If you return to the LORD, your brethren will find compassion, and He will not turn His face from you, for He is gracious and merciful *(Mercy · Restoration · conditional)*
+- [**#286**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=286) · [[2 Chronicles#2 Chronicles 33|2 Chronicles 33:12-13]] — When Manasseh humbled himself greatly and prayed, God received his entreaty and restored him to his kingdom *(Mercy · Restoration · conditional)*
+
 ## Text (KJV)
 
 ### 2 Chronicles 1

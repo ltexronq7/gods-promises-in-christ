@@ -24,6 +24,14 @@ Edom's sin was standing on the other side while a brother bled. Neutrality towar
 ## Connections
 [[Jeremiah]]
 
+## Promises in Obadiah
+
+**3 promises** from this book are indexed in [the complete index of God's promises](https://ltexronq7.github.io/gods-promises-in-christ/?in=Obadiah) — 3 unconditional, 0 conditional. Promise numbers are permanent, so they can be cited.
+
+- [**#730**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=730) · [[Obadiah#Obadiah 1|Obadiah 1:15]] — The day of the LORD is near upon all nations; as you have done, it shall be done to you *(Judgment · Justice · unconditional)*
+- [**#731**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=731) · [[Obadiah#Obadiah 1|Obadiah 1:17]] — On Mount Zion there shall be deliverance, and there shall be holiness; the house of Jacob shall possess their possessions *(Deliverance · Inheritance · unconditional)*
+- [**#732**](https://ltexronq7.github.io/gods-promises-in-christ/?promise=732) · [[Obadiah#Obadiah 1|Obadiah 1:21]] — Saviors shall come to Mount Zion to judge the mountains of Esau, and the kingdom shall be the LORD's *(Kingdom · unconditional)*
+
 ## Text (KJV)
 
 ### Obadiah 1
