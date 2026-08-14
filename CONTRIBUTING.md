@@ -10,7 +10,7 @@ Thank you for helping strengthen this index. Everything here is released into th
 
 ## Ground rules for edits
 
-- **`data/promises.json` is the source of truth.** Edit there; the CSV and indexes are regenerated from it.
+- **`data/promises.json` is the source of truth.** Edit there; the CSV and indexes are regenerated from it. The spreadsheet in `sources/` is the original compilation kept for provenance — it is not updated when the JSON changes, so please don't edit it.
 - **Never reuse an `id`.** IDs are permanent so people can cite `promise #55` forever. New entries get the next unused number.
 - **Keep summaries as original paraphrase** — do not paste full copyrighted verse text into the data.
 - **References follow NKJV versification** in `Book Chapter:Verse` form.

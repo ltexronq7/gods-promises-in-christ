@@ -41,6 +41,7 @@ The vault's study introductions express a Christ-centered evangelical reading of
 | `scripts/build_derived.py` | Rebuilds `promises.csv`, `books.json`, and `categories.json` from `promises.json` |
 | `scripts/build_vault_promises.py` | Writes each book's promises into that book's vault note |
 | `scripts/generate_web_data.py` | Rebuilds `kjv-web.json` from the Obsidian vault notes |
+| `scripts/check_source_workbook.py` | Compares the original spreadsheet against `promises.json` |
 | `sources/` | The original master-index spreadsheet, kept for provenance |
 | `vault/` | Complete KJV book notes, Christ-centered introductions, hubs, and cross-links |
 | `CONTRIBUTING.md` | How to propose fixes and additions |
@@ -96,7 +97,26 @@ Searches report how many matches there really are — searching the KJV for "lor
 - **What counts as a "promise":** A declared commitment, oath, or assured word from God (or His messenger) about what He will do. Some entries include pronouncements of judgment where God pledges a specific outcome.
 - **Conditional vs. unconditional:** "Conditional" marks promises with a stated human condition ("if you obey…"). Absence of a stated condition is marked "unconditional" — this is a classification of the text's *form*, not a theological claim about God's sovereignty.
 - **Compound themes:** Where a promise carries more than one theme, all are listed in `categories`; the original combined label is kept in `category_raw`.
+- **Volumes.** The `volume` field records which compilation pass an entry came from. Volume 1 laid the canonical spine at whole-promise granularity across all 66 books (816 entries). Volume 2 added four clause-level expansion sweeps (230 entries): Psalms exhaustively, Isaiah 40–66 clause-split, Deuteronomy 28 blessing by blessing, and the Jeremiah and Ezekiel restoration oracles.
+- **No double counting.** Where a Volume 1 block entry was later split into clauses, the block was removed in favour of its children — so Deuteronomy 28:3-6 and 28:11-12 no longer appear as blocks, and their individual verses do.
+- **Books with no entries.** Esther, Song of Solomon, Philemon, and 3 John contain no direct divine promise by the definition above. This is why 62 books are represented rather than 66: `books.json` lists only books with at least one entry. Their vault notes say plainly that the index has nothing from them, so the absence reads as a finding rather than an oversight.
 - Reasonable people will classify some edge cases differently. Issues and pull requests are welcome.
+
+## Provenance
+
+The dataset was compiled in a spreadsheet, which is kept unchanged in [`sources/`](sources/) so the published data can be traced back to where it came from.
+
+**`data/promises.json` is the source of truth.** Everything else is generated from it, and the spreadsheet is *not* updated when the JSON changes — it is a record of the original compilation, not a working file. Edit the JSON.
+
+You can check for yourself how far the two have moved apart:
+
+```bash
+python3 scripts/check_source_workbook.py
+```
+
+It reads the workbook with the Python standard library alone and compares all 1,046 entries field by field. As of this commit the two agree completely — every promise, reference, speaker, recipient, theme, conditional flag, and volume. It is deliberately not part of CI, because once `promises.json` legitimately moves ahead of the original compilation, a failing check would be noise rather than a signal.
+
+One difference is intentional and lives outside the compared fields: the spreadsheet's book totals list the book of Psalms as "Psalm", while the dataset uses the canonical "Psalms" so records join cleanly to the Bible data and the vault. Citations still read `Psalm 23:1`, which is how a single psalm is cited.
 
 ## Linking to a passage or a promise
 

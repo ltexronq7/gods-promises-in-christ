@@ -14,6 +14,6 @@
     "categories": "Array of strings. Normalized theme tags.",
     "category_raw": "String. Original combined theme label as authored (e.g. 'Nation / Kingdom').",
     "conditional": "Boolean. true = a human condition is stated in the text.",
-    "volume": "Integer. Source compilation volume (1 or 2)."
+    "volume": "Integer. Which compilation pass produced the entry. 1 = the original spine, at whole-promise granularity across all 66 books. 2 = the clause-level expansion sweeps (Psalms, Isaiah 40-66, Deuteronomy 28, and the Jeremiah/Ezekiel restoration oracles)."
   }
 }
